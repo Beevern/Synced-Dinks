@@ -1,0 +1,1306 @@
+{
+ "title": "Dead Or Alive",
+ "artist": "Stileto",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 6.523,
+   "end": 10.18,
+   "words": [
+    {
+     "text": "What",
+     "start": 6.623,
+     "end": 6.774
+    },
+    {
+     "text": "did",
+     "start": 6.774,
+     "end": 6.931
+    },
+    {
+     "text": "I",
+     "start": 6.931,
+     "end": 7.105
+    },
+    {
+     "text": "do",
+     "start": 7.105,
+     "end": 8.435
+    },
+    {
+     "text": "falling",
+     "start": 8.435,
+     "end": 8.766
+    },
+    {
+     "text": "for",
+     "start": 8.766,
+     "end": 10.281
+    },
+    {
+     "text": "you",
+     "start": 10.281,
+     "end": 10.331
+    }
+   ]
+  },
+  {
+   "start": 10.18,
+   "end": 14.018,
+   "words": [
+    {
+     "text": "Fuck",
+     "start": 10.28,
+     "end": 10.524
+    },
+    {
+     "text": "up",
+     "start": 10.524,
+     "end": 10.704
+    },
+    {
+     "text": "my",
+     "start": 10.704,
+     "end": 10.82
+    },
+    {
+     "text": "life",
+     "start": 10.82,
+     "end": 11.349
+    },
+    {
+     "text": "you",
+     "start": 11.349,
+     "end": 11.401
+    },
+    {
+     "text": "messed",
+     "start": 11.401,
+     "end": 11.639
+    },
+    {
+     "text": "it",
+     "start": 11.639,
+     "end": 11.861
+    },
+    {
+     "text": "up",
+     "start": 11.861,
+     "end": 12.074
+    },
+    {
+     "text": "like",
+     "start": 12.074,
+     "end": 12.254
+    },
+    {
+     "text": "times",
+     "start": 12.254,
+     "end": 14.018
+    }
+   ]
+  },
+  {
+   "start": 14.018,
+   "end": 17.75,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 14.118,
+     "end": 14.338
+    },
+    {
+     "text": "it's",
+     "start": 14.338,
+     "end": 14.64
+    },
+    {
+     "text": "sad",
+     "start": 14.64,
+     "end": 15.871
+    },
+    {
+     "text": "but",
+     "start": 15.871,
+     "end": 16.033
+    },
+    {
+     "text": "now",
+     "start": 16.033,
+     "end": 16.202
+    },
+    {
+     "text": "I",
+     "start": 16.202,
+     "end": 16.266
+    },
+    {
+     "text": "can",
+     "start": 16.266,
+     "end": 16.533
+    },
+    {
+     "text": "laugh",
+     "start": 16.533,
+     "end": 17.75
+    }
+   ]
+  },
+  {
+   "start": 17.75,
+   "end": 21.669,
+   "words": [
+    {
+     "text": "You've",
+     "start": 17.85,
+     "end": 18.03
+    },
+    {
+     "text": "had",
+     "start": 18.03,
+     "end": 18.164
+    },
+    {
+     "text": "your",
+     "start": 18.164,
+     "end": 18.384
+    },
+    {
+     "text": "fun",
+     "start": 18.384,
+     "end": 18.828
+    },
+    {
+     "text": "now",
+     "start": 18.828,
+     "end": 19.069
+    },
+    {
+     "text": "you'll",
+     "start": 19.069,
+     "end": 19.168
+    },
+    {
+     "text": "be",
+     "start": 19.168,
+     "end": 19.319
+    },
+    {
+     "text": "getting",
+     "start": 19.319,
+     "end": 19.615
+    },
+    {
+     "text": "a",
+     "start": 19.615,
+     "end": 19.689
+    },
+    {
+     "text": "taste",
+     "start": 19.689,
+     "end": 19.888
+    },
+    {
+     "text": "of",
+     "start": 19.888,
+     "end": 20.062
+    },
+    {
+     "text": "my",
+     "start": 20.062,
+     "end": 20.191
+    },
+    {
+     "text": "love",
+     "start": 20.191,
+     "end": 21.669
+    }
+   ]
+  },
+  {
+   "start": 21.669,
+   "end": 25.575,
+   "words": [
+    {
+     "text": "So",
+     "start": 21.769,
+     "end": 22.146
+    },
+    {
+     "text": "now",
+     "start": 22.146,
+     "end": 22.373
+    },
+    {
+     "text": "I'm",
+     "start": 22.373,
+     "end": 22.599
+    },
+    {
+     "text": "asking",
+     "start": 22.599,
+     "end": 23.074
+    },
+    {
+     "text": "you",
+     "start": 23.074,
+     "end": 23.307
+    },
+    {
+     "text": "for",
+     "start": 23.307,
+     "end": 23.533
+    },
+    {
+     "text": "one",
+     "start": 23.533,
+     "end": 23.915
+    },
+    {
+     "text": "last",
+     "start": 23.915,
+     "end": 24.485
+    },
+    {
+     "text": "favour",
+     "start": 24.485,
+     "end": 25.575
+    }
+   ]
+  },
+  {
+   "start": 25.575,
+   "end": 29.331,
+   "words": [
+    {
+     "text": "You've",
+     "start": 25.675,
+     "end": 25.873
+    },
+    {
+     "text": "got",
+     "start": 25.873,
+     "end": 26.186
+    },
+    {
+     "text": "an",
+     "start": 26.186,
+     "end": 26.343
+    },
+    {
+     "text": "enemy",
+     "start": 26.343,
+     "end": 27.115
+    },
+    {
+     "text": "inside",
+     "start": 27.115,
+     "end": 27.777
+    },
+    {
+     "text": "your",
+     "start": 27.777,
+     "end": 27.958
+    },
+    {
+     "text": "blood",
+     "start": 27.958,
+     "end": 29.331
+    }
+   ]
+  },
+  {
+   "start": 29.331,
+   "end": 33.07,
+   "words": [
+    {
+     "text": "Could",
+     "start": 29.431,
+     "end": 29.588
+    },
+    {
+     "text": "you",
+     "start": 29.588,
+     "end": 29.919
+    },
+    {
+     "text": "just",
+     "start": 29.919,
+     "end": 30.093
+    },
+    {
+     "text": "take",
+     "start": 30.093,
+     "end": 30.378
+    },
+    {
+     "text": "this",
+     "start": 30.378,
+     "end": 30.521
+    },
+    {
+     "text": "little",
+     "start": 30.521,
+     "end": 31.028
+    },
+    {
+     "text": "parting",
+     "start": 31.028,
+     "end": 31.898
+    },
+    {
+     "text": "favour",
+     "start": 31.898,
+     "end": 33.07
+    }
+   ]
+  },
+  {
+   "start": 33.07,
+   "end": 36.448,
+   "words": [
+    {
+     "text": "It's",
+     "start": 33.17,
+     "end": 33.384
+    },
+    {
+     "text": "just",
+     "start": 33.384,
+     "end": 33.681
+    },
+    {
+     "text": "a",
+     "start": 33.681,
+     "end": 33.86
+    },
+    {
+     "text": "little",
+     "start": 33.86,
+     "end": 34.278
+    },
+    {
+     "text": "present",
+     "start": 34.278,
+     "end": 34.754
+    },
+    {
+     "text": "from",
+     "start": 34.754,
+     "end": 35.132
+    },
+    {
+     "text": "my",
+     "start": 35.132,
+     "end": 35.55
+    },
+    {
+     "text": "love",
+     "start": 35.55,
+     "end": 36.448
+    }
+   ]
+  },
+  {
+   "start": 36.448,
+   "end": 40.274,
+   "words": [
+    {
+     "text": "Tell",
+     "start": 36.548,
+     "end": 36.906
+    },
+    {
+     "text": "me",
+     "start": 36.906,
+     "end": 37.026
+    },
+    {
+     "text": "your",
+     "start": 37.026,
+     "end": 37.267
+    },
+    {
+     "text": "lies",
+     "start": 37.267,
+     "end": 38.499
+    },
+    {
+     "text": "no",
+     "start": 38.499,
+     "end": 38.748
+    },
+    {
+     "text": "need",
+     "start": 38.748,
+     "end": 38.946
+    },
+    {
+     "text": "to",
+     "start": 38.946,
+     "end": 39.208
+    },
+    {
+     "text": "hide",
+     "start": 39.208,
+     "end": 40.274
+    }
+   ]
+  },
+  {
+   "start": 40.274,
+   "end": 44.041,
+   "words": [
+    {
+     "text": "Baby",
+     "start": 40.374,
+     "end": 40.838
+    },
+    {
+     "text": "tonight",
+     "start": 40.838,
+     "end": 41.532
+    },
+    {
+     "text": "I",
+     "start": 41.532,
+     "end": 41.796
+    },
+    {
+     "text": "take",
+     "start": 41.796,
+     "end": 42.08
+    },
+    {
+     "text": "you",
+     "start": 42.08,
+     "end": 42.272
+    },
+    {
+     "text": "dead",
+     "start": 42.272,
+     "end": 42.593
+    },
+    {
+     "text": "or",
+     "start": 42.593,
+     "end": 42.954
+    },
+    {
+     "text": "alive",
+     "start": 42.954,
+     "end": 44.041
+    }
+   ]
+  },
+  {
+   "start": 44.041,
+   "end": 47.098,
+   "words": [
+    {
+     "text": "Get",
+     "start": 44.141,
+     "end": 44.368
+    },
+    {
+     "text": "you",
+     "start": 44.368,
+     "end": 44.675
+    },
+    {
+     "text": "alone",
+     "start": 44.675,
+     "end": 45.859
+    },
+    {
+     "text": "and",
+     "start": 45.859,
+     "end": 46.005
+    },
+    {
+     "text": "under",
+     "start": 46.005,
+     "end": 46.475
+    },
+    {
+     "text": "control",
+     "start": 46.475,
+     "end": 47.098
+    }
+   ]
+  },
+  {
+   "start": 47.098,
+   "end": 51.083,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 47.198,
+     "end": 47.903
+    },
+    {
+     "text": "you'll",
+     "start": 47.903,
+     "end": 48.385
+    },
+    {
+     "text": "be",
+     "start": 48.385,
+     "end": 48.878
+    },
+    {
+     "text": "mine",
+     "start": 48.878,
+     "end": 49.743
+    },
+    {
+     "text": "dead",
+     "start": 49.743,
+     "end": 50.056
+    },
+    {
+     "text": "or",
+     "start": 50.056,
+     "end": 50.42
+    },
+    {
+     "text": "alive",
+     "start": 50.42,
+     "end": 51.083
+    }
+   ]
+  },
+  {
+   "start": 51.083,
+   "end": 59.747,
+   "words": [
+    {
+     "text": "Dead",
+     "start": 51.183,
+     "end": 57.587
+    },
+    {
+     "text": "or",
+     "start": 57.587,
+     "end": 57.747
+    },
+    {
+     "text": "alive",
+     "start": 57.747,
+     "end": 59.747
+    }
+   ]
+  },
+  {
+   "start": 66.541,
+   "end": 70.158,
+   "words": [
+    {
+     "text": "I",
+     "start": 66.641,
+     "end": 66.844
+    },
+    {
+     "text": "was",
+     "start": 66.844,
+     "end": 66.957
+    },
+    {
+     "text": "in",
+     "start": 66.957,
+     "end": 67.129
+    },
+    {
+     "text": "pain",
+     "start": 67.129,
+     "end": 68.439
+    },
+    {
+     "text": "you",
+     "start": 68.439,
+     "end": 68.639
+    },
+    {
+     "text": "were",
+     "start": 68.639,
+     "end": 68.779
+    },
+    {
+     "text": "to",
+     "start": 68.779,
+     "end": 68.957
+    },
+    {
+     "text": "blame",
+     "start": 68.957,
+     "end": 70.158
+    }
+   ]
+  },
+  {
+   "start": 70.158,
+   "end": 73.85,
+   "words": [
+    {
+     "text": "Needed",
+     "start": 70.258,
+     "end": 70.716
+    },
+    {
+     "text": "the",
+     "start": 70.716,
+     "end": 70.841
+    },
+    {
+     "text": "rush",
+     "start": 70.841,
+     "end": 71.158
+    },
+    {
+     "text": "now",
+     "start": 71.158,
+     "end": 71.461
+    },
+    {
+     "text": "I'm",
+     "start": 71.461,
+     "end": 71.634
+    },
+    {
+     "text": "just",
+     "start": 71.634,
+     "end": 71.819
+    },
+    {
+     "text": "running",
+     "start": 71.819,
+     "end": 72.098
+    },
+    {
+     "text": "on",
+     "start": 72.098,
+     "end": 72.278
+    },
+    {
+     "text": "coffee",
+     "start": 72.278,
+     "end": 72.481
+    },
+    {
+     "text": "and",
+     "start": 72.481,
+     "end": 72.707
+    },
+    {
+     "text": "drugs",
+     "start": 72.707,
+     "end": 73.85
+    }
+   ]
+  },
+  {
+   "start": 73.85,
+   "end": 77.31,
+   "words": [
+    {
+     "text": "This",
+     "start": 73.95,
+     "end": 74.205
+    },
+    {
+     "text": "hell",
+     "start": 74.205,
+     "end": 74.449
+    },
+    {
+     "text": "of",
+     "start": 74.449,
+     "end": 74.499
+    },
+    {
+     "text": "a",
+     "start": 74.464,
+     "end": 74.584
+    },
+    {
+     "text": "ride",
+     "start": 74.584,
+     "end": 75.965
+    },
+    {
+     "text": "crashed",
+     "start": 75.965,
+     "end": 76.336
+    },
+    {
+     "text": "to",
+     "start": 76.336,
+     "end": 76.386
+    },
+    {
+     "text": "the",
+     "start": 76.306,
+     "end": 76.487
+    },
+    {
+     "text": "ground",
+     "start": 76.487,
+     "end": 77.31
+    }
+   ]
+  },
+  {
+   "start": 77.31,
+   "end": 78.738,
+   "words": [
+    {
+     "text": "No",
+     "start": 77.41,
+     "end": 77.507
+    },
+    {
+     "text": "one",
+     "start": 77.507,
+     "end": 77.717
+    },
+    {
+     "text": "can",
+     "start": 77.717,
+     "end": 77.949
+    },
+    {
+     "text": "save",
+     "start": 77.949,
+     "end": 78.402
+    },
+    {
+     "text": "you",
+     "start": 78.402,
+     "end": 78.738
+    }
+   ]
+  },
+  {
+   "start": 78.738,
+   "end": 79.971,
+   "words": [
+    {
+     "text": "Baby",
+     "start": 78.838,
+     "end": 79.018
+    },
+    {
+     "text": "I'm",
+     "start": 79.018,
+     "end": 79.267
+    },
+    {
+     "text": "counting",
+     "start": 79.267,
+     "end": 79.639
+    },
+    {
+     "text": "it",
+     "start": 79.639,
+     "end": 79.778
+    },
+    {
+     "text": "down",
+     "start": 79.778,
+     "end": 79.971
+    }
+   ]
+  },
+  {
+   "start": 79.971,
+   "end": 81.652,
+   "words": [
+    {
+     "text": "You",
+     "start": 80.071,
+     "end": 80.151
+    },
+    {
+     "text": "might",
+     "start": 80.151,
+     "end": 80.271
+    },
+    {
+     "text": "also",
+     "start": 80.271,
+     "end": 80.932
+    },
+    {
+     "text": "like",
+     "start": 80.932,
+     "end": 81.652
+    }
+   ]
+  },
+  {
+   "start": 81.652,
+   "end": 82.233,
+   "words": [
+    {
+     "text": "Feels",
+     "start": 81.752,
+     "end": 81.966
+    },
+    {
+     "text": "So",
+     "start": 81.966,
+     "end": 82.152
+    },
+    {
+     "text": "Good",
+     "start": 82.152,
+     "end": 82.233
+    }
+   ]
+  },
+  {
+   "start": 82.233,
+   "end": 82.533,
+   "words": [
+    {
+     "text": "Stileto",
+     "start": 82.333,
+     "end": 82.533
+    }
+   ]
+  },
+  {
+   "start": 82.493,
+   "end": 82.974,
+   "words": [
+    {
+     "text": "Patient",
+     "start": 82.593,
+     "end": 82.901
+    },
+    {
+     "text": "Zero",
+     "start": 82.901,
+     "end": 82.974
+    }
+   ]
+  },
+  {
+   "start": 82.974,
+   "end": 83.414,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 83.074,
+     "end": 83.302
+    },
+    {
+     "text": "Swift",
+     "start": 83.302,
+     "end": 83.414
+    }
+   ]
+  },
+  {
+   "start": 83.414,
+   "end": 83.795,
+   "words": [
+    {
+     "text": "Cleveland",
+     "start": 83.514,
+     "end": 83.795
+    }
+   ]
+  },
+  {
+   "start": 83.795,
+   "end": 84.368,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 83.895,
+     "end": 84.135
+    },
+    {
+     "text": "Swift",
+     "start": 84.135,
+     "end": 84.368
+    }
+   ]
+  },
+  {
+   "start": 84.368,
+   "end": 86.249,
+   "words": [
+    {
+     "text": "So",
+     "start": 84.468,
+     "end": 84.518
+    },
+    {
+     "text": "now",
+     "start": 84.435,
+     "end": 84.535
+    },
+    {
+     "text": "I'm",
+     "start": 84.535,
+     "end": 84.915
+    },
+    {
+     "text": "asking",
+     "start": 84.915,
+     "end": 85.136
+    },
+    {
+     "text": "you",
+     "start": 85.136,
+     "end": 85.449
+    },
+    {
+     "text": "for",
+     "start": 85.449,
+     "end": 85.499
+    },
+    {
+     "text": "one",
+     "start": 85.436,
+     "end": 85.682
+    },
+    {
+     "text": "last",
+     "start": 85.682,
+     "end": 85.873
+    },
+    {
+     "text": "favour",
+     "start": 85.873,
+     "end": 86.249
+    }
+   ]
+  },
+  {
+   "start": 86.249,
+   "end": 89.314,
+   "words": [
+    {
+     "text": "You've",
+     "start": 86.349,
+     "end": 86.703
+    },
+    {
+     "text": "got",
+     "start": 86.703,
+     "end": 86.797
+    },
+    {
+     "text": "an",
+     "start": 86.797,
+     "end": 86.877
+    },
+    {
+     "text": "enemy",
+     "start": 86.877,
+     "end": 87.115
+    },
+    {
+     "text": "inside",
+     "start": 87.115,
+     "end": 87.766
+    },
+    {
+     "text": "your",
+     "start": 87.766,
+     "end": 87.998
+    },
+    {
+     "text": "blood",
+     "start": 87.998,
+     "end": 89.314
+    }
+   ]
+  },
+  {
+   "start": 89.314,
+   "end": 92.948,
+   "words": [
+    {
+     "text": "Could",
+     "start": 89.414,
+     "end": 89.588
+    },
+    {
+     "text": "you",
+     "start": 89.588,
+     "end": 89.919
+    },
+    {
+     "text": "just",
+     "start": 89.919,
+     "end": 90.093
+    },
+    {
+     "text": "take",
+     "start": 90.093,
+     "end": 90.395
+    },
+    {
+     "text": "this",
+     "start": 90.395,
+     "end": 90.546
+    },
+    {
+     "text": "little",
+     "start": 90.546,
+     "end": 91.034
+    },
+    {
+     "text": "parting",
+     "start": 91.034,
+     "end": 91.899
+    },
+    {
+     "text": "favour",
+     "start": 91.899,
+     "end": 92.948
+    }
+   ]
+  },
+  {
+   "start": 92.948,
+   "end": 96.449,
+   "words": [
+    {
+     "text": "It's",
+     "start": 93.048,
+     "end": 93.182
+    },
+    {
+     "text": "just",
+     "start": 93.182,
+     "end": 93.681
+    },
+    {
+     "text": "a",
+     "start": 93.681,
+     "end": 93.864
+    },
+    {
+     "text": "little",
+     "start": 93.864,
+     "end": 94.279
+    },
+    {
+     "text": "present",
+     "start": 94.279,
+     "end": 94.755
+    },
+    {
+     "text": "from",
+     "start": 94.755,
+     "end": 95.132
+    },
+    {
+     "text": "my",
+     "start": 95.132,
+     "end": 95.556
+    },
+    {
+     "text": "love",
+     "start": 95.556,
+     "end": 96.449
+    }
+   ]
+  },
+  {
+   "start": 96.449,
+   "end": 100.28,
+   "words": [
+    {
+     "text": "Tell",
+     "start": 96.549,
+     "end": 96.906
+    },
+    {
+     "text": "me",
+     "start": 96.906,
+     "end": 97.127
+    },
+    {
+     "text": "your",
+     "start": 97.127,
+     "end": 97.287
+    },
+    {
+     "text": "lies",
+     "start": 97.287,
+     "end": 98.499
+    },
+    {
+     "text": "no",
+     "start": 98.499,
+     "end": 98.728
+    },
+    {
+     "text": "need",
+     "start": 98.728,
+     "end": 98.946
+    },
+    {
+     "text": "to",
+     "start": 98.946,
+     "end": 99.248
+    },
+    {
+     "text": "hide",
+     "start": 99.248,
+     "end": 100.28
+    }
+   ]
+  },
+  {
+   "start": 100.28,
+   "end": 104.041,
+   "words": [
+    {
+     "text": "Baby",
+     "start": 100.38,
+     "end": 100.838
+    },
+    {
+     "text": "tonight",
+     "start": 100.838,
+     "end": 101.552
+    },
+    {
+     "text": "I",
+     "start": 101.552,
+     "end": 101.79
+    },
+    {
+     "text": "take",
+     "start": 101.79,
+     "end": 102.081
+    },
+    {
+     "text": "you",
+     "start": 102.081,
+     "end": 102.272
+    },
+    {
+     "text": "dead",
+     "start": 102.272,
+     "end": 102.573
+    },
+    {
+     "text": "or",
+     "start": 102.573,
+     "end": 102.834
+    },
+    {
+     "text": "alive",
+     "start": 102.834,
+     "end": 104.041
+    }
+   ]
+  },
+  {
+   "start": 104.041,
+   "end": 106.857,
+   "words": [
+    {
+     "text": "Get",
+     "start": 104.141,
+     "end": 104.368
+    },
+    {
+     "text": "you",
+     "start": 104.368,
+     "end": 104.815
+    },
+    {
+     "text": "alone",
+     "start": 104.815,
+     "end": 105.86
+    },
+    {
+     "text": "and",
+     "start": 105.86,
+     "end": 106.005
+    },
+    {
+     "text": "under",
+     "start": 106.005,
+     "end": 106.469
+    },
+    {
+     "text": "control",
+     "start": 106.469,
+     "end": 106.857
+    }
+   ]
+  },
+  {
+   "start": 106.857,
+   "end": 112.42,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 106.957,
+     "end": 107.903
+    },
+    {
+     "text": "you'll",
+     "start": 107.903,
+     "end": 108.385
+    },
+    {
+     "text": "be",
+     "start": 108.385,
+     "end": 108.878
+    },
+    {
+     "text": "mine",
+     "start": 108.878,
+     "end": 109.743
+    },
+    {
+     "text": "dead",
+     "start": 109.743,
+     "end": 110.057
+    },
+    {
+     "text": "or",
+     "start": 110.057,
+     "end": 110.42
+    },
+    {
+     "text": "alive",
+     "start": 110.42,
+     "end": 112.42
+    }
+   ]
+  },
+  {
+   "start": 125.137,
+   "end": 130.093,
+   "words": [
+    {
+     "text": "Dead",
+     "start": 125.237,
+     "end": 125.356
+    },
+    {
+     "text": "or",
+     "start": 125.356,
+     "end": 128.093
+    },
+    {
+     "text": "alive",
+     "start": 128.093,
+     "end": 130.093
+    }
+   ]
+  }
+ ]
+}

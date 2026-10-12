@@ -1,0 +1,1783 @@
+{
+ "title": "Sad Song",
+ "artist": "We The Kings",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 12.909,
+   "end": 17.865,
+   "words": [
+    {
+     "text": "You",
+     "start": 13.009,
+     "end": 15.511
+    },
+    {
+     "text": "and",
+     "start": 15.511,
+     "end": 15.865
+    },
+    {
+     "text": "I",
+     "start": 15.865,
+     "end": 17.865
+    }
+   ]
+  },
+  {
+   "start": 18.174,
+   "end": 23.886,
+   "words": [
+    {
+     "text": "We're",
+     "start": 18.274,
+     "end": 18.646
+    },
+    {
+     "text": "like",
+     "start": 18.646,
+     "end": 19.023
+    },
+    {
+     "text": "fireworks",
+     "start": 19.023,
+     "end": 19.998
+    },
+    {
+     "text": "and",
+     "start": 19.998,
+     "end": 20.399
+    },
+    {
+     "text": "symphonies",
+     "start": 20.399,
+     "end": 21.56
+    },
+    {
+     "text": "exploding",
+     "start": 21.56,
+     "end": 22.465
+    },
+    {
+     "text": "in",
+     "start": 22.465,
+     "end": 22.779
+    },
+    {
+     "text": "the",
+     "start": 22.779,
+     "end": 23.15
+    },
+    {
+     "text": "sky",
+     "start": 23.15,
+     "end": 23.886
+    }
+   ]
+  },
+  {
+   "start": 23.886,
+   "end": 28.796,
+   "words": [
+    {
+     "text": "With",
+     "start": 23.986,
+     "end": 24.275
+    },
+    {
+     "text": "you",
+     "start": 24.275,
+     "end": 26.453
+    },
+    {
+     "text": "I'm",
+     "start": 26.453,
+     "end": 26.796
+    },
+    {
+     "text": "alive",
+     "start": 26.796,
+     "end": 28.796
+    }
+   ]
+  },
+  {
+   "start": 29.314,
+   "end": 35.392,
+   "words": [
+    {
+     "text": "Like",
+     "start": 29.414,
+     "end": 29.594
+    },
+    {
+     "text": "all",
+     "start": 29.594,
+     "end": 29.884
+    },
+    {
+     "text": "the",
+     "start": 29.884,
+     "end": 30.215
+    },
+    {
+     "text": "missing",
+     "start": 30.215,
+     "end": 30.877
+    },
+    {
+     "text": "pieces",
+     "start": 30.877,
+     "end": 31.602
+    },
+    {
+     "text": "of",
+     "start": 31.602,
+     "end": 31.951
+    },
+    {
+     "text": "my",
+     "start": 31.951,
+     "end": 32.162
+    },
+    {
+     "text": "heart",
+     "start": 32.162,
+     "end": 32.566
+    },
+    {
+     "text": "they",
+     "start": 32.566,
+     "end": 33.077
+    },
+    {
+     "text": "finally",
+     "start": 33.077,
+     "end": 34.0
+    },
+    {
+     "text": "collide",
+     "start": 34.0,
+     "end": 35.392
+    }
+   ]
+  },
+  {
+   "start": 35.392,
+   "end": 39.995,
+   "words": [
+    {
+     "text": "So",
+     "start": 35.492,
+     "end": 35.747
+    },
+    {
+     "text": "stop",
+     "start": 35.747,
+     "end": 36.6
+    },
+    {
+     "text": "time",
+     "start": 36.6,
+     "end": 37.071
+    },
+    {
+     "text": "right",
+     "start": 37.071,
+     "end": 37.291
+    },
+    {
+     "text": "here",
+     "start": 37.291,
+     "end": 37.727
+    },
+    {
+     "text": "in",
+     "start": 37.727,
+     "end": 38.098
+    },
+    {
+     "text": "the",
+     "start": 38.098,
+     "end": 38.452
+    },
+    {
+     "text": "moonlight",
+     "start": 38.452,
+     "end": 39.995
+    }
+   ]
+  },
+  {
+   "start": 39.995,
+   "end": 46.038,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 40.095,
+     "end": 40.263
+    },
+    {
+     "text": "I",
+     "start": 40.263,
+     "end": 40.507
+    },
+    {
+     "text": "don't",
+     "start": 40.507,
+     "end": 41.337
+    },
+    {
+     "text": "ever",
+     "start": 41.337,
+     "end": 42.273
+    },
+    {
+     "text": "wanna",
+     "start": 42.273,
+     "end": 42.951
+    },
+    {
+     "text": "close",
+     "start": 42.951,
+     "end": 43.607
+    },
+    {
+     "text": "my",
+     "start": 43.607,
+     "end": 44.147
+    },
+    {
+     "text": "eyes",
+     "start": 44.147,
+     "end": 46.038
+    }
+   ]
+  },
+  {
+   "start": 46.038,
+   "end": 48.923,
+   "words": [
+    {
+     "text": "Without",
+     "start": 46.138,
+     "end": 46.933
+    },
+    {
+     "text": "you",
+     "start": 46.933,
+     "end": 47.607
+    },
+    {
+     "text": "I",
+     "start": 47.607,
+     "end": 47.821
+    },
+    {
+     "text": "feel",
+     "start": 47.821,
+     "end": 48.321
+    },
+    {
+     "text": "broke",
+     "start": 48.321,
+     "end": 48.923
+    }
+   ]
+  },
+  {
+   "start": 48.923,
+   "end": 51.768,
+   "words": [
+    {
+     "text": "Like",
+     "start": 49.023,
+     "end": 49.406
+    },
+    {
+     "text": "I'm",
+     "start": 49.406,
+     "end": 49.697
+    },
+    {
+     "text": "half",
+     "start": 49.697,
+     "end": 50.463
+    },
+    {
+     "text": "of",
+     "start": 50.463,
+     "end": 50.852
+    },
+    {
+     "text": "a",
+     "start": 50.852,
+     "end": 51.101
+    },
+    {
+     "text": "whole",
+     "start": 51.101,
+     "end": 51.768
+    }
+   ]
+  },
+  {
+   "start": 51.768,
+   "end": 57.381,
+   "words": [
+    {
+     "text": "Without",
+     "start": 51.868,
+     "end": 52.622
+    },
+    {
+     "text": "you",
+     "start": 52.622,
+     "end": 53.238
+    },
+    {
+     "text": "I've",
+     "start": 53.238,
+     "end": 53.603
+    },
+    {
+     "text": "got",
+     "start": 53.603,
+     "end": 53.998
+    },
+    {
+     "text": "no",
+     "start": 53.998,
+     "end": 54.532
+    },
+    {
+     "text": "hand",
+     "start": 54.532,
+     "end": 54.996
+    },
+    {
+     "text": "to",
+     "start": 54.996,
+     "end": 55.438
+    },
+    {
+     "text": "hold",
+     "start": 55.438,
+     "end": 57.381
+    }
+   ]
+  },
+  {
+   "start": 57.381,
+   "end": 60.278,
+   "words": [
+    {
+     "text": "Without",
+     "start": 57.481,
+     "end": 58.236
+    },
+    {
+     "text": "you",
+     "start": 58.236,
+     "end": 58.903
+    },
+    {
+     "text": "I",
+     "start": 58.903,
+     "end": 59.246
+    },
+    {
+     "text": "feel",
+     "start": 59.246,
+     "end": 59.664
+    },
+    {
+     "text": "torn",
+     "start": 59.664,
+     "end": 60.278
+    }
+   ]
+  },
+  {
+   "start": 60.278,
+   "end": 64.467,
+   "words": [
+    {
+     "text": "Like",
+     "start": 60.378,
+     "end": 60.685
+    },
+    {
+     "text": "a",
+     "start": 60.685,
+     "end": 61.063
+    },
+    {
+     "text": "sail",
+     "start": 61.063,
+     "end": 61.753
+    },
+    {
+     "text": "in",
+     "start": 61.753,
+     "end": 62.113
+    },
+    {
+     "text": "a",
+     "start": 62.113,
+     "end": 62.467
+    },
+    {
+     "text": "storm",
+     "start": 62.467,
+     "end": 64.467
+    }
+   ]
+  },
+  {
+   "start": 65.491,
+   "end": 72.078,
+   "words": [
+    {
+     "text": "Without",
+     "start": 65.591,
+     "end": 66.694
+    },
+    {
+     "text": "you",
+     "start": 66.694,
+     "end": 68.371
+    },
+    {
+     "text": "I'm",
+     "start": 68.371,
+     "end": 68.766
+    },
+    {
+     "text": "just",
+     "start": 68.766,
+     "end": 69.149
+    },
+    {
+     "text": "a",
+     "start": 69.149,
+     "end": 69.532
+    },
+    {
+     "text": "sad",
+     "start": 69.532,
+     "end": 70.078
+    },
+    {
+     "text": "song",
+     "start": 70.078,
+     "end": 72.078
+    }
+   ]
+  },
+  {
+   "start": 74.006,
+   "end": 77.767,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 74.106,
+     "end": 74.432
+    },
+    {
+     "text": "just",
+     "start": 74.432,
+     "end": 74.884
+    },
+    {
+     "text": "a",
+     "start": 74.884,
+     "end": 75.227
+    },
+    {
+     "text": "sad",
+     "start": 75.227,
+     "end": 75.767
+    },
+    {
+     "text": "song",
+     "start": 75.767,
+     "end": 77.767
+    }
+   ]
+  },
+  {
+   "start": 80.27,
+   "end": 85.476,
+   "words": [
+    {
+     "text": "With",
+     "start": 80.37,
+     "end": 80.772
+    },
+    {
+     "text": "you",
+     "start": 80.772,
+     "end": 83.294
+    },
+    {
+     "text": "I",
+     "start": 83.294,
+     "end": 83.476
+    },
+    {
+     "text": "fall",
+     "start": 83.476,
+     "end": 85.476
+    }
+   ]
+  },
+  {
+   "start": 85.854,
+   "end": 91.665,
+   "words": [
+    {
+     "text": "It's",
+     "start": 85.954,
+     "end": 86.056
+    },
+    {
+     "text": "like",
+     "start": 86.056,
+     "end": 86.361
+    },
+    {
+     "text": "I'm",
+     "start": 86.361,
+     "end": 86.715
+    },
+    {
+     "text": "leaving",
+     "start": 86.715,
+     "end": 87.365
+    },
+    {
+     "text": "all",
+     "start": 87.365,
+     "end": 87.69
+    },
+    {
+     "text": "my",
+     "start": 87.69,
+     "end": 87.946
+    },
+    {
+     "text": "past",
+     "start": 87.946,
+     "end": 88.625
+    },
+    {
+     "text": "in",
+     "start": 88.625,
+     "end": 88.956
+    },
+    {
+     "text": "silhouettes",
+     "start": 88.956,
+     "end": 89.913
+    },
+    {
+     "text": "up",
+     "start": 89.913,
+     "end": 90.093
+    },
+    {
+     "text": "on",
+     "start": 90.093,
+     "end": 90.488
+    },
+    {
+     "text": "the",
+     "start": 90.488,
+     "end": 90.639
+    },
+    {
+     "text": "wall",
+     "start": 90.639,
+     "end": 91.665
+    }
+   ]
+  },
+  {
+   "start": 91.665,
+   "end": 96.929,
+   "words": [
+    {
+     "text": "With",
+     "start": 91.765,
+     "end": 91.992
+    },
+    {
+     "text": "you",
+     "start": 91.992,
+     "end": 93.17
+    },
+    {
+     "text": "I'm",
+     "start": 93.17,
+     "end": 93.523
+    },
+    {
+     "text": "a",
+     "start": 93.523,
+     "end": 93.791
+    },
+    {
+     "text": "beautiful",
+     "start": 93.791,
+     "end": 94.929
+    },
+    {
+     "text": "mess",
+     "start": 94.929,
+     "end": 96.929
+    }
+   ]
+  },
+  {
+   "start": 97.093,
+   "end": 103.211,
+   "words": [
+    {
+     "text": "It's",
+     "start": 97.193,
+     "end": 97.327
+    },
+    {
+     "text": "like",
+     "start": 97.327,
+     "end": 97.692
+    },
+    {
+     "text": "we're",
+     "start": 97.692,
+     "end": 97.965
+    },
+    {
+     "text": "standing",
+     "start": 97.965,
+     "end": 98.522
+    },
+    {
+     "text": "hand",
+     "start": 98.522,
+     "end": 99.004
+    },
+    {
+     "text": "in",
+     "start": 99.004,
+     "end": 99.358
+    },
+    {
+     "text": "hand",
+     "start": 99.358,
+     "end": 99.769
+    },
+    {
+     "text": "with",
+     "start": 99.769,
+     "end": 100.055
+    },
+    {
+     "text": "all",
+     "start": 100.055,
+     "end": 100.409
+    },
+    {
+     "text": "our",
+     "start": 100.409,
+     "end": 100.809
+    },
+    {
+     "text": "fears",
+     "start": 100.809,
+     "end": 101.291
+    },
+    {
+     "text": "up",
+     "start": 101.291,
+     "end": 101.518
+    },
+    {
+     "text": "on",
+     "start": 101.518,
+     "end": 101.86
+    },
+    {
+     "text": "the",
+     "start": 101.86,
+     "end": 102.153
+    },
+    {
+     "text": "edge",
+     "start": 102.153,
+     "end": 103.211
+    }
+   ]
+  },
+  {
+   "start": 103.211,
+   "end": 107.751,
+   "words": [
+    {
+     "text": "So",
+     "start": 103.311,
+     "end": 103.544
+    },
+    {
+     "text": "stop",
+     "start": 103.544,
+     "end": 104.403
+    },
+    {
+     "text": "time",
+     "start": 104.403,
+     "end": 104.775
+    },
+    {
+     "text": "right",
+     "start": 104.775,
+     "end": 105.116
+    },
+    {
+     "text": "here",
+     "start": 105.116,
+     "end": 105.564
+    },
+    {
+     "text": "in",
+     "start": 105.564,
+     "end": 105.836
+    },
+    {
+     "text": "the",
+     "start": 105.836,
+     "end": 106.217
+    },
+    {
+     "text": "moonlight",
+     "start": 106.217,
+     "end": 107.751
+    }
+   ]
+  },
+  {
+   "start": 107.751,
+   "end": 111.797,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 107.851,
+     "end": 108.292
+    },
+    {
+     "text": "I",
+     "start": 108.292,
+     "end": 108.342
+    },
+    {
+     "text": "don't",
+     "start": 108.279,
+     "end": 109.035
+    },
+    {
+     "text": "ever",
+     "start": 109.035,
+     "end": 110.02
+    },
+    {
+     "text": "wanna",
+     "start": 110.02,
+     "end": 110.597
+    },
+    {
+     "text": "close",
+     "start": 110.597,
+     "end": 111.386
+    },
+    {
+     "text": "my",
+     "start": 111.386,
+     "end": 111.642
+    },
+    {
+     "text": "eyes",
+     "start": 111.642,
+     "end": 111.797
+    }
+   ]
+  },
+  {
+   "start": 111.797,
+   "end": 114.241,
+   "words": [
+    {
+     "text": "You",
+     "start": 111.897,
+     "end": 112.182
+    },
+    {
+     "text": "might",
+     "start": 112.182,
+     "end": 113.842
+    },
+    {
+     "text": "also",
+     "start": 113.842,
+     "end": 113.944
+    },
+    {
+     "text": "like",
+     "start": 113.944,
+     "end": 114.241
+    }
+   ]
+  },
+  {
+   "start": 114.241,
+   "end": 115.28,
+   "words": [
+    {
+     "text": "thanK",
+     "start": 114.341,
+     "end": 114.644
+    },
+    {
+     "text": "you",
+     "start": 114.644,
+     "end": 114.804
+    },
+    {
+     "text": "aIMee",
+     "start": 114.804,
+     "end": 115.28
+    }
+   ]
+  },
+  {
+   "start": 115.28,
+   "end": 115.725,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 115.38,
+     "end": 115.717
+    },
+    {
+     "text": "Swift",
+     "start": 115.717,
+     "end": 115.767
+    }
+   ]
+  },
+  {
+   "start": 115.725,
+   "end": 116.551,
+   "words": [
+    {
+     "text": "Electric",
+     "start": 115.825,
+     "end": 116.106
+    },
+    {
+     "text": "Touch",
+     "start": 116.106,
+     "end": 116.551
+    }
+   ]
+  },
+  {
+   "start": 116.551,
+   "end": 117.033,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 116.651,
+     "end": 116.946
+    },
+    {
+     "text": "Swift",
+     "start": 116.946,
+     "end": 117.033
+    }
+   ]
+  },
+  {
+   "start": 117.033,
+   "end": 117.727,
+   "words": [
+    {
+     "text": "Heave",
+     "start": 117.133,
+     "end": 117.458
+    },
+    {
+     "text": "Away",
+     "start": 117.458,
+     "end": 117.727
+    }
+   ]
+  },
+  {
+   "start": 117.727,
+   "end": 118.13,
+   "words": [
+    {
+     "text": "The",
+     "start": 117.827,
+     "end": 118.056
+    },
+    {
+     "text": "Fables",
+     "start": 118.056,
+     "end": 118.13
+    }
+   ]
+  },
+  {
+   "start": 118.13,
+   "end": 118.668,
+   "words": [
+    {
+     "text": "Without",
+     "start": 118.23,
+     "end": 118.288
+    },
+    {
+     "text": "you",
+     "start": 118.288,
+     "end": 118.388
+    },
+    {
+     "text": "I",
+     "start": 118.388,
+     "end": 118.438
+    },
+    {
+     "text": "feel",
+     "start": 118.428,
+     "end": 118.642
+    },
+    {
+     "text": "broke",
+     "start": 118.642,
+     "end": 118.692
+    }
+   ]
+  },
+  {
+   "start": 118.668,
+   "end": 119.57,
+   "words": [
+    {
+     "text": "Like",
+     "start": 118.768,
+     "end": 118.868
+    },
+    {
+     "text": "I'm",
+     "start": 118.868,
+     "end": 118.948
+    },
+    {
+     "text": "half",
+     "start": 118.948,
+     "end": 119.108
+    },
+    {
+     "text": "of",
+     "start": 119.108,
+     "end": 119.168
+    },
+    {
+     "text": "a",
+     "start": 119.168,
+     "end": 119.218
+    },
+    {
+     "text": "whole",
+     "start": 119.208,
+     "end": 119.57
+    }
+   ]
+  },
+  {
+   "start": 119.57,
+   "end": 125.172,
+   "words": [
+    {
+     "text": "Without",
+     "start": 119.67,
+     "end": 120.424
+    },
+    {
+     "text": "you",
+     "start": 120.424,
+     "end": 121.086
+    },
+    {
+     "text": "I've",
+     "start": 121.086,
+     "end": 121.406
+    },
+    {
+     "text": "got",
+     "start": 121.406,
+     "end": 121.771
+    },
+    {
+     "text": "no",
+     "start": 121.771,
+     "end": 122.474
+    },
+    {
+     "text": "hand",
+     "start": 122.474,
+     "end": 122.857
+    },
+    {
+     "text": "to",
+     "start": 122.857,
+     "end": 123.205
+    },
+    {
+     "text": "hold",
+     "start": 123.205,
+     "end": 125.172
+    }
+   ]
+  },
+  {
+   "start": 125.172,
+   "end": 128.016,
+   "words": [
+    {
+     "text": "Without",
+     "start": 125.272,
+     "end": 125.996
+    },
+    {
+     "text": "you",
+     "start": 125.996,
+     "end": 126.711
+    },
+    {
+     "text": "I",
+     "start": 126.711,
+     "end": 127.054
+    },
+    {
+     "text": "feel",
+     "start": 127.054,
+     "end": 127.42
+    },
+    {
+     "text": "torn",
+     "start": 127.42,
+     "end": 128.016
+    }
+   ]
+  },
+  {
+   "start": 128.016,
+   "end": 132.252,
+   "words": [
+    {
+     "text": "Like",
+     "start": 128.116,
+     "end": 128.459
+    },
+    {
+     "text": "a",
+     "start": 128.459,
+     "end": 128.871
+    },
+    {
+     "text": "sail",
+     "start": 128.871,
+     "end": 129.6
+    },
+    {
+     "text": "in",
+     "start": 129.6,
+     "end": 130.02
+    },
+    {
+     "text": "a",
+     "start": 130.02,
+     "end": 130.252
+    },
+    {
+     "text": "storm",
+     "start": 130.252,
+     "end": 132.252
+    }
+   ]
+  },
+  {
+   "start": 133.299,
+   "end": 138.588,
+   "words": [
+    {
+     "text": "Without",
+     "start": 133.399,
+     "end": 134.502
+    },
+    {
+     "text": "you",
+     "start": 134.502,
+     "end": 136.231
+    },
+    {
+     "text": "I'm",
+     "start": 136.231,
+     "end": 136.574
+    },
+    {
+     "text": "just",
+     "start": 136.574,
+     "end": 136.98
+    },
+    {
+     "text": "a",
+     "start": 136.98,
+     "end": 137.288
+    },
+    {
+     "text": "sad",
+     "start": 137.288,
+     "end": 138.014
+    },
+    {
+     "text": "song",
+     "start": 138.014,
+     "end": 138.588
+    }
+   ]
+  },
+  {
+   "start": 138.588,
+   "end": 141.588,
+   "words": [
+    {
+     "text": "You're",
+     "start": 138.688,
+     "end": 138.919
+    },
+    {
+     "text": "the",
+     "start": 138.919,
+     "end": 139.093
+    },
+    {
+     "text": "perfect",
+     "start": 139.093,
+     "end": 140.031
+    },
+    {
+     "text": "melody",
+     "start": 140.031,
+     "end": 141.588
+    }
+   ]
+  },
+  {
+   "start": 141.588,
+   "end": 144.572,
+   "words": [
+    {
+     "text": "The",
+     "start": 141.688,
+     "end": 141.88
+    },
+    {
+     "text": "only",
+     "start": 141.88,
+     "end": 142.854
+    },
+    {
+     "text": "harmony",
+     "start": 142.854,
+     "end": 144.572
+    }
+   ]
+  },
+  {
+   "start": 144.572,
+   "end": 147.696,
+   "words": [
+    {
+     "text": "I",
+     "start": 144.672,
+     "end": 145.016
+    },
+    {
+     "text": "wanna",
+     "start": 145.016,
+     "end": 145.696
+    },
+    {
+     "text": "hear",
+     "start": 145.696,
+     "end": 147.696
+    }
+   ]
+  },
+  {
+   "start": 149.756,
+   "end": 152.885,
+   "words": [
+    {
+     "text": "You're",
+     "start": 149.856,
+     "end": 150.152
+    },
+    {
+     "text": "my",
+     "start": 150.152,
+     "end": 150.407
+    },
+    {
+     "text": "favorite",
+     "start": 150.407,
+     "end": 151.348
+    },
+    {
+     "text": "part",
+     "start": 151.348,
+     "end": 151.962
+    },
+    {
+     "text": "of",
+     "start": 151.962,
+     "end": 152.12
+    },
+    {
+     "text": "me",
+     "start": 152.12,
+     "end": 152.885
+    }
+   ]
+  },
+  {
+   "start": 152.885,
+   "end": 155.305,
+   "words": [
+    {
+     "text": "With",
+     "start": 152.985,
+     "end": 153.165
+    },
+    {
+     "text": "you",
+     "start": 153.165,
+     "end": 153.565
+    },
+    {
+     "text": "standing",
+     "start": 153.565,
+     "end": 154.302
+    },
+    {
+     "text": "next",
+     "start": 154.302,
+     "end": 154.662
+    },
+    {
+     "text": "to",
+     "start": 154.662,
+     "end": 154.976
+    },
+    {
+     "text": "me",
+     "start": 154.976,
+     "end": 155.305
+    }
+   ]
+  },
+  {
+   "start": 155.305,
+   "end": 159.066,
+   "words": [
+    {
+     "text": "I've",
+     "start": 155.405,
+     "end": 155.632
+    },
+    {
+     "text": "got",
+     "start": 155.632,
+     "end": 156.032
+    },
+    {
+     "text": "nothing",
+     "start": 156.032,
+     "end": 156.653
+    },
+    {
+     "text": "to",
+     "start": 156.653,
+     "end": 157.066
+    },
+    {
+     "text": "fear",
+     "start": 157.066,
+     "end": 159.066
+    }
+   ]
+  },
+  {
+   "start": 159.369,
+   "end": 161.911,
+   "words": [
+    {
+     "text": "Without",
+     "start": 159.469,
+     "end": 159.84
+    },
+    {
+     "text": "you",
+     "start": 159.84,
+     "end": 160.583
+    },
+    {
+     "text": "I",
+     "start": 160.583,
+     "end": 160.752
+    },
+    {
+     "text": "feel",
+     "start": 160.752,
+     "end": 161.326
+    },
+    {
+     "text": "broke",
+     "start": 161.326,
+     "end": 161.911
+    }
+   ]
+  },
+  {
+   "start": 161.911,
+   "end": 164.588,
+   "words": [
+    {
+     "text": "Like",
+     "start": 162.011,
+     "end": 162.348
+    },
+    {
+     "text": "I'm",
+     "start": 162.348,
+     "end": 162.633
+    },
+    {
+     "text": "half",
+     "start": 162.633,
+     "end": 163.405
+    },
+    {
+     "text": "of",
+     "start": 163.405,
+     "end": 163.805
+    },
+    {
+     "text": "a",
+     "start": 163.805,
+     "end": 164.188
+    },
+    {
+     "text": "whole",
+     "start": 164.188,
+     "end": 164.588
+    }
+   ]
+  },
+  {
+   "start": 164.588,
+   "end": 170.236,
+   "words": [
+    {
+     "text": "Without",
+     "start": 164.688,
+     "end": 165.558
+    },
+    {
+     "text": "you",
+     "start": 165.558,
+     "end": 166.237
+    },
+    {
+     "text": "I've",
+     "start": 166.237,
+     "end": 166.528
+    },
+    {
+     "text": "got",
+     "start": 166.528,
+     "end": 166.992
+    },
+    {
+     "text": "no",
+     "start": 166.992,
+     "end": 167.549
+    },
+    {
+     "text": "hand",
+     "start": 167.549,
+     "end": 168.031
+    },
+    {
+     "text": "to",
+     "start": 168.031,
+     "end": 168.356
+    },
+    {
+     "text": "hold",
+     "start": 168.356,
+     "end": 170.236
+    }
+   ]
+  },
+  {
+   "start": 170.236,
+   "end": 173.185,
+   "words": [
+    {
+     "text": "Without",
+     "start": 170.336,
+     "end": 171.201
+    },
+    {
+     "text": "you",
+     "start": 171.201,
+     "end": 171.88
+    },
+    {
+     "text": "I",
+     "start": 171.88,
+     "end": 172.211
+    },
+    {
+     "text": "feel",
+     "start": 172.211,
+     "end": 172.611
+    },
+    {
+     "text": "torn",
+     "start": 172.611,
+     "end": 173.185
+    }
+   ]
+  },
+  {
+   "start": 173.185,
+   "end": 177.427,
+   "words": [
+    {
+     "text": "Like",
+     "start": 173.285,
+     "end": 173.685
+    },
+    {
+     "text": "a",
+     "start": 173.685,
+     "end": 174.068
+    },
+    {
+     "text": "sail",
+     "start": 174.068,
+     "end": 174.844
+    },
+    {
+     "text": "in",
+     "start": 174.844,
+     "end": 175.183
+    },
+    {
+     "text": "a",
+     "start": 175.183,
+     "end": 175.427
+    },
+    {
+     "text": "storm",
+     "start": 175.427,
+     "end": 177.427
+    }
+   ]
+  },
+  {
+   "start": 178.589,
+   "end": 181.705,
+   "words": [
+    {
+     "text": "Without",
+     "start": 178.689,
+     "end": 179.705
+    },
+    {
+     "text": "you",
+     "start": 179.705,
+     "end": 181.705
+    }
+   ]
+  },
+  {
+   "start": 181.997,
+   "end": 184.551,
+   "words": [
+    {
+     "text": "Without",
+     "start": 182.097,
+     "end": 182.433
+    },
+    {
+     "text": "you",
+     "start": 182.433,
+     "end": 183.136
+    },
+    {
+     "text": "I",
+     "start": 183.136,
+     "end": 183.484
+    },
+    {
+     "text": "feel",
+     "start": 183.484,
+     "end": 183.885
+    },
+    {
+     "text": "broke",
+     "start": 183.885,
+     "end": 184.551
+    }
+   ]
+  },
+  {
+   "start": 184.551,
+   "end": 187.331,
+   "words": [
+    {
+     "text": "Like",
+     "start": 184.651,
+     "end": 184.889
+    },
+    {
+     "text": "I'm",
+     "start": 184.889,
+     "end": 185.22
+    },
+    {
+     "text": "half",
+     "start": 185.22,
+     "end": 185.998
+    },
+    {
+     "text": "of",
+     "start": 185.998,
+     "end": 186.358
+    },
+    {
+     "text": "a",
+     "start": 186.358,
+     "end": 186.688
+    },
+    {
+     "text": "whole",
+     "start": 186.688,
+     "end": 187.331
+    }
+   ]
+  },
+  {
+   "start": 187.331,
+   "end": 192.875,
+   "words": [
+    {
+     "text": "Without",
+     "start": 187.431,
+     "end": 188.158
+    },
+    {
+     "text": "you",
+     "start": 188.158,
+     "end": 188.854
+    },
+    {
+     "text": "I've",
+     "start": 188.854,
+     "end": 189.196
+    },
+    {
+     "text": "got",
+     "start": 189.196,
+     "end": 189.55
+    },
+    {
+     "text": "no",
+     "start": 189.55,
+     "end": 190.061
+    },
+    {
+     "text": "hand",
+     "start": 190.061,
+     "end": 190.621
+    },
+    {
+     "text": "to",
+     "start": 190.621,
+     "end": 190.943
+    },
+    {
+     "text": "hold",
+     "start": 190.943,
+     "end": 192.875
+    }
+   ]
+  },
+  {
+   "start": 192.875,
+   "end": 195.745,
+   "words": [
+    {
+     "text": "Without",
+     "start": 192.975,
+     "end": 193.771
+    },
+    {
+     "text": "you",
+     "start": 193.771,
+     "end": 194.456
+    },
+    {
+     "text": "I",
+     "start": 194.456,
+     "end": 194.704
+    },
+    {
+     "text": "feel",
+     "start": 194.704,
+     "end": 195.165
+    },
+    {
+     "text": "torn",
+     "start": 195.165,
+     "end": 195.745
+    }
+   ]
+  },
+  {
+   "start": 195.745,
+   "end": 200.002,
+   "words": [
+    {
+     "text": "Like",
+     "start": 195.845,
+     "end": 196.238
+    },
+    {
+     "text": "a",
+     "start": 196.238,
+     "end": 196.638
+    },
+    {
+     "text": "sail",
+     "start": 196.638,
+     "end": 197.387
+    },
+    {
+     "text": "in",
+     "start": 197.387,
+     "end": 197.687
+    },
+    {
+     "text": "a",
+     "start": 197.687,
+     "end": 198.002
+    },
+    {
+     "text": "storm",
+     "start": 198.002,
+     "end": 200.002
+    }
+   ]
+  },
+  {
+   "start": 201.066,
+   "end": 207.595,
+   "words": [
+    {
+     "text": "Without",
+     "start": 201.166,
+     "end": 202.275
+    },
+    {
+     "text": "you",
+     "start": 202.275,
+     "end": 203.999
+    },
+    {
+     "text": "I'm",
+     "start": 203.999,
+     "end": 204.341
+    },
+    {
+     "text": "just",
+     "start": 204.341,
+     "end": 204.696
+    },
+    {
+     "text": "a",
+     "start": 204.696,
+     "end": 205.044
+    },
+    {
+     "text": "sad",
+     "start": 205.044,
+     "end": 205.595
+    },
+    {
+     "text": "song",
+     "start": 205.595,
+     "end": 207.595
+    }
+   ]
+  },
+  {
+   "start": 209.489,
+   "end": 213.255,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 209.589,
+     "end": 209.92
+    },
+    {
+     "text": "just",
+     "start": 209.92,
+     "end": 210.297
+    },
+    {
+     "text": "a",
+     "start": 210.297,
+     "end": 210.704
+    },
+    {
+     "text": "sad",
+     "start": 210.704,
+     "end": 211.255
+    },
+    {
+     "text": "song",
+     "start": 211.255,
+     "end": 213.255
+    }
+   ]
+  }
+ ]
+}

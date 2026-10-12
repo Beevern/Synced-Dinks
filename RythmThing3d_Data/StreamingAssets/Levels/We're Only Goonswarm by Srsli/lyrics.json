@@ -1,0 +1,1844 @@
+{
+ "title": "We're Only Goonswarm",
+ "artist": "Srsli",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 2.663,
+   "end": 5.564,
+   "words": [
+    {
+     "text": "We're",
+     "start": 2.763,
+     "end": 3.173
+    },
+    {
+     "text": "only",
+     "start": 3.173,
+     "end": 3.564
+    },
+    {
+     "text": "goonswarm",
+     "start": 3.564,
+     "end": 5.564
+    }
+   ]
+  },
+  {
+   "start": 5.873,
+   "end": 8.356,
+   "words": [
+    {
+     "text": "we're",
+     "start": 5.973,
+     "end": 6.356
+    },
+    {
+     "text": "only",
+     "start": 6.356,
+     "end": 8.356
+    }
+   ]
+  },
+  {
+   "start": 9.06,
+   "end": 11.915,
+   "words": [
+    {
+     "text": "we're",
+     "start": 9.16,
+     "end": 9.559
+    },
+    {
+     "text": "only",
+     "start": 9.559,
+     "end": 9.915
+    },
+    {
+     "text": "goonswarm",
+     "start": 9.915,
+     "end": 11.915
+    }
+   ]
+  },
+  {
+   "start": 13.971,
+   "end": 16.833,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 14.071,
+     "end": 14.541
+    },
+    {
+     "text": "we're",
+     "start": 14.541,
+     "end": 14.687
+    },
+    {
+     "text": "crabbers",
+     "start": 14.687,
+     "end": 15.685
+    },
+    {
+     "text": "Maybe",
+     "start": 15.685,
+     "end": 15.929
+    },
+    {
+     "text": "we're",
+     "start": 15.929,
+     "end": 16.295
+    },
+    {
+     "text": "blind",
+     "start": 16.295,
+     "end": 16.833
+    }
+   ]
+  },
+  {
+   "start": 16.833,
+   "end": 20.363,
+   "words": [
+    {
+     "text": "Thinking",
+     "start": 16.933,
+     "end": 17.363
+    },
+    {
+     "text": "we",
+     "start": 17.363,
+     "end": 17.427
+    },
+    {
+     "text": "can",
+     "start": 17.427,
+     "end": 17.705
+    },
+    {
+     "text": "mine",
+     "start": 17.705,
+     "end": 17.961
+    },
+    {
+     "text": "through",
+     "start": 17.961,
+     "end": 18.332
+    },
+    {
+     "text": "this",
+     "start": 18.332,
+     "end": 18.53
+    },
+    {
+     "text": "and",
+     "start": 18.53,
+     "end": 18.692
+    },
+    {
+     "text": "see",
+     "start": 18.692,
+     "end": 18.924
+    },
+    {
+     "text": "papi",
+     "start": 18.924,
+     "end": 19.325
+    },
+    {
+     "text": "decline",
+     "start": 19.325,
+     "end": 20.363
+    }
+   ]
+  },
+  {
+   "start": 20.363,
+   "end": 24.695,
+   "words": [
+    {
+     "text": "maybe",
+     "start": 20.463,
+     "end": 20.944
+    },
+    {
+     "text": "we're",
+     "start": 20.944,
+     "end": 21.09
+    },
+    {
+     "text": "bad",
+     "start": 21.09,
+     "end": 21.537
+    },
+    {
+     "text": "guys",
+     "start": 21.537,
+     "end": 22.163
+    },
+    {
+     "text": "but",
+     "start": 22.163,
+     "end": 22.367
+    },
+    {
+     "text": "we",
+     "start": 22.367,
+     "end": 22.552
+    },
+    {
+     "text": "don't",
+     "start": 22.552,
+     "end": 22.785
+    },
+    {
+     "text": "mind",
+     "start": 22.785,
+     "end": 24.695
+    }
+   ]
+  },
+  {
+   "start": 24.695,
+   "end": 28.356,
+   "words": [
+    {
+     "text": "But",
+     "start": 24.795,
+     "end": 25.205
+    },
+    {
+     "text": "we're",
+     "start": 25.205,
+     "end": 25.556
+    },
+    {
+     "text": "only",
+     "start": 25.556,
+     "end": 25.942
+    },
+    {
+     "text": "goonswarm",
+     "start": 25.942,
+     "end": 26.987
+    },
+    {
+     "text": "afterall",
+     "start": 26.987,
+     "end": 28.356
+    }
+   ]
+  },
+  {
+   "start": 28.356,
+   "end": 30.981,
+   "words": [
+    {
+     "text": "we're",
+     "start": 28.456,
+     "end": 28.779
+    },
+    {
+     "text": "only",
+     "start": 28.779,
+     "end": 29.147
+    },
+    {
+     "text": "goonswarm",
+     "start": 29.147,
+     "end": 30.198
+    },
+    {
+     "text": "afterall",
+     "start": 30.198,
+     "end": 30.981
+    }
+   ]
+  },
+  {
+   "start": 30.981,
+   "end": 34.231,
+   "words": [
+    {
+     "text": "don't",
+     "start": 31.081,
+     "end": 31.382
+    },
+    {
+     "text": "put",
+     "start": 31.382,
+     "end": 31.544
+    },
+    {
+     "text": "your",
+     "start": 31.544,
+     "end": 31.782
+    },
+    {
+     "text": "hate",
+     "start": 31.782,
+     "end": 32.212
+    },
+    {
+     "text": "on",
+     "start": 32.212,
+     "end": 32.589
+    },
+    {
+     "text": "us",
+     "start": 32.589,
+     "end": 34.231
+    }
+   ]
+  },
+  {
+   "start": 34.231,
+   "end": 37.759,
+   "words": [
+    {
+     "text": "don't",
+     "start": 34.331,
+     "end": 34.557
+    },
+    {
+     "text": "put",
+     "start": 34.557,
+     "end": 34.737
+    },
+    {
+     "text": "your",
+     "start": 34.737,
+     "end": 34.958
+    },
+    {
+     "text": "hate",
+     "start": 34.958,
+     "end": 35.381
+    },
+    {
+     "text": "on",
+     "start": 35.381,
+     "end": 35.759
+    },
+    {
+     "text": "us",
+     "start": 35.759,
+     "end": 37.759
+    }
+   ]
+  },
+  {
+   "start": 39.177,
+   "end": 42.445,
+   "words": [
+    {
+     "text": "Take",
+     "start": 39.277,
+     "end": 39.526
+    },
+    {
+     "text": "a",
+     "start": 39.526,
+     "end": 39.753
+    },
+    {
+     "text": "look",
+     "start": 39.753,
+     "end": 39.944
+    },
+    {
+     "text": "at",
+     "start": 39.944,
+     "end": 40.124
+    },
+    {
+     "text": "your",
+     "start": 40.124,
+     "end": 40.339
+    },
+    {
+     "text": "alliance",
+     "start": 40.339,
+     "end": 41.252
+    },
+    {
+     "text": "what",
+     "start": 41.252,
+     "end": 41.581
+    },
+    {
+     "text": "do",
+     "start": 41.581,
+     "end": 41.632
+    },
+    {
+     "text": "you",
+     "start": 41.632,
+     "end": 41.866
+    },
+    {
+     "text": "see",
+     "start": 41.866,
+     "end": 42.445
+    }
+   ]
+  },
+  {
+   "start": 42.445,
+   "end": 50.067,
+   "words": [
+    {
+     "text": "is",
+     "start": 42.545,
+     "end": 42.693
+    },
+    {
+     "text": "your",
+     "start": 42.693,
+     "end": 42.894
+    },
+    {
+     "text": "leadership",
+     "start": 42.894,
+     "end": 43.445
+    },
+    {
+     "text": "lieing",
+     "start": 43.445,
+     "end": 44.553
+    },
+    {
+     "text": "are",
+     "start": 44.553,
+     "end": 44.775
+    },
+    {
+     "text": "you",
+     "start": 44.775,
+     "end": 44.942
+    },
+    {
+     "text": "deceived",
+     "start": 44.942,
+     "end": 47.491
+    },
+    {
+     "text": "in",
+     "start": 47.491,
+     "end": 47.658
+    },
+    {
+     "text": "what",
+     "start": 47.658,
+     "end": 47.932
+    },
+    {
+     "text": "you",
+     "start": 47.932,
+     "end": 48.141
+    },
+    {
+     "text": "believe",
+     "start": 48.141,
+     "end": 50.067
+    }
+   ]
+  },
+  {
+   "start": 50.067,
+   "end": 53.968,
+   "words": [
+    {
+     "text": "cos",
+     "start": 50.167,
+     "end": 50.991
+    },
+    {
+     "text": "we're",
+     "start": 50.991,
+     "end": 51.161
+    },
+    {
+     "text": "only",
+     "start": 51.161,
+     "end": 51.531
+    },
+    {
+     "text": "goonswarm",
+     "start": 51.531,
+     "end": 52.524
+    },
+    {
+     "text": "afterall",
+     "start": 52.524,
+     "end": 53.968
+    }
+   ]
+  },
+  {
+   "start": 53.968,
+   "end": 56.632,
+   "words": [
+    {
+     "text": "i'm",
+     "start": 54.068,
+     "end": 54.37
+    },
+    {
+     "text": "only",
+     "start": 54.37,
+     "end": 54.718
+    },
+    {
+     "text": "goonswarm",
+     "start": 54.718,
+     "end": 55.716
+    },
+    {
+     "text": "afterall",
+     "start": 55.716,
+     "end": 56.632
+    }
+   ]
+  },
+  {
+   "start": 56.632,
+   "end": 59.819,
+   "words": [
+    {
+     "text": "don't",
+     "start": 56.732,
+     "end": 56.924
+    },
+    {
+     "text": "put",
+     "start": 56.924,
+     "end": 57.075
+    },
+    {
+     "text": "the",
+     "start": 57.075,
+     "end": 57.359
+    },
+    {
+     "text": "hate",
+     "start": 57.359,
+     "end": 57.765
+    },
+    {
+     "text": "on",
+     "start": 57.765,
+     "end": 58.154
+    },
+    {
+     "text": "us",
+     "start": 58.154,
+     "end": 59.819
+    }
+   ]
+  },
+  {
+   "start": 59.819,
+   "end": 63.318,
+   "words": [
+    {
+     "text": "don't",
+     "start": 59.919,
+     "end": 60.145
+    },
+    {
+     "text": "put",
+     "start": 60.145,
+     "end": 60.279
+    },
+    {
+     "text": "your",
+     "start": 60.279,
+     "end": 60.558
+    },
+    {
+     "text": "hate",
+     "start": 60.558,
+     "end": 60.941
+    },
+    {
+     "text": "on",
+     "start": 60.941,
+     "end": 61.318
+    },
+    {
+     "text": "us",
+     "start": 61.318,
+     "end": 63.318
+    }
+   ]
+  },
+  {
+   "start": 64.701,
+   "end": 67.9,
+   "words": [
+    {
+     "text": "Some",
+     "start": 64.801,
+     "end": 65.184
+    },
+    {
+     "text": "alliances",
+     "start": 65.184,
+     "end": 65.672
+    },
+    {
+     "text": "have",
+     "start": 65.672,
+     "end": 65.974
+    },
+    {
+     "text": "the",
+     "start": 65.974,
+     "end": 66.159
+    },
+    {
+     "text": "real",
+     "start": 66.159,
+     "end": 66.502
+    },
+    {
+     "text": "problems",
+     "start": 66.502,
+     "end": 67.9
+    }
+   ]
+  },
+  {
+   "start": 67.9,
+   "end": 71.063,
+   "words": [
+    {
+     "text": "some",
+     "start": 68.0,
+     "end": 68.319
+    },
+    {
+     "text": "alliances",
+     "start": 68.319,
+     "end": 68.923
+    },
+    {
+     "text": "have",
+     "start": 68.923,
+     "end": 69.294
+    },
+    {
+     "text": "titans",
+     "start": 69.294,
+     "end": 69.625
+    },
+    {
+     "text": "stuck",
+     "start": 69.625,
+     "end": 71.063
+    }
+   ]
+  },
+  {
+   "start": 71.063,
+   "end": 74.285,
+   "words": [
+    {
+     "text": "some",
+     "start": 71.163,
+     "end": 71.546
+    },
+    {
+     "text": "alliances",
+     "start": 71.546,
+     "end": 72.127
+    },
+    {
+     "text": "think",
+     "start": 72.127,
+     "end": 72.499
+    },
+    {
+     "text": "we're",
+     "start": 72.499,
+     "end": 72.771
+    },
+    {
+     "text": "the",
+     "start": 72.771,
+     "end": 72.863
+    },
+    {
+     "text": "problem",
+     "start": 72.863,
+     "end": 74.285
+    }
+   ]
+  },
+  {
+   "start": 74.285,
+   "end": 76.346,
+   "words": [
+    {
+     "text": "lord",
+     "start": 74.385,
+     "end": 74.864
+    },
+    {
+     "text": "Merk",
+     "start": 74.864,
+     "end": 75.32
+    },
+    {
+     "text": "above",
+     "start": 75.32,
+     "end": 76.346
+    }
+   ]
+  },
+  {
+   "start": 76.346,
+   "end": 79.55,
+   "words": [
+    {
+     "text": "we're",
+     "start": 76.446,
+     "end": 76.766
+    },
+    {
+     "text": "only",
+     "start": 76.766,
+     "end": 77.154
+    },
+    {
+     "text": "goonswarm",
+     "start": 77.154,
+     "end": 78.158
+    },
+    {
+     "text": "afterall",
+     "start": 78.158,
+     "end": 79.55
+    }
+   ]
+  },
+  {
+   "start": 79.55,
+   "end": 82.209,
+   "words": [
+    {
+     "text": "we're",
+     "start": 79.65,
+     "end": 79.931
+    },
+    {
+     "text": "only",
+     "start": 79.931,
+     "end": 80.353
+    },
+    {
+     "text": "goonswarm",
+     "start": 80.353,
+     "end": 81.351
+    },
+    {
+     "text": "afterall",
+     "start": 81.351,
+     "end": 82.209
+    }
+   ]
+  },
+  {
+   "start": 82.209,
+   "end": 85.413,
+   "words": [
+    {
+     "text": "don't",
+     "start": 82.309,
+     "end": 82.512
+    },
+    {
+     "text": "put",
+     "start": 82.512,
+     "end": 82.727
+    },
+    {
+     "text": "the",
+     "start": 82.727,
+     "end": 82.854
+    },
+    {
+     "text": "hate",
+     "start": 82.854,
+     "end": 83.36
+    },
+    {
+     "text": "on",
+     "start": 83.36,
+     "end": 83.749
+    },
+    {
+     "text": "us",
+     "start": 83.749,
+     "end": 85.413
+    }
+   ]
+  },
+  {
+   "start": 85.413,
+   "end": 88.982,
+   "words": [
+    {
+     "text": "don't",
+     "start": 85.513,
+     "end": 85.734
+    },
+    {
+     "text": "put",
+     "start": 85.734,
+     "end": 85.925
+    },
+    {
+     "text": "the",
+     "start": 85.925,
+     "end": 86.097
+    },
+    {
+     "text": "hate",
+     "start": 86.097,
+     "end": 86.597
+    },
+    {
+     "text": "on",
+     "start": 86.597,
+     "end": 86.982
+    },
+    {
+     "text": "us",
+     "start": 86.982,
+     "end": 88.982
+    }
+   ]
+  },
+  {
+   "start": 90.597,
+   "end": 93.587,
+   "words": [
+    {
+     "text": "don't",
+     "start": 90.697,
+     "end": 90.865
+    },
+    {
+     "text": "threaten",
+     "start": 90.865,
+     "end": 91.347
+    },
+    {
+     "text": "our",
+     "start": 91.347,
+     "end": 91.501
+    },
+    {
+     "text": "homeland",
+     "start": 91.501,
+     "end": 92.305
+    },
+    {
+     "text": "dont",
+     "start": 92.305,
+     "end": 92.491
+    },
+    {
+     "text": "ask",
+     "start": 92.491,
+     "end": 92.735
+    },
+    {
+     "text": "us",
+     "start": 92.735,
+     "end": 92.92
+    },
+    {
+     "text": "to",
+     "start": 92.92,
+     "end": 93.112
+    },
+    {
+     "text": "die",
+     "start": 93.112,
+     "end": 93.587
+    }
+   ]
+  },
+  {
+   "start": 93.587,
+   "end": 98.322,
+   "words": [
+    {
+     "text": "then",
+     "start": 93.687,
+     "end": 94.116
+    },
+    {
+     "text": "beg",
+     "start": 94.116,
+     "end": 94.319
+    },
+    {
+     "text": "for",
+     "start": 94.319,
+     "end": 94.476
+    },
+    {
+     "text": "forgiveness",
+     "start": 94.476,
+     "end": 95.382
+    },
+    {
+     "text": "when",
+     "start": 95.382,
+     "end": 95.701
+    },
+    {
+     "text": "we",
+     "start": 95.701,
+     "end": 95.881
+    },
+    {
+     "text": "turn",
+     "start": 95.881,
+     "end": 96.177
+    },
+    {
+     "text": "the",
+     "start": 96.177,
+     "end": 96.322
+    },
+    {
+     "text": "tide",
+     "start": 96.322,
+     "end": 98.322
+    }
+   ]
+  },
+  {
+   "start": 98.689,
+   "end": 101.468,
+   "words": [
+    {
+     "text": "we",
+     "start": 98.789,
+     "end": 99.08
+    },
+    {
+     "text": "turn",
+     "start": 99.08,
+     "end": 99.329
+    },
+    {
+     "text": "the",
+     "start": 99.329,
+     "end": 99.468
+    },
+    {
+     "text": "tide",
+     "start": 99.468,
+     "end": 101.468
+    }
+   ]
+  },
+  {
+   "start": 101.789,
+   "end": 105.162,
+   "words": [
+    {
+     "text": "cos",
+     "start": 101.889,
+     "end": 102.156
+    },
+    {
+     "text": "we're",
+     "start": 102.156,
+     "end": 102.336
+    },
+    {
+     "text": "only",
+     "start": 102.336,
+     "end": 102.713
+    },
+    {
+     "text": "goonswarm",
+     "start": 102.713,
+     "end": 103.753
+    },
+    {
+     "text": "afterall",
+     "start": 103.753,
+     "end": 105.162
+    }
+   ]
+  },
+  {
+   "start": 105.162,
+   "end": 107.809,
+   "words": [
+    {
+     "text": "we're",
+     "start": 105.262,
+     "end": 105.576
+    },
+    {
+     "text": "only",
+     "start": 105.576,
+     "end": 105.924
+    },
+    {
+     "text": "goonswarm",
+     "start": 105.924,
+     "end": 106.928
+    },
+    {
+     "text": "afterall",
+     "start": 106.928,
+     "end": 107.809
+    }
+   ]
+  },
+  {
+   "start": 107.809,
+   "end": 110.99,
+   "words": [
+    {
+     "text": "don't",
+     "start": 107.909,
+     "end": 108.112
+    },
+    {
+     "text": "put",
+     "start": 108.112,
+     "end": 108.286
+    },
+    {
+     "text": "the",
+     "start": 108.286,
+     "end": 108.547
+    },
+    {
+     "text": "hate",
+     "start": 108.547,
+     "end": 108.979
+    },
+    {
+     "text": "on",
+     "start": 108.979,
+     "end": 109.343
+    },
+    {
+     "text": "us",
+     "start": 109.343,
+     "end": 110.99
+    }
+   ]
+  },
+  {
+   "start": 110.99,
+   "end": 114.547,
+   "words": [
+    {
+     "text": "don't",
+     "start": 111.09,
+     "end": 111.322
+    },
+    {
+     "text": "put",
+     "start": 111.322,
+     "end": 111.491
+    },
+    {
+     "text": "your",
+     "start": 111.491,
+     "end": 111.729
+    },
+    {
+     "text": "hate",
+     "start": 111.729,
+     "end": 112.158
+    },
+    {
+     "text": "on",
+     "start": 112.158,
+     "end": 112.547
+    },
+    {
+     "text": "us",
+     "start": 112.547,
+     "end": 114.547
+    }
+   ]
+  },
+  {
+   "start": 116.046,
+   "end": 119.1,
+   "words": [
+    {
+     "text": "Some",
+     "start": 116.146,
+     "end": 116.39
+    },
+    {
+     "text": "alliances",
+     "start": 116.39,
+     "end": 116.924
+    },
+    {
+     "text": "have",
+     "start": 116.924,
+     "end": 117.15
+    },
+    {
+     "text": "the",
+     "start": 117.15,
+     "end": 117.359
+    },
+    {
+     "text": "real",
+     "start": 117.359,
+     "end": 117.719
+    },
+    {
+     "text": "problems",
+     "start": 117.719,
+     "end": 119.1
+    }
+   ]
+  },
+  {
+   "start": 119.1,
+   "end": 122.414,
+   "words": [
+    {
+     "text": "some",
+     "start": 119.2,
+     "end": 119.525
+    },
+    {
+     "text": "alliances",
+     "start": 119.525,
+     "end": 120.001
+    },
+    {
+     "text": "are",
+     "start": 120.001,
+     "end": 120.14
+    },
+    {
+     "text": "short",
+     "start": 120.14,
+     "end": 120.43
+    },
+    {
+     "text": "on",
+     "start": 120.43,
+     "end": 120.48
+    },
+    {
+     "text": "funds",
+     "start": 120.471,
+     "end": 122.414
+    }
+   ]
+  },
+  {
+   "start": 122.414,
+   "end": 125.532,
+   "words": [
+    {
+     "text": "some",
+     "start": 122.514,
+     "end": 122.733
+    },
+    {
+     "text": "alliances",
+     "start": 122.733,
+     "end": 123.327
+    },
+    {
+     "text": "think",
+     "start": 123.327,
+     "end": 123.733
+    },
+    {
+     "text": "we're",
+     "start": 123.733,
+     "end": 123.96
+    },
+    {
+     "text": "the",
+     "start": 123.96,
+     "end": 124.093
+    },
+    {
+     "text": "problem",
+     "start": 124.093,
+     "end": 125.532
+    }
+   ]
+  },
+  {
+   "start": 125.532,
+   "end": 127.528,
+   "words": [
+    {
+     "text": "lord",
+     "start": 125.632,
+     "end": 126.077
+    },
+    {
+     "text": "Asher",
+     "start": 126.077,
+     "end": 126.717
+    },
+    {
+     "text": "above",
+     "start": 126.717,
+     "end": 127.528
+    }
+   ]
+  },
+  {
+   "start": 127.528,
+   "end": 130.773,
+   "words": [
+    {
+     "text": "we're",
+     "start": 127.628,
+     "end": 127.938
+    },
+    {
+     "text": "only",
+     "start": 127.938,
+     "end": 128.337
+    },
+    {
+     "text": "goonswarm",
+     "start": 128.337,
+     "end": 129.358
+    },
+    {
+     "text": "afterall",
+     "start": 129.358,
+     "end": 130.773
+    }
+   ]
+  },
+  {
+   "start": 130.773,
+   "end": 133.415,
+   "words": [
+    {
+     "text": "we're",
+     "start": 130.873,
+     "end": 131.141
+    },
+    {
+     "text": "only",
+     "start": 131.141,
+     "end": 131.529
+    },
+    {
+     "text": "goonswarm",
+     "start": 131.529,
+     "end": 132.563
+    },
+    {
+     "text": "afterall",
+     "start": 132.563,
+     "end": 133.415
+    }
+   ]
+  },
+  {
+   "start": 133.415,
+   "end": 136.573,
+   "words": [
+    {
+     "text": "don't",
+     "start": 133.515,
+     "end": 133.73
+    },
+    {
+     "text": "put",
+     "start": 133.73,
+     "end": 133.915
+    },
+    {
+     "text": "the",
+     "start": 133.915,
+     "end": 134.066
+    },
+    {
+     "text": "hate",
+     "start": 134.066,
+     "end": 134.564
+    },
+    {
+     "text": "on",
+     "start": 134.564,
+     "end": 134.943
+    },
+    {
+     "text": "us",
+     "start": 134.943,
+     "end": 136.573
+    }
+   ]
+  },
+  {
+   "start": 136.573,
+   "end": 140.17,
+   "words": [
+    {
+     "text": "don't",
+     "start": 136.673,
+     "end": 136.928
+    },
+    {
+     "text": "put",
+     "start": 136.928,
+     "end": 137.125
+    },
+    {
+     "text": "the",
+     "start": 137.125,
+     "end": 137.287
+    },
+    {
+     "text": "hate",
+     "start": 137.287,
+     "end": 137.776
+    },
+    {
+     "text": "on",
+     "start": 137.776,
+     "end": 138.17
+    },
+    {
+     "text": "us",
+     "start": 138.17,
+     "end": 140.17
+    }
+   ]
+  },
+  {
+   "start": 140.259,
+   "end": 143.544,
+   "words": [
+    {
+     "text": "we're",
+     "start": 140.359,
+     "end": 140.585
+    },
+    {
+     "text": "only",
+     "start": 140.585,
+     "end": 141.131
+    },
+    {
+     "text": "goonswarm",
+     "start": 141.131,
+     "end": 141.955
+    },
+    {
+     "text": "we've",
+     "start": 141.955,
+     "end": 142.182
+    },
+    {
+     "text": "made",
+     "start": 142.182,
+     "end": 142.536
+    },
+    {
+     "text": "mistakes",
+     "start": 142.536,
+     "end": 143.544
+    }
+   ]
+  },
+  {
+   "start": 143.544,
+   "end": 149.373,
+   "words": [
+    {
+     "text": "we're",
+     "start": 143.644,
+     "end": 143.842
+    },
+    {
+     "text": "only",
+     "start": 143.842,
+     "end": 144.324
+    },
+    {
+     "text": "goonswarm",
+     "start": 144.324,
+     "end": 144.895
+    },
+    {
+     "text": "and",
+     "start": 144.895,
+     "end": 145.084
+    },
+    {
+     "text": "that's",
+     "start": 145.084,
+     "end": 145.357
+    },
+    {
+     "text": "all",
+     "start": 145.357,
+     "end": 145.717
+    },
+    {
+     "text": "it",
+     "start": 145.717,
+     "end": 145.85
+    },
+    {
+     "text": "takes",
+     "start": 145.85,
+     "end": 146.228
+    },
+    {
+     "text": "to",
+     "start": 146.228,
+     "end": 146.524
+    },
+    {
+     "text": "put",
+     "start": 146.524,
+     "end": 146.692
+    },
+    {
+     "text": "the",
+     "start": 146.692,
+     "end": 146.857
+    },
+    {
+     "text": "hate",
+     "start": 146.857,
+     "end": 147.338
+    },
+    {
+     "text": "on",
+     "start": 147.338,
+     "end": 147.725
+    },
+    {
+     "text": "us",
+     "start": 147.725,
+     "end": 149.373
+    }
+   ]
+  },
+  {
+   "start": 149.373,
+   "end": 152.947,
+   "words": [
+    {
+     "text": "don't",
+     "start": 149.473,
+     "end": 149.705
+    },
+    {
+     "text": "put",
+     "start": 149.705,
+     "end": 149.879
+    },
+    {
+     "text": "your",
+     "start": 149.879,
+     "end": 150.163
+    },
+    {
+     "text": "hate",
+     "start": 150.163,
+     "end": 150.558
+    },
+    {
+     "text": "on",
+     "start": 150.558,
+     "end": 150.947
+    },
+    {
+     "text": "us",
+     "start": 150.947,
+     "end": 152.947
+    }
+   ]
+  },
+  {
+   "start": 154.764,
+   "end": 159.002,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 154.864,
+     "end": 155.225
+    },
+    {
+     "text": "no",
+     "start": 155.225,
+     "end": 155.785
+    },
+    {
+     "text": "asher",
+     "start": 155.785,
+     "end": 156.433
+    },
+    {
+     "text": "or",
+     "start": 156.433,
+     "end": 157.002
+    },
+    {
+     "text": "mittani",
+     "start": 157.002,
+     "end": 159.002
+    }
+   ]
+  },
+  {
+   "start": 160.983,
+   "end": 165.683,
+   "words": [
+    {
+     "text": "but",
+     "start": 161.083,
+     "end": 161.367
+    },
+    {
+     "text": "vily",
+     "start": 161.367,
+     "end": 161.849
+    },
+    {
+     "text": "still",
+     "start": 161.849,
+     "end": 162.133
+    },
+    {
+     "text": "wants",
+     "start": 162.133,
+     "end": 162.499
+    },
+    {
+     "text": "me",
+     "start": 162.499,
+     "end": 162.76
+    },
+    {
+     "text": "to",
+     "start": 162.76,
+     "end": 162.923
+    },
+    {
+     "text": "quit",
+     "start": 162.923,
+     "end": 163.457
+    },
+    {
+     "text": "the",
+     "start": 163.457,
+     "end": 163.683
+    },
+    {
+     "text": "game",
+     "start": 163.683,
+     "end": 165.683
+    }
+   ]
+  },
+  {
+   "start": 169.197,
+   "end": 172.326,
+   "words": [
+    {
+     "text": "we're",
+     "start": 169.297,
+     "end": 169.54
+    },
+    {
+     "text": "only",
+     "start": 169.54,
+     "end": 169.912
+    },
+    {
+     "text": "goonswarm",
+     "start": 169.912,
+     "end": 170.963
+    },
+    {
+     "text": "afterall",
+     "start": 170.963,
+     "end": 172.326
+    }
+   ]
+  },
+  {
+   "start": 172.326,
+   "end": 174.945,
+   "words": [
+    {
+     "text": "we're",
+     "start": 172.426,
+     "end": 172.774
+    },
+    {
+     "text": "only",
+     "start": 172.774,
+     "end": 173.111
+    },
+    {
+     "text": "goonswarm",
+     "start": 173.111,
+     "end": 174.161
+    },
+    {
+     "text": "afterall",
+     "start": 174.161,
+     "end": 174.945
+    }
+   ]
+  },
+  {
+   "start": 174.945,
+   "end": 178.194,
+   "words": [
+    {
+     "text": "don't",
+     "start": 175.045,
+     "end": 175.345
+    },
+    {
+     "text": "put",
+     "start": 175.345,
+     "end": 175.52
+    },
+    {
+     "text": "the",
+     "start": 175.52,
+     "end": 175.758
+    },
+    {
+     "text": "hate",
+     "start": 175.758,
+     "end": 176.17
+    },
+    {
+     "text": "on",
+     "start": 176.17,
+     "end": 176.541
+    },
+    {
+     "text": "us",
+     "start": 176.541,
+     "end": 178.194
+    }
+   ]
+  },
+  {
+   "start": 178.194,
+   "end": 181.74,
+   "words": [
+    {
+     "text": "don't",
+     "start": 178.294,
+     "end": 178.527
+    },
+    {
+     "text": "put",
+     "start": 178.527,
+     "end": 178.712
+    },
+    {
+     "text": "the",
+     "start": 178.712,
+     "end": 178.888
+    },
+    {
+     "text": "hate",
+     "start": 178.888,
+     "end": 179.351
+    },
+    {
+     "text": "on",
+     "start": 179.351,
+     "end": 179.74
+    },
+    {
+     "text": "us",
+     "start": 179.74,
+     "end": 181.74
+    }
+   ]
+  },
+  {
+   "start": 181.944,
+   "end": 185.056,
+   "words": [
+    {
+     "text": "we're",
+     "start": 182.044,
+     "end": 182.422
+    },
+    {
+     "text": "all",
+     "start": 182.422,
+     "end": 182.753
+    },
+    {
+     "text": "goonswarm",
+     "start": 182.753,
+     "end": 183.554
+    },
+    {
+     "text": "we",
+     "start": 183.554,
+     "end": 183.74
+    },
+    {
+     "text": "do",
+     "start": 183.74,
+     "end": 183.948
+    },
+    {
+     "text": "what",
+     "start": 183.948,
+     "end": 184.117
+    },
+    {
+     "text": "we",
+     "start": 184.117,
+     "end": 184.314
+    },
+    {
+     "text": "can",
+     "start": 184.314,
+     "end": 185.056
+    }
+   ]
+  },
+  {
+   "start": 185.056,
+   "end": 187.999,
+   "words": [
+    {
+     "text": "i'm",
+     "start": 185.156,
+     "end": 185.289
+    },
+    {
+     "text": "just",
+     "start": 185.289,
+     "end": 185.556
+    },
+    {
+     "text": "a",
+     "start": 185.556,
+     "end": 185.76
+    },
+    {
+     "text": "linemember",
+     "start": 185.76,
+     "end": 186.798
+    },
+    {
+     "text": "I",
+     "start": 186.798,
+     "end": 187.025
+    },
+    {
+     "text": "do",
+     "start": 187.025,
+     "end": 187.234
+    },
+    {
+     "text": "what",
+     "start": 187.234,
+     "end": 187.443
+    },
+    {
+     "text": "I",
+     "start": 187.443,
+     "end": 187.646
+    },
+    {
+     "text": "can",
+     "start": 187.646,
+     "end": 187.999
+    }
+   ]
+  },
+  {
+   "start": 187.999,
+   "end": 191.499,
+   "words": [
+    {
+     "text": "don't",
+     "start": 188.099,
+     "end": 188.296
+    },
+    {
+     "text": "put",
+     "start": 188.296,
+     "end": 188.471
+    },
+    {
+     "text": "your",
+     "start": 188.471,
+     "end": 188.726
+    },
+    {
+     "text": "hate",
+     "start": 188.726,
+     "end": 189.156
+    },
+    {
+     "text": "on",
+     "start": 189.156,
+     "end": 189.568
+    },
+    {
+     "text": "me",
+     "start": 189.568,
+     "end": 191.499
+    }
+   ]
+  },
+  {
+   "start": 191.499,
+   "end": 194.337,
+   "words": [
+    {
+     "text": "just",
+     "start": 191.599,
+     "end": 191.872
+    },
+    {
+     "text": "join",
+     "start": 191.872,
+     "end": 192.337
+    },
+    {
+     "text": "karmafleet",
+     "start": 192.337,
+     "end": 194.337
+    }
+   ]
+  }
+ ]
+}

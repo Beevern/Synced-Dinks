@@ -1,0 +1,1782 @@
+{
+ "title": "Say Goodbye",
+ "artist": "Krewella",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 11.998,
+   "end": 14.639,
+   "words": [
+    {
+     "text": "This",
+     "start": 12.098,
+     "end": 12.399
+    },
+    {
+     "text": "can't",
+     "start": 12.399,
+     "end": 12.788
+    },
+    {
+     "text": "be",
+     "start": 12.788,
+     "end": 13.032
+    },
+    {
+     "text": "how",
+     "start": 13.032,
+     "end": 13.497
+    },
+    {
+     "text": "it",
+     "start": 13.497,
+     "end": 13.851
+    },
+    {
+     "text": "ends",
+     "start": 13.851,
+     "end": 14.639
+    }
+   ]
+  },
+  {
+   "start": 14.639,
+   "end": 17.321,
+   "words": [
+    {
+     "text": "Wasted",
+     "start": 14.739,
+     "end": 15.441
+    },
+    {
+     "text": "in",
+     "start": 15.441,
+     "end": 15.824
+    },
+    {
+     "text": "ignorance",
+     "start": 15.824,
+     "end": 17.321
+    }
+   ]
+  },
+  {
+   "start": 17.321,
+   "end": 19.393,
+   "words": [
+    {
+     "text": "The",
+     "start": 17.421,
+     "end": 17.746
+    },
+    {
+     "text": "bullets",
+     "start": 17.746,
+     "end": 18.442
+    },
+    {
+     "text": "in",
+     "start": 18.442,
+     "end": 18.756
+    },
+    {
+     "text": "your",
+     "start": 18.756,
+     "end": 19.087
+    },
+    {
+     "text": "breath",
+     "start": 19.087,
+     "end": 19.393
+    }
+   ]
+  },
+  {
+   "start": 19.393,
+   "end": 22.638,
+   "words": [
+    {
+     "text": "Are",
+     "start": 19.493,
+     "end": 19.76
+    },
+    {
+     "text": "all",
+     "start": 19.76,
+     "end": 20.259
+    },
+    {
+     "text": "I",
+     "start": 20.259,
+     "end": 20.73
+    },
+    {
+     "text": "know",
+     "start": 20.73,
+     "end": 21.124
+    },
+    {
+     "text": "all",
+     "start": 21.124,
+     "end": 21.624
+    },
+    {
+     "text": "I",
+     "start": 21.624,
+     "end": 22.047
+    },
+    {
+     "text": "know",
+     "start": 22.047,
+     "end": 22.638
+    }
+   ]
+  },
+  {
+   "start": 22.638,
+   "end": 25.245,
+   "words": [
+    {
+     "text": "I'll",
+     "start": 22.738,
+     "end": 23.133
+    },
+    {
+     "text": "never",
+     "start": 23.133,
+     "end": 23.702
+    },
+    {
+     "text": "comprehend",
+     "start": 23.702,
+     "end": 25.245
+    }
+   ]
+  },
+  {
+   "start": 25.245,
+   "end": 27.921,
+   "words": [
+    {
+     "text": "Why",
+     "start": 25.345,
+     "end": 25.623
+    },
+    {
+     "text": "you",
+     "start": 25.623,
+     "end": 26.016
+    },
+    {
+     "text": "left",
+     "start": 26.016,
+     "end": 26.302
+    },
+    {
+     "text": "me",
+     "start": 26.302,
+     "end": 26.761
+    },
+    {
+     "text": "for",
+     "start": 26.761,
+     "end": 27.115
+    },
+    {
+     "text": "dead",
+     "start": 27.115,
+     "end": 27.921
+    }
+   ]
+  },
+  {
+   "start": 27.921,
+   "end": 30.051,
+   "words": [
+    {
+     "text": "Promises",
+     "start": 28.021,
+     "end": 29.089
+    },
+    {
+     "text": "broke",
+     "start": 29.089,
+     "end": 29.373
+    },
+    {
+     "text": "and",
+     "start": 29.373,
+     "end": 29.774
+    },
+    {
+     "text": "bent",
+     "start": 29.774,
+     "end": 30.051
+    }
+   ]
+  },
+  {
+   "start": 30.051,
+   "end": 33.023,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 30.151,
+     "end": 30.453
+    },
+    {
+     "text": "all",
+     "start": 30.453,
+     "end": 30.929
+    },
+    {
+     "text": "alone",
+     "start": 30.929,
+     "end": 31.817
+    },
+    {
+     "text": "all",
+     "start": 31.817,
+     "end": 32.262
+    },
+    {
+     "text": "alone",
+     "start": 32.262,
+     "end": 33.023
+    }
+   ]
+  },
+  {
+   "start": 33.023,
+   "end": 34.084,
+   "words": [
+    {
+     "text": "One",
+     "start": 33.123,
+     "end": 33.286
+    },
+    {
+     "text": "more",
+     "start": 33.286,
+     "end": 33.448
+    },
+    {
+     "text": "word",
+     "start": 33.448,
+     "end": 33.599
+    },
+    {
+     "text": "before",
+     "start": 33.599,
+     "end": 33.907
+    },
+    {
+     "text": "I",
+     "start": 33.907,
+     "end": 34.069
+    },
+    {
+     "text": "break",
+     "start": 34.069,
+     "end": 34.119
+    }
+   ]
+  },
+  {
+   "start": 34.084,
+   "end": 35.682,
+   "words": [
+    {
+     "text": "Look",
+     "start": 34.184,
+     "end": 34.598
+    },
+    {
+     "text": "before",
+     "start": 34.598,
+     "end": 34.958
+    },
+    {
+     "text": "you",
+     "start": 34.958,
+     "end": 35.097
+    },
+    {
+     "text": "fall",
+     "start": 35.097,
+     "end": 35.265
+    },
+    {
+     "text": "from",
+     "start": 35.265,
+     "end": 35.422
+    },
+    {
+     "text": "grace",
+     "start": 35.422,
+     "end": 35.682
+    }
+   ]
+  },
+  {
+   "start": 35.682,
+   "end": 37.023,
+   "words": [
+    {
+     "text": "Read",
+     "start": 35.782,
+     "end": 35.956
+    },
+    {
+     "text": "my",
+     "start": 35.956,
+     "end": 36.113
+    },
+    {
+     "text": "lips",
+     "start": 36.113,
+     "end": 36.38
+    },
+    {
+     "text": "and",
+     "start": 36.38,
+     "end": 36.43
+    },
+    {
+     "text": "shut",
+     "start": 36.366,
+     "end": 36.664
+    },
+    {
+     "text": "your",
+     "start": 36.664,
+     "end": 36.714
+    },
+    {
+     "text": "face",
+     "start": 36.706,
+     "end": 37.023
+    }
+   ]
+  },
+  {
+   "start": 37.023,
+   "end": 38.352,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 37.123,
+     "end": 37.436
+    },
+    {
+     "text": "you're",
+     "start": 37.436,
+     "end": 37.616
+    },
+    {
+     "text": "the",
+     "start": 37.616,
+     "end": 37.767
+    },
+    {
+     "text": "one",
+     "start": 37.767,
+     "end": 37.947
+    },
+    {
+     "text": "to",
+     "start": 37.947,
+     "end": 38.075
+    },
+    {
+     "text": "blame",
+     "start": 38.075,
+     "end": 38.352
+    }
+   ]
+  },
+  {
+   "start": 38.352,
+   "end": 39.635,
+   "words": [
+    {
+     "text": "Same",
+     "start": 38.452,
+     "end": 38.621
+    },
+    {
+     "text": "old",
+     "start": 38.621,
+     "end": 38.789
+    },
+    {
+     "text": "story",
+     "start": 38.789,
+     "end": 39.056
+    },
+    {
+     "text": "every",
+     "start": 39.056,
+     "end": 39.422
+    },
+    {
+     "text": "day",
+     "start": 39.422,
+     "end": 39.635
+    }
+   ]
+  },
+  {
+   "start": 39.635,
+   "end": 41.005,
+   "words": [
+    {
+     "text": "Trip",
+     "start": 39.735,
+     "end": 39.938
+    },
+    {
+     "text": "and",
+     "start": 39.938,
+     "end": 40.06
+    },
+    {
+     "text": "fall",
+     "start": 40.06,
+     "end": 40.263
+    },
+    {
+     "text": "and",
+     "start": 40.263,
+     "end": 40.385
+    },
+    {
+     "text": "run",
+     "start": 40.385,
+     "end": 40.612
+    },
+    {
+     "text": "away",
+     "start": 40.612,
+     "end": 41.005
+    }
+   ]
+  },
+  {
+   "start": 41.005,
+   "end": 42.166,
+   "words": [
+    {
+     "text": "The",
+     "start": 41.105,
+     "end": 41.155
+    },
+    {
+     "text": "truth",
+     "start": 41.052,
+     "end": 41.273
+    },
+    {
+     "text": "is",
+     "start": 41.273,
+     "end": 41.419
+    },
+    {
+     "text": "gonna",
+     "start": 41.419,
+     "end": 41.779
+    },
+    {
+     "text": "find",
+     "start": 41.779,
+     "end": 42.011
+    },
+    {
+     "text": "you",
+     "start": 42.011,
+     "end": 42.166
+    }
+   ]
+  },
+  {
+   "start": 42.166,
+   "end": 43.861,
+   "words": [
+    {
+     "text": "It's",
+     "start": 42.266,
+     "end": 42.333
+    },
+    {
+     "text": "burning",
+     "start": 42.333,
+     "end": 42.789
+    },
+    {
+     "text": "up",
+     "start": 42.789,
+     "end": 42.945
+    },
+    {
+     "text": "inside",
+     "start": 42.945,
+     "end": 43.299
+    },
+    {
+     "text": "you",
+     "start": 43.299,
+     "end": 43.861
+    }
+   ]
+  },
+  {
+   "start": 43.861,
+   "end": 47.401,
+   "words": [
+    {
+     "text": "It",
+     "start": 43.961,
+     "end": 44.153
+    },
+    {
+     "text": "still",
+     "start": 44.153,
+     "end": 44.693
+    },
+    {
+     "text": "kills",
+     "start": 44.693,
+     "end": 45.401
+    },
+    {
+     "text": "me",
+     "start": 45.401,
+     "end": 47.401
+    }
+   ]
+  },
+  {
+   "start": 48.656,
+   "end": 52.155,
+   "words": [
+    {
+     "text": "That",
+     "start": 48.756,
+     "end": 49.116
+    },
+    {
+     "text": "I",
+     "start": 49.116,
+     "end": 49.319
+    },
+    {
+     "text": "can't",
+     "start": 49.319,
+     "end": 49.557
+    },
+    {
+     "text": "change",
+     "start": 49.557,
+     "end": 50.155
+    },
+    {
+     "text": "things",
+     "start": 50.155,
+     "end": 52.155
+    }
+   ]
+  },
+  {
+   "start": 54.008,
+   "end": 56.342,
+   "words": [
+    {
+     "text": "But",
+     "start": 54.108,
+     "end": 54.445
+    },
+    {
+     "text": "I'm",
+     "start": 54.445,
+     "end": 54.967
+    },
+    {
+     "text": "still",
+     "start": 54.967,
+     "end": 55.351
+    },
+    {
+     "text": "dreaming",
+     "start": 55.351,
+     "end": 56.342
+    }
+   ]
+  },
+  {
+   "start": 56.342,
+   "end": 59.035,
+   "words": [
+    {
+     "text": "I'll",
+     "start": 56.442,
+     "end": 56.779
+    },
+    {
+     "text": "rewrite",
+     "start": 56.779,
+     "end": 57.62
+    },
+    {
+     "text": "the",
+     "start": 57.62,
+     "end": 58.532
+    },
+    {
+     "text": "ending",
+     "start": 58.532,
+     "end": 59.035
+    }
+   ]
+  },
+  {
+   "start": 59.035,
+   "end": 61.34,
+   "words": [
+    {
+     "text": "So",
+     "start": 59.135,
+     "end": 59.368
+    },
+    {
+     "text": "you'll",
+     "start": 59.368,
+     "end": 59.675
+    },
+    {
+     "text": "take",
+     "start": 59.675,
+     "end": 60.093
+    },
+    {
+     "text": "back",
+     "start": 60.093,
+     "end": 60.442
+    },
+    {
+     "text": "the",
+     "start": 60.442,
+     "end": 60.784
+    },
+    {
+     "text": "lies",
+     "start": 60.784,
+     "end": 61.34
+    }
+   ]
+  },
+  {
+   "start": 61.34,
+   "end": 65.038,
+   "words": [
+    {
+     "text": "Before",
+     "start": 61.44,
+     "end": 62.113
+    },
+    {
+     "text": "we",
+     "start": 62.113,
+     "end": 62.456
+    },
+    {
+     "text": "say",
+     "start": 62.456,
+     "end": 62.814
+    },
+    {
+     "text": "our",
+     "start": 62.814,
+     "end": 63.094
+    },
+    {
+     "text": "goodbyes",
+     "start": 63.094,
+     "end": 65.038
+    }
+   ]
+  },
+  {
+   "start": 65.038,
+   "end": 65.996,
+   "words": [
+    {
+     "text": "Say",
+     "start": 65.138,
+     "end": 65.476
+    },
+    {
+     "text": "our",
+     "start": 65.476,
+     "end": 65.73
+    },
+    {
+     "text": "goodbyes",
+     "start": 65.73,
+     "end": 65.996
+    }
+   ]
+  },
+  {
+   "start": 65.996,
+   "end": 66.977,
+   "words": [
+    {
+     "text": "You",
+     "start": 66.096,
+     "end": 66.197
+    },
+    {
+     "text": "might",
+     "start": 66.197,
+     "end": 66.377
+    },
+    {
+     "text": "also",
+     "start": 66.377,
+     "end": 66.477
+    },
+    {
+     "text": "like",
+     "start": 66.477,
+     "end": 66.977
+    }
+   ]
+  },
+  {
+   "start": 66.977,
+   "end": 67.277,
+   "words": [
+    {
+     "text": "not",
+     "start": 67.077,
+     "end": 67.178
+    },
+    {
+     "text": "numb",
+     "start": 67.178,
+     "end": 67.277
+    }
+   ]
+  },
+  {
+   "start": 67.178,
+   "end": 69.278,
+   "words": [
+    {
+     "text": "KINGS",
+     "start": 67.278,
+     "end": 69.278
+    }
+   ]
+  },
+  {
+   "start": 79.529,
+   "end": 81.629,
+   "words": [
+    {
+     "text": "wowaka",
+     "start": 79.629,
+     "end": 81.629
+    }
+   ]
+  },
+  {
+   "start": 81.686,
+   "end": 84.001,
+   "words": [
+    {
+     "text": "Genius",
+     "start": 81.786,
+     "end": 82.001
+    },
+    {
+     "text": "Romanizations",
+     "start": 82.001,
+     "end": 84.001
+    }
+   ]
+  },
+  {
+   "start": 89.349,
+   "end": 92.019,
+   "words": [
+    {
+     "text": "The",
+     "start": 89.449,
+     "end": 89.699
+    },
+    {
+     "text": "demons",
+     "start": 89.699,
+     "end": 90.453
+    },
+    {
+     "text": "in",
+     "start": 90.453,
+     "end": 90.741
+    },
+    {
+     "text": "your",
+     "start": 90.741,
+     "end": 91.081
+    },
+    {
+     "text": "head",
+     "start": 91.081,
+     "end": 92.019
+    }
+   ]
+  },
+  {
+   "start": 92.019,
+   "end": 94.643,
+   "words": [
+    {
+     "text": "Whispering",
+     "start": 92.119,
+     "end": 93.118
+    },
+    {
+     "text": "sweet",
+     "start": 93.118,
+     "end": 93.327
+    },
+    {
+     "text": "revenge",
+     "start": 93.327,
+     "end": 94.643
+    }
+   ]
+  },
+  {
+   "start": 94.643,
+   "end": 96.925,
+   "words": [
+    {
+     "text": "The",
+     "start": 94.743,
+     "end": 94.993
+    },
+    {
+     "text": "hands",
+     "start": 94.993,
+     "end": 95.486
+    },
+    {
+     "text": "around",
+     "start": 95.486,
+     "end": 96.061
+    },
+    {
+     "text": "your",
+     "start": 96.061,
+     "end": 96.479
+    },
+    {
+     "text": "neck",
+     "start": 96.479,
+     "end": 96.925
+    }
+   ]
+  },
+  {
+   "start": 96.925,
+   "end": 99.972,
+   "words": [
+    {
+     "text": "Take",
+     "start": 97.025,
+     "end": 97.559
+    },
+    {
+     "text": "control",
+     "start": 97.559,
+     "end": 98.389
+    },
+    {
+     "text": "take",
+     "start": 98.389,
+     "end": 98.9
+    },
+    {
+     "text": "control",
+     "start": 98.9,
+     "end": 99.972
+    }
+   ]
+  },
+  {
+   "start": 99.972,
+   "end": 102.521,
+   "words": [
+    {
+     "text": "My",
+     "start": 100.072,
+     "end": 100.455
+    },
+    {
+     "text": "fingers",
+     "start": 100.455,
+     "end": 101.135
+    },
+    {
+     "text": "on",
+     "start": 101.135,
+     "end": 101.431
+    },
+    {
+     "text": "the",
+     "start": 101.431,
+     "end": 101.612
+    },
+    {
+     "text": "ledge",
+     "start": 101.612,
+     "end": 102.521
+    }
+   ]
+  },
+  {
+   "start": 102.521,
+   "end": 105.33,
+   "words": [
+    {
+     "text": "Slipping",
+     "start": 102.621,
+     "end": 103.439
+    },
+    {
+     "text": "with",
+     "start": 103.439,
+     "end": 103.741
+    },
+    {
+     "text": "every",
+     "start": 103.741,
+     "end": 104.403
+    },
+    {
+     "text": "threat",
+     "start": 104.403,
+     "end": 105.33
+    }
+   ]
+  },
+  {
+   "start": 105.33,
+   "end": 107.35,
+   "words": [
+    {
+     "text": "I",
+     "start": 105.43,
+     "end": 105.676
+    },
+    {
+     "text": "won't",
+     "start": 105.676,
+     "end": 105.987
+    },
+    {
+     "text": "succumb",
+     "start": 105.987,
+     "end": 106.731
+    },
+    {
+     "text": "to",
+     "start": 106.731,
+     "end": 107.125
+    },
+    {
+     "text": "this",
+     "start": 107.125,
+     "end": 107.35
+    }
+   ]
+  },
+  {
+   "start": 107.35,
+   "end": 110.352,
+   "words": [
+    {
+     "text": "So",
+     "start": 107.45,
+     "end": 107.775
+    },
+    {
+     "text": "let",
+     "start": 107.775,
+     "end": 108.263
+    },
+    {
+     "text": "me",
+     "start": 108.263,
+     "end": 108.727
+    },
+    {
+     "text": "go",
+     "start": 108.727,
+     "end": 109.076
+    },
+    {
+     "text": "let",
+     "start": 109.076,
+     "end": 109.529
+    },
+    {
+     "text": "me",
+     "start": 109.529,
+     "end": 110.039
+    },
+    {
+     "text": "go",
+     "start": 110.039,
+     "end": 110.352
+    }
+   ]
+  },
+  {
+   "start": 110.352,
+   "end": 114.112,
+   "words": [
+    {
+     "text": "It",
+     "start": 110.452,
+     "end": 110.997
+    },
+    {
+     "text": "still",
+     "start": 110.997,
+     "end": 111.363
+    },
+    {
+     "text": "kills",
+     "start": 111.363,
+     "end": 112.112
+    },
+    {
+     "text": "me",
+     "start": 112.112,
+     "end": 114.112
+    }
+   ]
+  },
+  {
+   "start": 115.326,
+   "end": 118.645,
+   "words": [
+    {
+     "text": "That",
+     "start": 115.426,
+     "end": 115.775
+    },
+    {
+     "text": "I",
+     "start": 115.775,
+     "end": 115.825
+    },
+    {
+     "text": "can't",
+     "start": 115.785,
+     "end": 116.216
+    },
+    {
+     "text": "change",
+     "start": 116.216,
+     "end": 116.645
+    },
+    {
+     "text": "things",
+     "start": 116.645,
+     "end": 118.645
+    }
+   ]
+  },
+  {
+   "start": 120.533,
+   "end": 123.001,
+   "words": [
+    {
+     "text": "But",
+     "start": 120.633,
+     "end": 121.115
+    },
+    {
+     "text": "I'm",
+     "start": 121.115,
+     "end": 121.446
+    },
+    {
+     "text": "still",
+     "start": 121.446,
+     "end": 122.015
+    },
+    {
+     "text": "dreaming",
+     "start": 122.015,
+     "end": 123.001
+    }
+   ]
+  },
+  {
+   "start": 123.001,
+   "end": 125.7,
+   "words": [
+    {
+     "text": "I'll",
+     "start": 123.101,
+     "end": 123.443
+    },
+    {
+     "text": "rewrite",
+     "start": 123.443,
+     "end": 124.761
+    },
+    {
+     "text": "the",
+     "start": 124.761,
+     "end": 125.19
+    },
+    {
+     "text": "ending",
+     "start": 125.19,
+     "end": 125.7
+    }
+   ]
+  },
+  {
+   "start": 125.7,
+   "end": 127.999,
+   "words": [
+    {
+     "text": "So",
+     "start": 125.8,
+     "end": 125.951
+    },
+    {
+     "text": "you'll",
+     "start": 125.951,
+     "end": 126.34
+    },
+    {
+     "text": "take",
+     "start": 126.34,
+     "end": 126.758
+    },
+    {
+     "text": "back",
+     "start": 126.758,
+     "end": 127.094
+    },
+    {
+     "text": "the",
+     "start": 127.094,
+     "end": 127.28
+    },
+    {
+     "text": "lies",
+     "start": 127.28,
+     "end": 127.999
+    }
+   ]
+  },
+  {
+   "start": 127.999,
+   "end": 134.394,
+   "words": [
+    {
+     "text": "Before",
+     "start": 128.099,
+     "end": 128.766
+    },
+    {
+     "text": "we",
+     "start": 128.766,
+     "end": 129.115
+    },
+    {
+     "text": "say",
+     "start": 129.115,
+     "end": 129.48
+    },
+    {
+     "text": "our",
+     "start": 129.48,
+     "end": 129.765
+    },
+    {
+     "text": "goodbyes",
+     "start": 129.765,
+     "end": 131.785
+    },
+    {
+     "text": "say",
+     "start": 131.785,
+     "end": 132.142
+    },
+    {
+     "text": "our",
+     "start": 132.142,
+     "end": 132.394
+    },
+    {
+     "text": "goodbyes",
+     "start": 132.394,
+     "end": 134.394
+    }
+   ]
+  },
+  {
+   "start": 155.636,
+   "end": 157.012,
+   "words": [
+    {
+     "text": "One",
+     "start": 155.736,
+     "end": 155.939
+    },
+    {
+     "text": "more",
+     "start": 155.939,
+     "end": 156.108
+    },
+    {
+     "text": "word",
+     "start": 156.108,
+     "end": 156.264
+    },
+    {
+     "text": "before",
+     "start": 156.264,
+     "end": 156.613
+    },
+    {
+     "text": "I",
+     "start": 156.613,
+     "end": 156.686
+    },
+    {
+     "text": "break",
+     "start": 156.686,
+     "end": 157.012
+    }
+   ]
+  },
+  {
+   "start": 157.012,
+   "end": 158.347,
+   "words": [
+    {
+     "text": "Look",
+     "start": 157.112,
+     "end": 157.246
+    },
+    {
+     "text": "before",
+     "start": 157.246,
+     "end": 157.42
+    },
+    {
+     "text": "you",
+     "start": 157.42,
+     "end": 157.751
+    },
+    {
+     "text": "fall",
+     "start": 157.751,
+     "end": 157.925
+    },
+    {
+     "text": "from",
+     "start": 157.925,
+     "end": 158.081
+    },
+    {
+     "text": "grace",
+     "start": 158.081,
+     "end": 158.347
+    }
+   ]
+  },
+  {
+   "start": 158.347,
+   "end": 159.543,
+   "words": [
+    {
+     "text": "Read",
+     "start": 158.447,
+     "end": 158.616
+    },
+    {
+     "text": "my",
+     "start": 158.616,
+     "end": 158.766
+    },
+    {
+     "text": "lips",
+     "start": 158.766,
+     "end": 159.039
+    },
+    {
+     "text": "and",
+     "start": 159.039,
+     "end": 159.089
+    },
+    {
+     "text": "shut",
+     "start": 159.028,
+     "end": 159.188
+    },
+    {
+     "text": "your",
+     "start": 159.188,
+     "end": 159.417
+    },
+    {
+     "text": "face",
+     "start": 159.417,
+     "end": 159.543
+    }
+   ]
+  },
+  {
+   "start": 159.543,
+   "end": 160.919,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 159.643,
+     "end": 160.107
+    },
+    {
+     "text": "you're",
+     "start": 160.107,
+     "end": 160.231
+    },
+    {
+     "text": "the",
+     "start": 160.231,
+     "end": 160.421
+    },
+    {
+     "text": "one",
+     "start": 160.421,
+     "end": 160.612
+    },
+    {
+     "text": "to",
+     "start": 160.612,
+     "end": 160.74
+    },
+    {
+     "text": "blame",
+     "start": 160.74,
+     "end": 160.919
+    }
+   ]
+  },
+  {
+   "start": 160.919,
+   "end": 162.312,
+   "words": [
+    {
+     "text": "Same",
+     "start": 161.019,
+     "end": 161.28
+    },
+    {
+     "text": "old",
+     "start": 161.28,
+     "end": 161.448
+    },
+    {
+     "text": "story",
+     "start": 161.448,
+     "end": 161.785
+    },
+    {
+     "text": "every",
+     "start": 161.785,
+     "end": 162.075
+    },
+    {
+     "text": "day",
+     "start": 162.075,
+     "end": 162.312
+    }
+   ]
+  },
+  {
+   "start": 162.312,
+   "end": 162.994,
+   "words": [
+    {
+     "text": "Trip",
+     "start": 162.412,
+     "end": 162.58
+    },
+    {
+     "text": "and",
+     "start": 162.58,
+     "end": 162.754
+    },
+    {
+     "text": "fall",
+     "start": 162.754,
+     "end": 162.834
+    },
+    {
+     "text": "and",
+     "start": 162.834,
+     "end": 162.914
+    },
+    {
+     "text": "run",
+     "start": 162.914,
+     "end": 163.091
+    },
+    {
+     "text": "away",
+     "start": 163.091,
+     "end": 163.141
+    }
+   ]
+  },
+  {
+   "start": 162.994,
+   "end": 163.839,
+   "words": [
+    {
+     "text": "The",
+     "start": 163.094,
+     "end": 163.277
+    },
+    {
+     "text": "truth",
+     "start": 163.277,
+     "end": 163.422
+    },
+    {
+     "text": "is",
+     "start": 163.422,
+     "end": 163.472
+    },
+    {
+     "text": "gonna",
+     "start": 163.354,
+     "end": 163.619
+    },
+    {
+     "text": "find",
+     "start": 163.619,
+     "end": 163.77
+    },
+    {
+     "text": "you",
+     "start": 163.77,
+     "end": 163.839
+    }
+   ]
+  },
+  {
+   "start": 163.839,
+   "end": 166.629,
+   "words": [
+    {
+     "text": "Life",
+     "start": 163.939,
+     "end": 163.989
+    },
+    {
+     "text": "is",
+     "start": 163.935,
+     "end": 164.124
+    },
+    {
+     "text": "gonna",
+     "start": 164.124,
+     "end": 164.426
+    },
+    {
+     "text": "fuck",
+     "start": 164.426,
+     "end": 164.629
+    },
+    {
+     "text": "you",
+     "start": 164.629,
+     "end": 166.629
+    }
+   ]
+  },
+  {
+   "start": 171.681,
+   "end": 175.621,
+   "words": [
+    {
+     "text": "It",
+     "start": 171.781,
+     "end": 172.373
+    },
+    {
+     "text": "still",
+     "start": 172.373,
+     "end": 172.797
+    },
+    {
+     "text": "kills",
+     "start": 172.797,
+     "end": 173.621
+    },
+    {
+     "text": "me",
+     "start": 173.621,
+     "end": 175.621
+    }
+   ]
+  },
+  {
+   "start": 176.604,
+   "end": 180.759,
+   "words": [
+    {
+     "text": "That",
+     "start": 176.704,
+     "end": 177.122
+    },
+    {
+     "text": "I",
+     "start": 177.122,
+     "end": 177.546
+    },
+    {
+     "text": "can't",
+     "start": 177.546,
+     "end": 177.993
+    },
+    {
+     "text": "change",
+     "start": 177.993,
+     "end": 178.759
+    },
+    {
+     "text": "things",
+     "start": 178.759,
+     "end": 180.759
+    }
+   ]
+  },
+  {
+   "start": 181.857,
+   "end": 184.336,
+   "words": [
+    {
+     "text": "But",
+     "start": 181.957,
+     "end": 182.416
+    },
+    {
+     "text": "I'm",
+     "start": 182.416,
+     "end": 182.782
+    },
+    {
+     "text": "still",
+     "start": 182.782,
+     "end": 183.333
+    },
+    {
+     "text": "dreaming",
+     "start": 183.333,
+     "end": 184.336
+    }
+   ]
+  },
+  {
+   "start": 184.336,
+   "end": 187.053,
+   "words": [
+    {
+     "text": "I'll",
+     "start": 184.436,
+     "end": 184.79
+    },
+    {
+     "text": "rewrite",
+     "start": 184.79,
+     "end": 185.62
+    },
+    {
+     "text": "the",
+     "start": 185.62,
+     "end": 186.323
+    },
+    {
+     "text": "ending",
+     "start": 186.323,
+     "end": 187.053
+    }
+   ]
+  },
+  {
+   "start": 187.053,
+   "end": 189.317,
+   "words": [
+    {
+     "text": "So",
+     "start": 187.153,
+     "end": 187.455
+    },
+    {
+     "text": "you'll",
+     "start": 187.455,
+     "end": 187.658
+    },
+    {
+     "text": "take",
+     "start": 187.658,
+     "end": 188.087
+    },
+    {
+     "text": "back",
+     "start": 188.087,
+     "end": 188.424
+    },
+    {
+     "text": "the",
+     "start": 188.424,
+     "end": 188.784
+    },
+    {
+     "text": "lies",
+     "start": 188.784,
+     "end": 189.317
+    }
+   ]
+  },
+  {
+   "start": 189.317,
+   "end": 193.083,
+   "words": [
+    {
+     "text": "Before",
+     "start": 189.417,
+     "end": 190.113
+    },
+    {
+     "text": "we",
+     "start": 190.113,
+     "end": 190.45
+    },
+    {
+     "text": "say",
+     "start": 190.45,
+     "end": 190.787
+    },
+    {
+     "text": "our",
+     "start": 190.787,
+     "end": 191.083
+    },
+    {
+     "text": "goodbyes",
+     "start": 191.083,
+     "end": 193.083
+    }
+   ]
+  },
+  {
+   "start": 203.922,
+   "end": 207.415,
+   "words": [
+    {
+     "text": "Good",
+     "start": 204.022,
+     "end": 204.701
+    },
+    {
+     "text": "good",
+     "start": 204.701,
+     "end": 205.415
+    },
+    {
+     "text": "goodbye",
+     "start": 205.415,
+     "end": 207.415
+    }
+   ]
+  },
+  {
+   "start": 209.245,
+   "end": 212.521,
+   "words": [
+    {
+     "text": "Good",
+     "start": 209.345,
+     "end": 210.042
+    },
+    {
+     "text": "good",
+     "start": 210.042,
+     "end": 210.521
+    },
+    {
+     "text": "goodbye",
+     "start": 210.521,
+     "end": 212.521
+    }
+   ]
+  },
+  {
+   "start": 214.551,
+   "end": 218.073,
+   "words": [
+    {
+     "text": "Good",
+     "start": 214.651,
+     "end": 215.371
+    },
+    {
+     "text": "good",
+     "start": 215.371,
+     "end": 216.073
+    },
+    {
+     "text": "goodbye",
+     "start": 216.073,
+     "end": 218.073
+    }
+   ]
+  },
+  {
+   "start": 219.926,
+   "end": 223.391,
+   "words": [
+    {
+     "text": "Good",
+     "start": 220.026,
+     "end": 220.711
+    },
+    {
+     "text": "good",
+     "start": 220.711,
+     "end": 221.391
+    },
+    {
+     "text": "goodbye",
+     "start": 221.391,
+     "end": 223.391
+    }
+   ]
+  }
+ ]
+}

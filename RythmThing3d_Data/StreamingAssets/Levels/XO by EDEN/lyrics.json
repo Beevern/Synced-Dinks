@@ -1,0 +1,1706 @@
+{
+ "title": "XO",
+ "artist": "EDEN",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 0.0,
+   "end": 3.226,
+   "words": [
+    {
+     "text": "One",
+     "start": 0.093,
+     "end": 0.789
+    },
+    {
+     "text": "two",
+     "start": 0.789,
+     "end": 1.585
+    },
+    {
+     "text": "three",
+     "start": 1.585,
+     "end": 3.226
+    }
+   ]
+  },
+  {
+   "start": 3.226,
+   "end": 6.767,
+   "words": [
+    {
+     "text": "Yeah",
+     "start": 3.326,
+     "end": 4.034
+    },
+    {
+     "text": "she's",
+     "start": 4.034,
+     "end": 4.307
+    },
+    {
+     "text": "in",
+     "start": 4.307,
+     "end": 4.474
+    },
+    {
+     "text": "love",
+     "start": 4.474,
+     "end": 4.719
+    },
+    {
+     "text": "with",
+     "start": 4.719,
+     "end": 5.079
+    },
+    {
+     "text": "the",
+     "start": 5.079,
+     "end": 5.224
+    },
+    {
+     "text": "concept",
+     "start": 5.224,
+     "end": 6.767
+    }
+   ]
+  },
+  {
+   "start": 6.767,
+   "end": 9.67,
+   "words": [
+    {
+     "text": "As",
+     "start": 6.867,
+     "end": 7.053
+    },
+    {
+     "text": "if",
+     "start": 7.053,
+     "end": 7.245
+    },
+    {
+     "text": "we're",
+     "start": 7.245,
+     "end": 7.477
+    },
+    {
+     "text": "all",
+     "start": 7.477,
+     "end": 7.761
+    },
+    {
+     "text": "just",
+     "start": 7.761,
+     "end": 8.017
+    },
+    {
+     "text": "how",
+     "start": 8.017,
+     "end": 8.295
+    },
+    {
+     "text": "she",
+     "start": 8.295,
+     "end": 8.522
+    },
+    {
+     "text": "imagined",
+     "start": 8.522,
+     "end": 9.67
+    }
+   ]
+  },
+  {
+   "start": 9.67,
+   "end": 12.642,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 9.77,
+     "end": 9.9
+    },
+    {
+     "text": "we're",
+     "start": 9.9,
+     "end": 10.054
+    },
+    {
+     "text": "in",
+     "start": 10.054,
+     "end": 10.32
+    },
+    {
+     "text": "love",
+     "start": 10.32,
+     "end": 10.606
+    },
+    {
+     "text": "I",
+     "start": 10.606,
+     "end": 10.751
+    },
+    {
+     "text": "just",
+     "start": 10.751,
+     "end": 10.925
+    },
+    {
+     "text": "don't",
+     "start": 10.925,
+     "end": 11.111
+    },
+    {
+     "text": "know",
+     "start": 11.111,
+     "end": 11.181
+    },
+    {
+     "text": "it",
+     "start": 11.181,
+     "end": 11.361
+    },
+    {
+     "text": "yet",
+     "start": 11.361,
+     "end": 11.993
+    },
+    {
+     "text": "huh",
+     "start": 11.993,
+     "end": 12.642
+    }
+   ]
+  },
+  {
+   "start": 12.642,
+   "end": 16.543,
+   "words": [
+    {
+     "text": "Well",
+     "start": 12.742,
+     "end": 12.939
+    },
+    {
+     "text": "tell",
+     "start": 12.939,
+     "end": 13.16
+    },
+    {
+     "text": "me",
+     "start": 13.16,
+     "end": 13.263
+    },
+    {
+     "text": "how",
+     "start": 13.263,
+     "end": 13.403
+    },
+    {
+     "text": "am",
+     "start": 13.403,
+     "end": 13.56
+    },
+    {
+     "text": "I",
+     "start": 13.56,
+     "end": 13.706
+    },
+    {
+     "text": "supposed",
+     "start": 13.706,
+     "end": 13.897
+    },
+    {
+     "text": "to",
+     "start": 13.897,
+     "end": 14.065
+    },
+    {
+     "text": "see",
+     "start": 14.065,
+     "end": 14.408
+    },
+    {
+     "text": "the",
+     "start": 14.408,
+     "end": 14.588
+    },
+    {
+     "text": "magic",
+     "start": 14.588,
+     "end": 16.543
+    }
+   ]
+  },
+  {
+   "start": 16.543,
+   "end": 22.284,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 16.643,
+     "end": 16.794
+    },
+    {
+     "text": "I",
+     "start": 16.794,
+     "end": 16.946
+    },
+    {
+     "text": "don't",
+     "start": 16.946,
+     "end": 17.241
+    },
+    {
+     "text": "believe",
+     "start": 17.241,
+     "end": 18.488
+    },
+    {
+     "text": "in",
+     "start": 18.488,
+     "end": 19.087
+    },
+    {
+     "text": "it",
+     "start": 19.087,
+     "end": 19.836
+    },
+    {
+     "text": "no",
+     "start": 19.836,
+     "end": 20.445
+    },
+    {
+     "text": "more",
+     "start": 20.445,
+     "end": 22.284
+    }
+   ]
+  },
+  {
+   "start": 22.284,
+   "end": 28.056,
+   "words": [
+    {
+     "text": "But",
+     "start": 22.384,
+     "end": 22.715
+    },
+    {
+     "text": "I",
+     "start": 22.715,
+     "end": 22.914
+    },
+    {
+     "text": "won't",
+     "start": 22.914,
+     "end": 23.232
+    },
+    {
+     "text": "tell",
+     "start": 23.232,
+     "end": 23.841
+    },
+    {
+     "text": "her",
+     "start": 23.841,
+     "end": 25.275
+    },
+    {
+     "text": "cause",
+     "start": 25.275,
+     "end": 25.456
+    },
+    {
+     "text": "I",
+     "start": 25.456,
+     "end": 25.636
+    },
+    {
+     "text": "always",
+     "start": 25.636,
+     "end": 26.056
+    },
+    {
+     "text": "imagined",
+     "start": 26.056,
+     "end": 28.056
+    }
+   ]
+  },
+  {
+   "start": 28.298,
+   "end": 34.173,
+   "words": [
+    {
+     "text": "It's",
+     "start": 28.398,
+     "end": 28.579
+    },
+    {
+     "text": "easier",
+     "start": 28.579,
+     "end": 29.38
+    },
+    {
+     "text": "if",
+     "start": 29.38,
+     "end": 30.035
+    },
+    {
+     "text": "she",
+     "start": 30.035,
+     "end": 30.848
+    },
+    {
+     "text": "thinks",
+     "start": 30.848,
+     "end": 31.568
+    },
+    {
+     "text": "she",
+     "start": 31.568,
+     "end": 32.602
+    },
+    {
+     "text": "won",
+     "start": 32.602,
+     "end": 34.173
+    }
+   ]
+  },
+  {
+   "start": 34.173,
+   "end": 37.923,
+   "words": [
+    {
+     "text": "So",
+     "start": 34.273,
+     "end": 34.511
+    },
+    {
+     "text": "I'ma",
+     "start": 34.511,
+     "end": 35.056
+    },
+    {
+     "text": "let",
+     "start": 35.056,
+     "end": 35.556
+    },
+    {
+     "text": "her",
+     "start": 35.556,
+     "end": 36.978
+    },
+    {
+     "text": "and",
+     "start": 36.978,
+     "end": 37.1
+    },
+    {
+     "text": "she",
+     "start": 37.1,
+     "end": 37.564
+    },
+    {
+     "text": "said",
+     "start": 37.564,
+     "end": 37.923
+    }
+   ]
+  },
+  {
+   "start": 37.923,
+   "end": 40.773,
+   "words": [
+    {
+     "text": "I",
+     "start": 38.023,
+     "end": 38.228
+    },
+    {
+     "text": "don't",
+     "start": 38.228,
+     "end": 38.499
+    },
+    {
+     "text": "think",
+     "start": 38.499,
+     "end": 38.644
+    },
+    {
+     "text": "I",
+     "start": 38.644,
+     "end": 38.828
+    },
+    {
+     "text": "love",
+     "start": 38.828,
+     "end": 39.028
+    },
+    {
+     "text": "you",
+     "start": 39.028,
+     "end": 39.236
+    },
+    {
+     "text": "no",
+     "start": 39.236,
+     "end": 39.596
+    },
+    {
+     "text": "more",
+     "start": 39.596,
+     "end": 40.773
+    }
+   ]
+  },
+  {
+   "start": 40.773,
+   "end": 43.693,
+   "words": [
+    {
+     "text": "You",
+     "start": 40.873,
+     "end": 41.006
+    },
+    {
+     "text": "never",
+     "start": 41.006,
+     "end": 41.285
+    },
+    {
+     "text": "seem",
+     "start": 41.285,
+     "end": 41.628
+    },
+    {
+     "text": "to",
+     "start": 41.628,
+     "end": 41.733
+    },
+    {
+     "text": "call",
+     "start": 41.733,
+     "end": 42.167
+    },
+    {
+     "text": "me",
+     "start": 42.167,
+     "end": 42.382
+    },
+    {
+     "text": "lately",
+     "start": 42.382,
+     "end": 43.693
+    }
+   ]
+  },
+  {
+   "start": 43.693,
+   "end": 46.41,
+   "words": [
+    {
+     "text": "Girl",
+     "start": 43.793,
+     "end": 44.054
+    },
+    {
+     "text": "I",
+     "start": 44.054,
+     "end": 44.115
+    },
+    {
+     "text": "don't",
+     "start": 44.115,
+     "end": 44.344
+    },
+    {
+     "text": "think",
+     "start": 44.344,
+     "end": 44.513
+    },
+    {
+     "text": "you",
+     "start": 44.513,
+     "end": 44.71
+    },
+    {
+     "text": "know",
+     "start": 44.71,
+     "end": 44.907
+    },
+    {
+     "text": "me",
+     "start": 44.907,
+     "end": 45.196
+    },
+    {
+     "text": "at",
+     "start": 45.196,
+     "end": 45.496
+    },
+    {
+     "text": "all",
+     "start": 45.496,
+     "end": 46.41
+    }
+   ]
+  },
+  {
+   "start": 46.41,
+   "end": 48.799,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 46.51,
+     "end": 46.677
+    },
+    {
+     "text": "I",
+     "start": 46.677,
+     "end": 46.887
+    },
+    {
+     "text": "never",
+     "start": 46.887,
+     "end": 47.293
+    },
+    {
+     "text": "thought",
+     "start": 47.293,
+     "end": 47.491
+    },
+    {
+     "text": "I'd",
+     "start": 47.491,
+     "end": 47.676
+    },
+    {
+     "text": "have",
+     "start": 47.676,
+     "end": 47.99
+    },
+    {
+     "text": "to",
+     "start": 47.99,
+     "end": 48.239
+    },
+    {
+     "text": "say",
+     "start": 48.239,
+     "end": 48.519
+    },
+    {
+     "text": "this",
+     "start": 48.519,
+     "end": 48.799
+    }
+   ]
+  },
+  {
+   "start": 48.799,
+   "end": 51.959,
+   "words": [
+    {
+     "text": "No",
+     "start": 48.899,
+     "end": 49.239
+    },
+    {
+     "text": "I",
+     "start": 49.239,
+     "end": 49.435
+    },
+    {
+     "text": "don't",
+     "start": 49.435,
+     "end": 49.78
+    },
+    {
+     "text": "love",
+     "start": 49.78,
+     "end": 50.376
+    },
+    {
+     "text": "you",
+     "start": 50.376,
+     "end": 50.927
+    },
+    {
+     "text": "and",
+     "start": 50.927,
+     "end": 51.121
+    },
+    {
+     "text": "I",
+     "start": 51.121,
+     "end": 51.31
+    },
+    {
+     "text": "never",
+     "start": 51.31,
+     "end": 51.67
+    },
+    {
+     "text": "did",
+     "start": 51.67,
+     "end": 51.959
+    }
+   ]
+  },
+  {
+   "start": 51.959,
+   "end": 54.159,
+   "words": [
+    {
+     "text": "Look",
+     "start": 52.059,
+     "end": 52.198
+    },
+    {
+     "text": "at",
+     "start": 52.198,
+     "end": 52.425
+    },
+    {
+     "text": "us",
+     "start": 52.425,
+     "end": 52.773
+    },
+    {
+     "text": "burnin",
+     "start": 52.773,
+     "end": 53.15
+    },
+    {
+     "text": "down",
+     "start": 53.15,
+     "end": 53.323
+    },
+    {
+     "text": "in",
+     "start": 53.323,
+     "end": 53.539
+    },
+    {
+     "text": "flames",
+     "start": 53.539,
+     "end": 53.806
+    },
+    {
+     "text": "for",
+     "start": 53.806,
+     "end": 54.021
+    },
+    {
+     "text": "kicks",
+     "start": 54.021,
+     "end": 54.159
+    }
+   ]
+  },
+  {
+   "start": 54.159,
+   "end": 59.32,
+   "words": [
+    {
+     "text": "But",
+     "start": 54.259,
+     "end": 54.503
+    },
+    {
+     "text": "just",
+     "start": 54.503,
+     "end": 54.904
+    },
+    {
+     "text": "know",
+     "start": 54.904,
+     "end": 56.593
+    },
+    {
+     "text": "I'm",
+     "start": 56.593,
+     "end": 56.784
+    },
+    {
+     "text": "not",
+     "start": 56.784,
+     "end": 56.988
+    },
+    {
+     "text": "singin",
+     "start": 56.988,
+     "end": 57.44
+    },
+    {
+     "text": "for",
+     "start": 57.44,
+     "end": 57.713
+    },
+    {
+     "text": "your",
+     "start": 57.713,
+     "end": 58.137
+    },
+    {
+     "text": "XO",
+     "start": 58.137,
+     "end": 59.32
+    }
+   ]
+  },
+  {
+   "start": 59.32,
+   "end": 61.052,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 59.42,
+     "end": 59.681
+    },
+    {
+     "text": "just",
+     "start": 59.681,
+     "end": 59.931
+    },
+    {
+     "text": "singing",
+     "start": 59.931,
+     "end": 60.436
+    },
+    {
+     "text": "cause",
+     "start": 60.436,
+     "end": 60.612
+    },
+    {
+     "text": "it's",
+     "start": 60.612,
+     "end": 60.813
+    },
+    {
+     "text": "over",
+     "start": 60.813,
+     "end": 61.01
+    },
+    {
+     "text": "yeah",
+     "start": 61.01,
+     "end": 61.06
+    }
+   ]
+  },
+  {
+   "start": 61.052,
+   "end": 61.352,
+   "words": [
+    {
+     "text": "Uh",
+     "start": 61.152,
+     "end": 61.352
+    }
+   ]
+  },
+  {
+   "start": 61.112,
+   "end": 61.813,
+   "words": [
+    {
+     "text": "Yeah",
+     "start": 61.212,
+     "end": 61.813
+    }
+   ]
+  },
+  {
+   "start": 61.813,
+   "end": 62.273,
+   "words": [
+    {
+     "text": "You",
+     "start": 61.913,
+     "end": 62.033
+    },
+    {
+     "text": "might",
+     "start": 62.033,
+     "end": 62.276
+    },
+    {
+     "text": "also",
+     "start": 62.276,
+     "end": 62.326
+    },
+    {
+     "text": "like",
+     "start": 62.273,
+     "end": 62.323
+    }
+   ]
+  },
+  {
+   "start": 62.273,
+   "end": 62.814,
+   "words": [
+    {
+     "text": "Nobody",
+     "start": 62.373,
+     "end": 62.636
+    },
+    {
+     "text": "Gets",
+     "start": 62.636,
+     "end": 62.854
+    },
+    {
+     "text": "Me",
+     "start": 62.854,
+     "end": 62.904
+    }
+   ]
+  },
+  {
+   "start": 62.814,
+   "end": 63.114,
+   "words": [
+    {
+     "text": "SZA",
+     "start": 62.914,
+     "end": 63.114
+    }
+   ]
+  },
+  {
+   "start": 62.914,
+   "end": 63.987,
+   "words": [
+    {
+     "text": "Florida",
+     "start": 63.014,
+     "end": 63.987
+    }
+   ]
+  },
+  {
+   "start": 63.987,
+   "end": 64.405,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 64.087,
+     "end": 64.275
+    },
+    {
+     "text": "Swift",
+     "start": 64.275,
+     "end": 64.405
+    }
+   ]
+  },
+  {
+   "start": 64.405,
+   "end": 66.675,
+   "words": [
+    {
+     "text": "Guilty",
+     "start": 64.505,
+     "end": 64.615
+    },
+    {
+     "text": "as",
+     "start": 64.615,
+     "end": 64.675
+    },
+    {
+     "text": "Sin",
+     "start": 64.675,
+     "end": 66.675
+    }
+   ]
+  },
+  {
+   "start": 69.804,
+   "end": 72.1,
+   "words": [
+    {
+     "text": "Taylor",
+     "start": 69.904,
+     "end": 70.1
+    },
+    {
+     "text": "Swift",
+     "start": 70.1,
+     "end": 72.1
+    }
+   ]
+  },
+  {
+   "start": 74.181,
+   "end": 76.99,
+   "words": [
+    {
+     "text": "Came",
+     "start": 74.281,
+     "end": 74.524
+    },
+    {
+     "text": "and",
+     "start": 74.524,
+     "end": 74.684
+    },
+    {
+     "text": "went",
+     "start": 74.684,
+     "end": 75.025
+    },
+    {
+     "text": "like",
+     "start": 75.025,
+     "end": 75.267
+    },
+    {
+     "text": "the",
+     "start": 75.267,
+     "end": 75.447
+    },
+    {
+     "text": "summertime",
+     "start": 75.447,
+     "end": 76.99
+    }
+   ]
+  },
+  {
+   "start": 76.99,
+   "end": 80.061,
+   "words": [
+    {
+     "text": "Was",
+     "start": 77.09,
+     "end": 77.259
+    },
+    {
+     "text": "that",
+     "start": 77.259,
+     "end": 77.502
+    },
+    {
+     "text": "a",
+     "start": 77.502,
+     "end": 77.642
+    },
+    {
+     "text": "sunset",
+     "start": 77.642,
+     "end": 78.205
+    },
+    {
+     "text": "or",
+     "start": 78.205,
+     "end": 78.379
+    },
+    {
+     "text": "sunrise",
+     "start": 78.379,
+     "end": 80.061
+    }
+   ]
+  },
+  {
+   "start": 80.061,
+   "end": 82.801,
+   "words": [
+    {
+     "text": "Lookin",
+     "start": 80.161,
+     "end": 80.55
+    },
+    {
+     "text": "back",
+     "start": 80.55,
+     "end": 80.759
+    },
+    {
+     "text": "like",
+     "start": 80.759,
+     "end": 80.922
+    },
+    {
+     "text": "Where'd",
+     "start": 80.922,
+     "end": 81.177
+    },
+    {
+     "text": "the",
+     "start": 81.177,
+     "end": 81.299
+    },
+    {
+     "text": "time",
+     "start": 81.299,
+     "end": 81.984
+    },
+    {
+     "text": "go",
+     "start": 81.984,
+     "end": 82.801
+    }
+   ]
+  },
+  {
+   "start": 82.801,
+   "end": 86.836,
+   "words": [
+    {
+     "text": "So",
+     "start": 82.901,
+     "end": 83.139
+    },
+    {
+     "text": "much",
+     "start": 83.139,
+     "end": 83.331
+    },
+    {
+     "text": "for",
+     "start": 83.331,
+     "end": 83.414
+    },
+    {
+     "text": "tryna",
+     "start": 83.414,
+     "end": 83.847
+    },
+    {
+     "text": "keep",
+     "start": 83.847,
+     "end": 84.056
+    },
+    {
+     "text": "this",
+     "start": 84.056,
+     "end": 84.288
+    },
+    {
+     "text": "movin",
+     "start": 84.288,
+     "end": 85.693
+    },
+    {
+     "text": "slow",
+     "start": 85.693,
+     "end": 86.836
+    }
+   ]
+  },
+  {
+   "start": 86.836,
+   "end": 92.593,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 86.936,
+     "end": 87.097
+    },
+    {
+     "text": "I",
+     "start": 87.097,
+     "end": 87.258
+    },
+    {
+     "text": "don't",
+     "start": 87.258,
+     "end": 87.516
+    },
+    {
+     "text": "believe",
+     "start": 87.516,
+     "end": 88.719
+    },
+    {
+     "text": "in",
+     "start": 88.719,
+     "end": 89.345
+    },
+    {
+     "text": "her",
+     "start": 89.345,
+     "end": 90.059
+    },
+    {
+     "text": "no",
+     "start": 90.059,
+     "end": 90.593
+    },
+    {
+     "text": "more",
+     "start": 90.593,
+     "end": 92.593
+    }
+   ]
+  },
+  {
+   "start": 92.67,
+   "end": 95.283,
+   "words": [
+    {
+     "text": "But",
+     "start": 92.77,
+     "end": 92.92
+    },
+    {
+     "text": "I",
+     "start": 92.92,
+     "end": 93.283
+    },
+    {
+     "text": "remember",
+     "start": 93.283,
+     "end": 95.283
+    }
+   ]
+  },
+  {
+   "start": 96.681,
+   "end": 102.747,
+   "words": [
+    {
+     "text": "How",
+     "start": 96.781,
+     "end": 97.227
+    },
+    {
+     "text": "we",
+     "start": 97.227,
+     "end": 97.779
+    },
+    {
+     "text": "talked",
+     "start": 97.779,
+     "end": 98.441
+    },
+    {
+     "text": "shit",
+     "start": 98.441,
+     "end": 98.807
+    },
+    {
+     "text": "like",
+     "start": 98.807,
+     "end": 99.225
+    },
+    {
+     "text": "we",
+     "start": 99.225,
+     "end": 99.637
+    },
+    {
+     "text": "knew",
+     "start": 99.637,
+     "end": 100.078
+    },
+    {
+     "text": "what",
+     "start": 100.078,
+     "end": 100.672
+    },
+    {
+     "text": "we",
+     "start": 100.672,
+     "end": 101.012
+    },
+    {
+     "text": "wanted",
+     "start": 101.012,
+     "end": 102.747
+    }
+   ]
+  },
+  {
+   "start": 102.747,
+   "end": 107.779,
+   "words": [
+    {
+     "text": "I",
+     "start": 102.847,
+     "end": 103.242
+    },
+    {
+     "text": "still",
+     "start": 103.242,
+     "end": 103.665
+    },
+    {
+     "text": "remember",
+     "start": 103.665,
+     "end": 104.513
+    },
+    {
+     "text": "what",
+     "start": 104.513,
+     "end": 104.693
+    },
+    {
+     "text": "she",
+     "start": 104.693,
+     "end": 105.779
+    },
+    {
+     "text": "said",
+     "start": 105.779,
+     "end": 107.779
+    }
+   ]
+  },
+  {
+   "start": 108.331,
+   "end": 110.949,
+   "words": [
+    {
+     "text": "I",
+     "start": 108.431,
+     "end": 108.481
+    },
+    {
+     "text": "don't",
+     "start": 108.479,
+     "end": 108.745
+    },
+    {
+     "text": "think",
+     "start": 108.745,
+     "end": 108.884
+    },
+    {
+     "text": "I",
+     "start": 108.884,
+     "end": 109.059
+    },
+    {
+     "text": "love",
+     "start": 109.059,
+     "end": 109.259
+    },
+    {
+     "text": "you",
+     "start": 109.259,
+     "end": 109.488
+    },
+    {
+     "text": "no",
+     "start": 109.488,
+     "end": 109.78
+    },
+    {
+     "text": "more",
+     "start": 109.78,
+     "end": 110.949
+    }
+   ]
+  },
+  {
+   "start": 110.949,
+   "end": 113.922,
+   "words": [
+    {
+     "text": "You",
+     "start": 111.049,
+     "end": 111.253
+    },
+    {
+     "text": "never",
+     "start": 111.253,
+     "end": 111.52
+    },
+    {
+     "text": "seem",
+     "start": 111.52,
+     "end": 111.839
+    },
+    {
+     "text": "to",
+     "start": 111.839,
+     "end": 111.961
+    },
+    {
+     "text": "call",
+     "start": 111.961,
+     "end": 112.373
+    },
+    {
+     "text": "me",
+     "start": 112.373,
+     "end": 112.502
+    },
+    {
+     "text": "lately",
+     "start": 112.502,
+     "end": 113.922
+    }
+   ]
+  },
+  {
+   "start": 113.922,
+   "end": 116.626,
+   "words": [
+    {
+     "text": "But",
+     "start": 114.022,
+     "end": 114.196
+    },
+    {
+     "text": "I",
+     "start": 114.196,
+     "end": 114.324
+    },
+    {
+     "text": "don't",
+     "start": 114.324,
+     "end": 114.524
+    },
+    {
+     "text": "think",
+     "start": 114.524,
+     "end": 114.707
+    },
+    {
+     "text": "she",
+     "start": 114.707,
+     "end": 114.885
+    },
+    {
+     "text": "knew",
+     "start": 114.885,
+     "end": 115.171
+    },
+    {
+     "text": "me",
+     "start": 115.171,
+     "end": 115.465
+    },
+    {
+     "text": "at",
+     "start": 115.465,
+     "end": 115.659
+    },
+    {
+     "text": "all",
+     "start": 115.659,
+     "end": 116.626
+    }
+   ]
+  },
+  {
+   "start": 116.626,
+   "end": 119.204,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 116.726,
+     "end": 116.946
+    },
+    {
+     "text": "I",
+     "start": 116.946,
+     "end": 117.121
+    },
+    {
+     "text": "never",
+     "start": 117.121,
+     "end": 117.336
+    },
+    {
+     "text": "thought",
+     "start": 117.336,
+     "end": 117.731
+    },
+    {
+     "text": "I'd",
+     "start": 117.731,
+     "end": 117.867
+    },
+    {
+     "text": "have",
+     "start": 117.867,
+     "end": 118.236
+    },
+    {
+     "text": "to",
+     "start": 118.236,
+     "end": 118.457
+    },
+    {
+     "text": "say",
+     "start": 118.457,
+     "end": 118.788
+    },
+    {
+     "text": "this",
+     "start": 118.788,
+     "end": 119.204
+    }
+   ]
+  },
+  {
+   "start": 119.204,
+   "end": 122.53,
+   "words": [
+    {
+     "text": "But",
+     "start": 119.304,
+     "end": 119.507
+    },
+    {
+     "text": "I'm",
+     "start": 119.507,
+     "end": 119.705
+    },
+    {
+     "text": "no",
+     "start": 119.705,
+     "end": 119.971
+    },
+    {
+     "text": "liar",
+     "start": 119.971,
+     "end": 121.086
+    },
+    {
+     "text": "and",
+     "start": 121.086,
+     "end": 121.312
+    },
+    {
+     "text": "I",
+     "start": 121.312,
+     "end": 121.492
+    },
+    {
+     "text": "never",
+     "start": 121.492,
+     "end": 121.963
+    },
+    {
+     "text": "hid",
+     "start": 121.963,
+     "end": 122.23
+    },
+    {
+     "text": "anything",
+     "start": 122.23,
+     "end": 122.53
+    }
+   ]
+  },
+  {
+   "start": 122.53,
+   "end": 124.73,
+   "words": [
+    {
+     "text": "You",
+     "start": 122.63,
+     "end": 122.903
+    },
+    {
+     "text": "shoulda",
+     "start": 122.903,
+     "end": 123.368
+    },
+    {
+     "text": "seen",
+     "start": 123.368,
+     "end": 123.548
+    },
+    {
+     "text": "it",
+     "start": 123.548,
+     "end": 123.687
+    },
+    {
+     "text": "comin",
+     "start": 123.687,
+     "end": 124.055
+    },
+    {
+     "text": "to",
+     "start": 124.055,
+     "end": 124.215
+    },
+    {
+     "text": "this",
+     "start": 124.215,
+     "end": 124.73
+    }
+   ]
+  },
+  {
+   "start": 124.73,
+   "end": 129.665,
+   "words": [
+    {
+     "text": "Just",
+     "start": 124.83,
+     "end": 125.08
+    },
+    {
+     "text": "know",
+     "start": 125.08,
+     "end": 126.793
+    },
+    {
+     "text": "I'm",
+     "start": 126.793,
+     "end": 127.025
+    },
+    {
+     "text": "not",
+     "start": 127.025,
+     "end": 127.379
+    },
+    {
+     "text": "singin",
+     "start": 127.379,
+     "end": 127.75
+    },
+    {
+     "text": "for",
+     "start": 127.75,
+     "end": 127.936
+    },
+    {
+     "text": "an",
+     "start": 127.936,
+     "end": 128.087
+    },
+    {
+     "text": "ex",
+     "start": 128.087,
+     "end": 128.522
+    },
+    {
+     "text": "though",
+     "start": 128.522,
+     "end": 129.665
+    }
+   ]
+  },
+  {
+   "start": 129.665,
+   "end": 138.678,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 129.765,
+     "end": 129.933
+    },
+    {
+     "text": "just",
+     "start": 129.933,
+     "end": 130.136
+    },
+    {
+     "text": "singing",
+     "start": 130.136,
+     "end": 130.647
+    },
+    {
+     "text": "cause",
+     "start": 130.647,
+     "end": 130.844
+    },
+    {
+     "text": "it's",
+     "start": 130.844,
+     "end": 131.03
+    },
+    {
+     "text": "over",
+     "start": 131.03,
+     "end": 133.846
+    },
+    {
+     "text": "yeah",
+     "start": 133.846,
+     "end": 135.385
+    },
+    {
+     "text": "yeah",
+     "start": 135.385,
+     "end": 136.678
+    },
+    {
+     "text": "yeah",
+     "start": 136.678,
+     "end": 138.678
+    }
+   ]
+  },
+  {
+   "start": 140.17,
+   "end": 147.834,
+   "words": [
+    {
+     "text": "Ooh",
+     "start": 140.27,
+     "end": 140.62
+    },
+    {
+     "text": "ooh",
+     "start": 140.62,
+     "end": 141.151
+    },
+    {
+     "text": "ooh",
+     "start": 141.151,
+     "end": 141.665
+    },
+    {
+     "text": "ooh",
+     "start": 141.665,
+     "end": 143.11
+    },
+    {
+     "text": "ooh",
+     "start": 143.11,
+     "end": 144.412
+    },
+    {
+     "text": "ooh",
+     "start": 144.412,
+     "end": 146.553
+    },
+    {
+     "text": "ooh",
+     "start": 146.553,
+     "end": 147.373
+    },
+    {
+     "text": "ooh",
+     "start": 147.373,
+     "end": 147.633
+    },
+    {
+     "text": "ooh",
+     "start": 147.633,
+     "end": 147.834
+    }
+   ]
+  },
+  {
+   "start": 147.834,
+   "end": 149.934,
+   "words": [
+    {
+     "text": "Uh",
+     "start": 147.934,
+     "end": 149.934
+    }
+   ]
+  }
+ ]
+}

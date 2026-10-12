@@ -1,0 +1,2134 @@
+{
+ "title": "Me Plus You",
+ "artist": "SABAI",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 15.614,
+   "end": 18.813,
+   "words": [
+    {
+     "text": "Me",
+     "start": 15.714,
+     "end": 15.925
+    },
+    {
+     "text": "and",
+     "start": 15.925,
+     "end": 16.149
+    },
+    {
+     "text": "you",
+     "start": 16.149,
+     "end": 16.521
+    },
+    {
+     "text": "you",
+     "start": 16.521,
+     "end": 16.759
+    },
+    {
+     "text": "and",
+     "start": 16.759,
+     "end": 16.962
+    },
+    {
+     "text": "me",
+     "start": 16.962,
+     "end": 17.322
+    },
+    {
+     "text": "was",
+     "start": 17.322,
+     "end": 17.554
+    },
+    {
+     "text": "a",
+     "start": 17.554,
+     "end": 17.699
+    },
+    {
+     "text": "dream",
+     "start": 17.699,
+     "end": 18.135
+    },
+    {
+     "text": "at",
+     "start": 18.135,
+     "end": 18.379
+    },
+    {
+     "text": "first",
+     "start": 18.379,
+     "end": 18.813
+    }
+   ]
+  },
+  {
+   "start": 18.813,
+   "end": 22.029,
+   "words": [
+    {
+     "text": "I",
+     "start": 18.913,
+     "end": 19.122
+    },
+    {
+     "text": "got",
+     "start": 19.122,
+     "end": 19.354
+    },
+    {
+     "text": "lost",
+     "start": 19.354,
+     "end": 19.725
+    },
+    {
+     "text": "in",
+     "start": 19.725,
+     "end": 19.94
+    },
+    {
+     "text": "your",
+     "start": 19.94,
+     "end": 20.161
+    },
+    {
+     "text": "world",
+     "start": 20.161,
+     "end": 20.492
+    },
+    {
+     "text": "in",
+     "start": 20.492,
+     "end": 20.735
+    },
+    {
+     "text": "your",
+     "start": 20.735,
+     "end": 20.944
+    },
+    {
+     "text": "universe",
+     "start": 20.944,
+     "end": 22.029
+    }
+   ]
+  },
+  {
+   "start": 22.029,
+   "end": 27.78,
+   "words": [
+    {
+     "text": "I",
+     "start": 22.129,
+     "end": 22.541
+    },
+    {
+     "text": "never",
+     "start": 22.541,
+     "end": 23.319
+    },
+    {
+     "text": "thought",
+     "start": 23.319,
+     "end": 23.771
+    },
+    {
+     "text": "our",
+     "start": 23.771,
+     "end": 24.172
+    },
+    {
+     "text": "love",
+     "start": 24.172,
+     "end": 24.712
+    },
+    {
+     "text": "would",
+     "start": 24.712,
+     "end": 24.95
+    },
+    {
+     "text": "ever",
+     "start": 24.95,
+     "end": 25.78
+    },
+    {
+     "text": "end",
+     "start": 25.78,
+     "end": 27.78
+    }
+   ]
+  },
+  {
+   "start": 28.391,
+   "end": 31.595,
+   "words": [
+    {
+     "text": "I",
+     "start": 28.491,
+     "end": 28.735
+    },
+    {
+     "text": "messed",
+     "start": 28.735,
+     "end": 28.944
+    },
+    {
+     "text": "up",
+     "start": 28.944,
+     "end": 29.298
+    },
+    {
+     "text": "made",
+     "start": 29.298,
+     "end": 29.524
+    },
+    {
+     "text": "it",
+     "start": 29.524,
+     "end": 29.733
+    },
+    {
+     "text": "worse",
+     "start": 29.733,
+     "end": 30.11
+    },
+    {
+     "text": "pushed",
+     "start": 30.11,
+     "end": 30.488
+    },
+    {
+     "text": "you",
+     "start": 30.488,
+     "end": 30.961
+    },
+    {
+     "text": "away",
+     "start": 30.961,
+     "end": 31.595
+    }
+   ]
+  },
+  {
+   "start": 31.595,
+   "end": 34.858,
+   "words": [
+    {
+     "text": "All",
+     "start": 31.695,
+     "end": 31.91
+    },
+    {
+     "text": "that",
+     "start": 31.91,
+     "end": 32.148
+    },
+    {
+     "text": "fighting",
+     "start": 32.148,
+     "end": 32.711
+    },
+    {
+     "text": "and",
+     "start": 32.711,
+     "end": 32.908
+    },
+    {
+     "text": "pain",
+     "start": 32.908,
+     "end": 33.251
+    },
+    {
+     "text": "til",
+     "start": 33.251,
+     "end": 33.503
+    },
+    {
+     "text": "you",
+     "start": 33.503,
+     "end": 33.75
+    },
+    {
+     "text": "left",
+     "start": 33.75,
+     "end": 34.128
+    },
+    {
+     "text": "one",
+     "start": 34.128,
+     "end": 34.516
+    },
+    {
+     "text": "day",
+     "start": 34.516,
+     "end": 34.858
+    }
+   ]
+  },
+  {
+   "start": 34.858,
+   "end": 40.367,
+   "words": [
+    {
+     "text": "Wish",
+     "start": 34.958,
+     "end": 35.352
+    },
+    {
+     "text": "I",
+     "start": 35.352,
+     "end": 35.73
+    },
+    {
+     "text": "could",
+     "start": 35.73,
+     "end": 36.061
+    },
+    {
+     "text": "take",
+     "start": 36.061,
+     "end": 36.519
+    },
+    {
+     "text": "back",
+     "start": 36.519,
+     "end": 36.914
+    },
+    {
+     "text": "all",
+     "start": 36.914,
+     "end": 37.343
+    },
+    {
+     "text": "those",
+     "start": 37.343,
+     "end": 37.721
+    },
+    {
+     "text": "things",
+     "start": 37.721,
+     "end": 38.133
+    },
+    {
+     "text": "I",
+     "start": 38.133,
+     "end": 38.516
+    },
+    {
+     "text": "said",
+     "start": 38.516,
+     "end": 40.367
+    }
+   ]
+  },
+  {
+   "start": 40.367,
+   "end": 46.74,
+   "words": [
+    {
+     "text": "I",
+     "start": 40.467,
+     "end": 40.71
+    },
+    {
+     "text": "can't",
+     "start": 40.71,
+     "end": 40.892
+    },
+    {
+     "text": "deny",
+     "start": 40.892,
+     "end": 41.361
+    },
+    {
+     "text": "that",
+     "start": 41.361,
+     "end": 41.552
+    },
+    {
+     "text": "I",
+     "start": 41.552,
+     "end": 41.779
+    },
+    {
+     "text": "miss",
+     "start": 41.779,
+     "end": 42.162
+    },
+    {
+     "text": "you",
+     "start": 42.162,
+     "end": 42.91
+    },
+    {
+     "text": "and",
+     "start": 42.91,
+     "end": 43.131
+    },
+    {
+     "text": "I",
+     "start": 43.131,
+     "end": 43.34
+    },
+    {
+     "text": "know",
+     "start": 43.34,
+     "end": 43.717
+    },
+    {
+     "text": "that",
+     "start": 43.717,
+     "end": 43.868
+    },
+    {
+     "text": "you",
+     "start": 43.868,
+     "end": 44.141
+    },
+    {
+     "text": "miss",
+     "start": 44.141,
+     "end": 44.547
+    },
+    {
+     "text": "me",
+     "start": 44.547,
+     "end": 44.797
+    },
+    {
+     "text": "too",
+     "start": 44.797,
+     "end": 46.74
+    }
+   ]
+  },
+  {
+   "start": 46.74,
+   "end": 53.196,
+   "words": [
+    {
+     "text": "So",
+     "start": 46.84,
+     "end": 47.037
+    },
+    {
+     "text": "let's",
+     "start": 47.037,
+     "end": 47.34
+    },
+    {
+     "text": "get",
+     "start": 47.34,
+     "end": 47.566
+    },
+    {
+     "text": "over",
+     "start": 47.566,
+     "end": 47.998
+    },
+    {
+     "text": "our",
+     "start": 47.998,
+     "end": 48.199
+    },
+    {
+     "text": "issues",
+     "start": 48.199,
+     "end": 49.296
+    },
+    {
+     "text": "and",
+     "start": 49.296,
+     "end": 49.499
+    },
+    {
+     "text": "go",
+     "start": 49.499,
+     "end": 49.749
+    },
+    {
+     "text": "back",
+     "start": 49.749,
+     "end": 50.068
+    },
+    {
+     "text": "to",
+     "start": 50.068,
+     "end": 50.544
+    },
+    {
+     "text": "me",
+     "start": 50.544,
+     "end": 50.892
+    },
+    {
+     "text": "plus",
+     "start": 50.892,
+     "end": 51.261
+    },
+    {
+     "text": "you",
+     "start": 51.261,
+     "end": 53.196
+    }
+   ]
+  },
+  {
+   "start": 53.196,
+   "end": 57.015,
+   "words": [
+    {
+     "text": "I",
+     "start": 53.296,
+     "end": 53.522
+    },
+    {
+     "text": "know",
+     "start": 53.522,
+     "end": 53.663
+    },
+    {
+     "text": "that",
+     "start": 53.663,
+     "end": 53.888
+    },
+    {
+     "text": "things",
+     "start": 53.888,
+     "end": 54.149
+    },
+    {
+     "text": "weren't",
+     "start": 54.149,
+     "end": 54.532
+    },
+    {
+     "text": "perfect",
+     "start": 54.532,
+     "end": 55.293
+    },
+    {
+     "text": "but",
+     "start": 55.293,
+     "end": 55.545
+    },
+    {
+     "text": "I",
+     "start": 55.545,
+     "end": 55.71
+    },
+    {
+     "text": "think",
+     "start": 55.71,
+     "end": 55.914
+    },
+    {
+     "text": "it's",
+     "start": 55.914,
+     "end": 56.076
+    },
+    {
+     "text": "worth",
+     "start": 56.076,
+     "end": 56.517
+    },
+    {
+     "text": "it",
+     "start": 56.517,
+     "end": 57.015
+    }
+   ]
+  },
+  {
+   "start": 57.015,
+   "end": 59.622,
+   "words": [
+    {
+     "text": "Nobody",
+     "start": 57.115,
+     "end": 57.748
+    },
+    {
+     "text": "knows",
+     "start": 57.748,
+     "end": 58.107
+    },
+    {
+     "text": "you",
+     "start": 58.107,
+     "end": 58.549
+    },
+    {
+     "text": "like",
+     "start": 58.549,
+     "end": 58.921
+    },
+    {
+     "text": "I",
+     "start": 58.921,
+     "end": 59.304
+    },
+    {
+     "text": "do",
+     "start": 59.304,
+     "end": 59.622
+    }
+   ]
+  },
+  {
+   "start": 59.622,
+   "end": 62.153,
+   "words": [
+    {
+     "text": "I",
+     "start": 59.722,
+     "end": 59.931
+    },
+    {
+     "text": "can't",
+     "start": 59.931,
+     "end": 60.122
+    },
+    {
+     "text": "deny",
+     "start": 60.122,
+     "end": 60.546
+    },
+    {
+     "text": "that",
+     "start": 60.546,
+     "end": 60.732
+    },
+    {
+     "text": "I",
+     "start": 60.732,
+     "end": 60.947
+    },
+    {
+     "text": "miss",
+     "start": 60.947,
+     "end": 61.232
+    },
+    {
+     "text": "you",
+     "start": 61.232,
+     "end": 61.532
+    },
+    {
+     "text": "I",
+     "start": 61.532,
+     "end": 61.748
+    },
+    {
+     "text": "miss",
+     "start": 61.748,
+     "end": 62.013
+    },
+    {
+     "text": "you",
+     "start": 62.013,
+     "end": 62.153
+    }
+   ]
+  },
+  {
+   "start": 62.153,
+   "end": 65.984,
+   "words": [
+    {
+     "text": "Let's",
+     "start": 62.253,
+     "end": 62.537
+    },
+    {
+     "text": "go",
+     "start": 62.537,
+     "end": 62.88
+    },
+    {
+     "text": "back",
+     "start": 62.88,
+     "end": 63.083
+    },
+    {
+     "text": "to",
+     "start": 63.083,
+     "end": 63.35
+    },
+    {
+     "text": "me",
+     "start": 63.35,
+     "end": 63.727
+    },
+    {
+     "text": "plus",
+     "start": 63.727,
+     "end": 64.055
+    },
+    {
+     "text": "you",
+     "start": 64.055,
+     "end": 65.984
+    }
+   ]
+  },
+  {
+   "start": 65.984,
+   "end": 72.34,
+   "words": [
+    {
+     "text": "I",
+     "start": 66.084,
+     "end": 66.31
+    },
+    {
+     "text": "can't",
+     "start": 66.31,
+     "end": 66.56
+    },
+    {
+     "text": "deny",
+     "start": 66.56,
+     "end": 66.961
+    },
+    {
+     "text": "that",
+     "start": 66.961,
+     "end": 67.164
+    },
+    {
+     "text": "I",
+     "start": 67.164,
+     "end": 67.379
+    },
+    {
+     "text": "miss",
+     "start": 67.379,
+     "end": 67.658
+    },
+    {
+     "text": "you",
+     "start": 67.658,
+     "end": 68.516
+    },
+    {
+     "text": "and",
+     "start": 68.516,
+     "end": 68.719
+    },
+    {
+     "text": "I",
+     "start": 68.719,
+     "end": 68.879
+    },
+    {
+     "text": "know",
+     "start": 68.879,
+     "end": 69.335
+    },
+    {
+     "text": "that",
+     "start": 69.335,
+     "end": 69.468
+    },
+    {
+     "text": "you",
+     "start": 69.468,
+     "end": 69.724
+    },
+    {
+     "text": "miss",
+     "start": 69.724,
+     "end": 70.02
+    },
+    {
+     "text": "me",
+     "start": 70.02,
+     "end": 70.519
+    },
+    {
+     "text": "too",
+     "start": 70.519,
+     "end": 72.34
+    }
+   ]
+  },
+  {
+   "start": 72.34,
+   "end": 78.784,
+   "words": [
+    {
+     "text": "So",
+     "start": 72.44,
+     "end": 72.642
+    },
+    {
+     "text": "let's",
+     "start": 72.642,
+     "end": 72.94
+    },
+    {
+     "text": "get",
+     "start": 72.94,
+     "end": 73.143
+    },
+    {
+     "text": "over",
+     "start": 73.143,
+     "end": 73.583
+    },
+    {
+     "text": "our",
+     "start": 73.583,
+     "end": 73.804
+    },
+    {
+     "text": "issues",
+     "start": 73.804,
+     "end": 74.902
+    },
+    {
+     "text": "and",
+     "start": 74.902,
+     "end": 75.099
+    },
+    {
+     "text": "go",
+     "start": 75.099,
+     "end": 75.349
+    },
+    {
+     "text": "back",
+     "start": 75.349,
+     "end": 75.665
+    },
+    {
+     "text": "to",
+     "start": 75.665,
+     "end": 76.156
+    },
+    {
+     "text": "me",
+     "start": 76.156,
+     "end": 76.487
+    },
+    {
+     "text": "plus",
+     "start": 76.487,
+     "end": 76.922
+    },
+    {
+     "text": "you",
+     "start": 76.922,
+     "end": 78.784
+    }
+   ]
+  },
+  {
+   "start": 78.784,
+   "end": 82.604,
+   "words": [
+    {
+     "text": "I",
+     "start": 78.884,
+     "end": 79.068
+    },
+    {
+     "text": "know",
+     "start": 79.068,
+     "end": 79.309
+    },
+    {
+     "text": "that",
+     "start": 79.309,
+     "end": 79.499
+    },
+    {
+     "text": "things",
+     "start": 79.499,
+     "end": 79.697
+    },
+    {
+     "text": "wеren't",
+     "start": 79.697,
+     "end": 80.138
+    },
+    {
+     "text": "perfect",
+     "start": 80.138,
+     "end": 80.898
+    },
+    {
+     "text": "but",
+     "start": 80.898,
+     "end": 81.132
+    },
+    {
+     "text": "I",
+     "start": 81.132,
+     "end": 81.322
+    },
+    {
+     "text": "think",
+     "start": 81.322,
+     "end": 81.514
+    },
+    {
+     "text": "it's",
+     "start": 81.514,
+     "end": 81.713
+    },
+    {
+     "text": "worth",
+     "start": 81.713,
+     "end": 82.112
+    },
+    {
+     "text": "it",
+     "start": 82.112,
+     "end": 82.604
+    }
+   ]
+  },
+  {
+   "start": 82.604,
+   "end": 85.158,
+   "words": [
+    {
+     "text": "Nobody",
+     "start": 82.704,
+     "end": 83.336
+    },
+    {
+     "text": "knows",
+     "start": 83.336,
+     "end": 83.694
+    },
+    {
+     "text": "you",
+     "start": 83.694,
+     "end": 84.143
+    },
+    {
+     "text": "likе",
+     "start": 84.143,
+     "end": 84.515
+    },
+    {
+     "text": "I",
+     "start": 84.515,
+     "end": 84.91
+    },
+    {
+     "text": "do",
+     "start": 84.91,
+     "end": 85.158
+    }
+   ]
+  },
+  {
+   "start": 85.158,
+   "end": 87.758,
+   "words": [
+    {
+     "text": "I",
+     "start": 85.258,
+     "end": 85.542
+    },
+    {
+     "text": "can't",
+     "start": 85.542,
+     "end": 85.763
+    },
+    {
+     "text": "deny",
+     "start": 85.763,
+     "end": 86.163
+    },
+    {
+     "text": "that",
+     "start": 86.163,
+     "end": 86.357
+    },
+    {
+     "text": "I",
+     "start": 86.357,
+     "end": 86.564
+    },
+    {
+     "text": "miss",
+     "start": 86.564,
+     "end": 86.857
+    },
+    {
+     "text": "you",
+     "start": 86.857,
+     "end": 87.121
+    },
+    {
+     "text": "I",
+     "start": 87.121,
+     "end": 87.359
+    },
+    {
+     "text": "miss",
+     "start": 87.359,
+     "end": 87.658
+    },
+    {
+     "text": "you",
+     "start": 87.658,
+     "end": 87.758
+    }
+   ]
+  },
+  {
+   "start": 87.758,
+   "end": 91.716,
+   "words": [
+    {
+     "text": "Let's",
+     "start": 87.858,
+     "end": 88.143
+    },
+    {
+     "text": "go",
+     "start": 88.143,
+     "end": 88.485
+    },
+    {
+     "text": "back",
+     "start": 88.485,
+     "end": 88.689
+    },
+    {
+     "text": "to",
+     "start": 88.689,
+     "end": 88.892
+    },
+    {
+     "text": "me",
+     "start": 88.892,
+     "end": 89.316
+    },
+    {
+     "text": "plus",
+     "start": 89.316,
+     "end": 89.716
+    },
+    {
+     "text": "you",
+     "start": 89.716,
+     "end": 91.716
+    }
+   ]
+  },
+  {
+   "start": 92.373,
+   "end": 95.624,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 92.473,
+     "end": 92.711
+    },
+    {
+     "text": "a",
+     "start": 92.711,
+     "end": 92.891
+    },
+    {
+     "text": "mess",
+     "start": 92.891,
+     "end": 93.327
+    },
+    {
+     "text": "I'm",
+     "start": 93.327,
+     "end": 93.542
+    },
+    {
+     "text": "a",
+     "start": 93.542,
+     "end": 93.751
+    },
+    {
+     "text": "wreck",
+     "start": 93.751,
+     "end": 94.116
+    },
+    {
+     "text": "when",
+     "start": 94.116,
+     "end": 94.325
+    },
+    {
+     "text": "I",
+     "start": 94.325,
+     "end": 94.575
+    },
+    {
+     "text": "see",
+     "start": 94.575,
+     "end": 94.905
+    },
+    {
+     "text": "your",
+     "start": 94.905,
+     "end": 95.324
+    },
+    {
+     "text": "face",
+     "start": 95.324,
+     "end": 95.624
+    }
+   ]
+  },
+  {
+   "start": 95.624,
+   "end": 98.817,
+   "words": [
+    {
+     "text": "And",
+     "start": 95.724,
+     "end": 95.916
+    },
+    {
+     "text": "I",
+     "start": 95.916,
+     "end": 96.125
+    },
+    {
+     "text": "know",
+     "start": 96.125,
+     "end": 96.508
+    },
+    {
+     "text": "that",
+     "start": 96.508,
+     "end": 96.682
+    },
+    {
+     "text": "you're",
+     "start": 96.682,
+     "end": 96.943
+    },
+    {
+     "text": "feeling",
+     "start": 96.943,
+     "end": 97.547
+    },
+    {
+     "text": "exactly",
+     "start": 97.547,
+     "end": 98.337
+    },
+    {
+     "text": "the",
+     "start": 98.337,
+     "end": 98.511
+    },
+    {
+     "text": "same",
+     "start": 98.511,
+     "end": 98.817
+    }
+   ]
+  },
+  {
+   "start": 98.817,
+   "end": 103.973,
+   "words": [
+    {
+     "text": "Let's",
+     "start": 98.917,
+     "end": 99.178
+    },
+    {
+     "text": "stop",
+     "start": 99.178,
+     "end": 99.712
+    },
+    {
+     "text": "pretending",
+     "start": 99.712,
+     "end": 100.892
+    },
+    {
+     "text": "we",
+     "start": 100.892,
+     "end": 101.425
+    },
+    {
+     "text": "should",
+     "start": 101.425,
+     "end": 101.75
+    },
+    {
+     "text": "stay",
+     "start": 101.75,
+     "end": 101.973
+    },
+    {
+     "text": "apart",
+     "start": 101.973,
+     "end": 103.973
+    }
+   ]
+  },
+  {
+   "start": 105.139,
+   "end": 108.407,
+   "words": [
+    {
+     "text": "Tried",
+     "start": 105.239,
+     "end": 105.54
+    },
+    {
+     "text": "to",
+     "start": 105.54,
+     "end": 105.744
+    },
+    {
+     "text": "meet",
+     "start": 105.744,
+     "end": 106.005
+    },
+    {
+     "text": "someone",
+     "start": 106.005,
+     "end": 106.533
+    },
+    {
+     "text": "new",
+     "start": 106.533,
+     "end": 106.905
+    },
+    {
+     "text": "but",
+     "start": 106.905,
+     "end": 107.108
+    },
+    {
+     "text": "they",
+     "start": 107.108,
+     "end": 107.288
+    },
+    {
+     "text": "can't",
+     "start": 107.288,
+     "end": 107.677
+    },
+    {
+     "text": "compare",
+     "start": 107.677,
+     "end": 108.407
+    }
+   ]
+  },
+  {
+   "start": 108.407,
+   "end": 111.594,
+   "words": [
+    {
+     "text": "And",
+     "start": 108.507,
+     "end": 108.733
+    },
+    {
+     "text": "I",
+     "start": 108.733,
+     "end": 108.936
+    },
+    {
+     "text": "know",
+     "start": 108.936,
+     "end": 109.32
+    },
+    {
+     "text": "that",
+     "start": 109.32,
+     "end": 109.546
+    },
+    {
+     "text": "I'm",
+     "start": 109.546,
+     "end": 109.72
+    },
+    {
+     "text": "being",
+     "start": 109.72,
+     "end": 110.33
+    },
+    {
+     "text": "a",
+     "start": 110.33,
+     "end": 110.515
+    },
+    {
+     "text": "bit",
+     "start": 110.515,
+     "end": 110.91
+    },
+    {
+     "text": "unfair",
+     "start": 110.91,
+     "end": 111.594
+    }
+   ]
+  },
+  {
+   "start": 111.594,
+   "end": 117.184,
+   "words": [
+    {
+     "text": "But",
+     "start": 111.694,
+     "end": 112.054
+    },
+    {
+     "text": "you're",
+     "start": 112.054,
+     "end": 112.536
+    },
+    {
+     "text": "the",
+     "start": 112.536,
+     "end": 113.003
+    },
+    {
+     "text": "only",
+     "start": 113.003,
+     "end": 113.703
+    },
+    {
+     "text": "one",
+     "start": 113.703,
+     "end": 114.284
+    },
+    {
+     "text": "that's",
+     "start": 114.284,
+     "end": 114.561
+    },
+    {
+     "text": "in",
+     "start": 114.561,
+     "end": 114.933
+    },
+    {
+     "text": "my",
+     "start": 114.933,
+     "end": 115.265
+    },
+    {
+     "text": "heart",
+     "start": 115.265,
+     "end": 117.184
+    }
+   ]
+  },
+  {
+   "start": 117.184,
+   "end": 117.828,
+   "words": [
+    {
+     "text": "You",
+     "start": 117.284,
+     "end": 117.347
+    },
+    {
+     "text": "might",
+     "start": 117.347,
+     "end": 117.505
+    },
+    {
+     "text": "also",
+     "start": 117.505,
+     "end": 117.707
+    },
+    {
+     "text": "like",
+     "start": 117.707,
+     "end": 117.828
+    }
+   ]
+  },
+  {
+   "start": 117.828,
+   "end": 118.128,
+   "words": [
+    {
+     "text": "misery",
+     "start": 117.928,
+     "end": 118.128
+    }
+   ]
+  },
+  {
+   "start": 118.061,
+   "end": 118.361,
+   "words": [
+    {
+     "text": "pupsies",
+     "start": 118.161,
+     "end": 118.361
+    }
+   ]
+  },
+  {
+   "start": 118.228,
+   "end": 118.808,
+   "words": [
+    {
+     "text": "BAD",
+     "start": 118.328,
+     "end": 118.579
+    },
+    {
+     "text": "TIMES",
+     "start": 118.579,
+     "end": 118.808
+    }
+   ]
+  },
+  {
+   "start": 118.808,
+   "end": 120.261,
+   "words": [
+    {
+     "text": "Imael",
+     "start": 118.908,
+     "end": 119.71
+    },
+    {
+     "text": "Angel",
+     "start": 119.71,
+     "end": 120.261
+    }
+   ]
+  },
+  {
+   "start": 120.261,
+   "end": 120.568,
+   "words": [
+    {
+     "text": "VILLIAN",
+     "start": 120.361,
+     "end": 120.512
+    },
+    {
+     "text": "madk1d",
+     "start": 120.512,
+     "end": 120.568
+    }
+   ]
+  },
+  {
+   "start": 120.568,
+   "end": 124.446,
+   "words": [
+    {
+     "text": "I",
+     "start": 120.668,
+     "end": 120.718
+    },
+    {
+     "text": "can't",
+     "start": 120.652,
+     "end": 120.935
+    },
+    {
+     "text": "deny",
+     "start": 120.935,
+     "end": 121.112
+    },
+    {
+     "text": "that",
+     "start": 121.112,
+     "end": 121.347
+    },
+    {
+     "text": "I",
+     "start": 121.347,
+     "end": 121.397
+    },
+    {
+     "text": "miss",
+     "start": 121.272,
+     "end": 121.597
+    },
+    {
+     "text": "you",
+     "start": 121.597,
+     "end": 123.64
+    },
+    {
+     "text": "and",
+     "start": 123.64,
+     "end": 123.794
+    },
+    {
+     "text": "I",
+     "start": 123.794,
+     "end": 123.844
+    },
+    {
+     "text": "know",
+     "start": 123.834,
+     "end": 124.087
+    },
+    {
+     "text": "that",
+     "start": 124.087,
+     "end": 124.137
+    },
+    {
+     "text": "you",
+     "start": 124.075,
+     "end": 124.195
+    },
+    {
+     "text": "miss",
+     "start": 124.195,
+     "end": 124.366
+    },
+    {
+     "text": "me",
+     "start": 124.366,
+     "end": 124.416
+    },
+    {
+     "text": "too",
+     "start": 124.375,
+     "end": 124.446
+    }
+   ]
+  },
+  {
+   "start": 124.446,
+   "end": 129.996,
+   "words": [
+    {
+     "text": "So",
+     "start": 124.546,
+     "end": 124.596
+    },
+    {
+     "text": "let's",
+     "start": 124.515,
+     "end": 124.715
+    },
+    {
+     "text": "get",
+     "start": 124.715,
+     "end": 124.875
+    },
+    {
+     "text": "over",
+     "start": 124.875,
+     "end": 125.15
+    },
+    {
+     "text": "our",
+     "start": 125.15,
+     "end": 125.216
+    },
+    {
+     "text": "issues",
+     "start": 125.216,
+     "end": 126.096
+    },
+    {
+     "text": "and",
+     "start": 126.096,
+     "end": 126.299
+    },
+    {
+     "text": "go",
+     "start": 126.299,
+     "end": 126.549
+    },
+    {
+     "text": "back",
+     "start": 126.549,
+     "end": 126.868
+    },
+    {
+     "text": "to",
+     "start": 126.868,
+     "end": 127.344
+    },
+    {
+     "text": "me",
+     "start": 127.344,
+     "end": 127.687
+    },
+    {
+     "text": "plus",
+     "start": 127.687,
+     "end": 128.128
+    },
+    {
+     "text": "you",
+     "start": 128.128,
+     "end": 129.996
+    }
+   ]
+  },
+  {
+   "start": 129.996,
+   "end": 133.815,
+   "words": [
+    {
+     "text": "I",
+     "start": 130.096,
+     "end": 130.328
+    },
+    {
+     "text": "know",
+     "start": 130.328,
+     "end": 130.501
+    },
+    {
+     "text": "that",
+     "start": 130.501,
+     "end": 130.688
+    },
+    {
+     "text": "things",
+     "start": 130.688,
+     "end": 130.897
+    },
+    {
+     "text": "weren't",
+     "start": 130.897,
+     "end": 131.344
+    },
+    {
+     "text": "perfect",
+     "start": 131.344,
+     "end": 132.081
+    },
+    {
+     "text": "but",
+     "start": 132.081,
+     "end": 132.322
+    },
+    {
+     "text": "I",
+     "start": 132.322,
+     "end": 132.522
+    },
+    {
+     "text": "think",
+     "start": 132.522,
+     "end": 132.702
+    },
+    {
+     "text": "it's",
+     "start": 132.702,
+     "end": 132.876
+    },
+    {
+     "text": "worth",
+     "start": 132.876,
+     "end": 133.306
+    },
+    {
+     "text": "it",
+     "start": 133.306,
+     "end": 133.815
+    }
+   ]
+  },
+  {
+   "start": 133.815,
+   "end": 136.422,
+   "words": [
+    {
+     "text": "Nobody",
+     "start": 133.915,
+     "end": 134.542
+    },
+    {
+     "text": "knows",
+     "start": 134.542,
+     "end": 134.949
+    },
+    {
+     "text": "you",
+     "start": 134.949,
+     "end": 135.305
+    },
+    {
+     "text": "like",
+     "start": 135.305,
+     "end": 135.726
+    },
+    {
+     "text": "I",
+     "start": 135.726,
+     "end": 136.11
+    },
+    {
+     "text": "do",
+     "start": 136.11,
+     "end": 136.422
+    }
+   ]
+  },
+  {
+   "start": 136.422,
+   "end": 138.948,
+   "words": [
+    {
+     "text": "I",
+     "start": 136.522,
+     "end": 136.731
+    },
+    {
+     "text": "can't",
+     "start": 136.731,
+     "end": 136.951
+    },
+    {
+     "text": "deny",
+     "start": 136.951,
+     "end": 137.352
+    },
+    {
+     "text": "that",
+     "start": 137.352,
+     "end": 137.567
+    },
+    {
+     "text": "I",
+     "start": 137.567,
+     "end": 137.752
+    },
+    {
+     "text": "miss",
+     "start": 137.752,
+     "end": 138.047
+    },
+    {
+     "text": "you",
+     "start": 138.047,
+     "end": 138.348
+    },
+    {
+     "text": "I",
+     "start": 138.348,
+     "end": 138.536
+    },
+    {
+     "text": "miss",
+     "start": 138.536,
+     "end": 138.828
+    },
+    {
+     "text": "you",
+     "start": 138.828,
+     "end": 138.948
+    }
+   ]
+  },
+  {
+   "start": 138.948,
+   "end": 142.796,
+   "words": [
+    {
+     "text": "Let's",
+     "start": 139.048,
+     "end": 139.326
+    },
+    {
+     "text": "go",
+     "start": 139.326,
+     "end": 139.674
+    },
+    {
+     "text": "back",
+     "start": 139.674,
+     "end": 139.883
+    },
+    {
+     "text": "to",
+     "start": 139.883,
+     "end": 140.144
+    },
+    {
+     "text": "me",
+     "start": 140.144,
+     "end": 140.527
+    },
+    {
+     "text": "plus",
+     "start": 140.527,
+     "end": 140.872
+    },
+    {
+     "text": "you",
+     "start": 140.872,
+     "end": 142.796
+    }
+   ]
+  },
+  {
+   "start": 142.796,
+   "end": 149.14,
+   "words": [
+    {
+     "text": "I",
+     "start": 142.896,
+     "end": 143.11
+    },
+    {
+     "text": "can't",
+     "start": 143.11,
+     "end": 143.354
+    },
+    {
+     "text": "deny",
+     "start": 143.354,
+     "end": 143.761
+    },
+    {
+     "text": "that",
+     "start": 143.761,
+     "end": 143.964
+    },
+    {
+     "text": "I",
+     "start": 143.964,
+     "end": 144.179
+    },
+    {
+     "text": "miss",
+     "start": 144.179,
+     "end": 144.455
+    },
+    {
+     "text": "you",
+     "start": 144.455,
+     "end": 145.316
+    },
+    {
+     "text": "and",
+     "start": 145.316,
+     "end": 145.516
+    },
+    {
+     "text": "I",
+     "start": 145.516,
+     "end": 145.676
+    },
+    {
+     "text": "know",
+     "start": 145.676,
+     "end": 146.036
+    },
+    {
+     "text": "that",
+     "start": 146.036,
+     "end": 146.268
+    },
+    {
+     "text": "you",
+     "start": 146.268,
+     "end": 146.477
+    },
+    {
+     "text": "miss",
+     "start": 146.477,
+     "end": 146.918
+    },
+    {
+     "text": "me",
+     "start": 146.918,
+     "end": 147.319
+    },
+    {
+     "text": "too",
+     "start": 147.319,
+     "end": 149.14
+    }
+   ]
+  },
+  {
+   "start": 149.14,
+   "end": 155.404,
+   "words": [
+    {
+     "text": "So",
+     "start": 149.24,
+     "end": 149.513
+    },
+    {
+     "text": "let's",
+     "start": 149.513,
+     "end": 149.745
+    },
+    {
+     "text": "get",
+     "start": 149.745,
+     "end": 149.94
+    },
+    {
+     "text": "over",
+     "start": 149.94,
+     "end": 150.44
+    },
+    {
+     "text": "our",
+     "start": 150.44,
+     "end": 150.744
+    },
+    {
+     "text": "issues",
+     "start": 150.744,
+     "end": 151.702
+    },
+    {
+     "text": "and",
+     "start": 151.702,
+     "end": 151.899
+    },
+    {
+     "text": "go",
+     "start": 151.899,
+     "end": 152.149
+    },
+    {
+     "text": "back",
+     "start": 152.149,
+     "end": 152.482
+    },
+    {
+     "text": "to",
+     "start": 152.482,
+     "end": 152.892
+    },
+    {
+     "text": "me",
+     "start": 152.892,
+     "end": 153.287
+    },
+    {
+     "text": "plus",
+     "start": 153.287,
+     "end": 153.722
+    },
+    {
+     "text": "you",
+     "start": 153.722,
+     "end": 155.404
+    }
+   ]
+  },
+  {
+   "start": 155.404,
+   "end": 159.409,
+   "words": [
+    {
+     "text": "I",
+     "start": 155.504,
+     "end": 155.69
+    },
+    {
+     "text": "know",
+     "start": 155.69,
+     "end": 155.865
+    },
+    {
+     "text": "that",
+     "start": 155.865,
+     "end": 156.305
+    },
+    {
+     "text": "things",
+     "start": 156.305,
+     "end": 156.506
+    },
+    {
+     "text": "weren't",
+     "start": 156.506,
+     "end": 156.944
+    },
+    {
+     "text": "perfect",
+     "start": 156.944,
+     "end": 157.704
+    },
+    {
+     "text": "but",
+     "start": 157.704,
+     "end": 157.947
+    },
+    {
+     "text": "I",
+     "start": 157.947,
+     "end": 158.122
+    },
+    {
+     "text": "think",
+     "start": 158.122,
+     "end": 158.314
+    },
+    {
+     "text": "it's",
+     "start": 158.314,
+     "end": 158.528
+    },
+    {
+     "text": "worth",
+     "start": 158.528,
+     "end": 158.894
+    },
+    {
+     "text": "it",
+     "start": 158.894,
+     "end": 159.409
+    }
+   ]
+  },
+  {
+   "start": 159.409,
+   "end": 162.033,
+   "words": [
+    {
+     "text": "Nobody",
+     "start": 159.509,
+     "end": 160.136
+    },
+    {
+     "text": "knows",
+     "start": 160.136,
+     "end": 160.492
+    },
+    {
+     "text": "you",
+     "start": 160.492,
+     "end": 160.943
+    },
+    {
+     "text": "like",
+     "start": 160.943,
+     "end": 161.315
+    },
+    {
+     "text": "I",
+     "start": 161.315,
+     "end": 161.704
+    },
+    {
+     "text": "do",
+     "start": 161.704,
+     "end": 162.033
+    }
+   ]
+  },
+  {
+   "start": 162.033,
+   "end": 164.537,
+   "words": [
+    {
+     "text": "I",
+     "start": 162.133,
+     "end": 162.342
+    },
+    {
+     "text": "can't",
+     "start": 162.342,
+     "end": 162.749
+    },
+    {
+     "text": "deny",
+     "start": 162.749,
+     "end": 162.958
+    },
+    {
+     "text": "that",
+     "start": 162.958,
+     "end": 163.155
+    },
+    {
+     "text": "I",
+     "start": 163.155,
+     "end": 163.376
+    },
+    {
+     "text": "miss",
+     "start": 163.376,
+     "end": 163.656
+    },
+    {
+     "text": "you",
+     "start": 163.656,
+     "end": 163.937
+    },
+    {
+     "text": "I",
+     "start": 163.937,
+     "end": 164.077
+    },
+    {
+     "text": "miss",
+     "start": 164.077,
+     "end": 164.417
+    },
+    {
+     "text": "you",
+     "start": 164.417,
+     "end": 164.537
+    }
+   ]
+  },
+  {
+   "start": 164.537,
+   "end": 168.522,
+   "words": [
+    {
+     "text": "Let's",
+     "start": 164.637,
+     "end": 164.943
+    },
+    {
+     "text": "go",
+     "start": 164.943,
+     "end": 165.285
+    },
+    {
+     "text": "back",
+     "start": 165.285,
+     "end": 165.489
+    },
+    {
+     "text": "to",
+     "start": 165.489,
+     "end": 165.756
+    },
+    {
+     "text": "me",
+     "start": 165.756,
+     "end": 166.121
+    },
+    {
+     "text": "plus",
+     "start": 166.121,
+     "end": 166.522
+    },
+    {
+     "text": "you",
+     "start": 166.522,
+     "end": 168.522
+    }
+   ]
+  }
+ ]
+}

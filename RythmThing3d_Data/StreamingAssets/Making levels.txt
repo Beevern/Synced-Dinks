@@ -1,0 +1,34 @@
+How to make levels in Synced Dinks:
+
+1. Find a song (with lyrics) on youtube, and download the .mp4 with a trusted yt to mp4 converter (I use 4k+ video downloader+ https://www.4kdownload.com/-54)
+2. Also download the .mp3 (I use https://www.4kdownload.com/products/youtubetomp3-74)
+3. Find the lyrics of the song and create a text file (.txt) and paste the lyrics in. Words in (round brackets) are treated as background vocals: they won't become notes or show in the lyrics. Section labels in [square brackets] like [Chorus] are ignored.
+4. Find a suitable cover image for your level. This will show in the song selector screen. The ideal resolution is 1024x1024. Others will work, but will be stretched/compressed
+5. Start the game and head to Level Maker. From there, select all the components you've made: Cover image, video (important!), lyrics (important!), name. Now on the right side, you have the ability to auto chart the song with customizable settings. Run the auto charter.
+5. (OPTIONAL BUT RECOMMENDED) This is for editing the outputted markers. The auto chart before is not perfect and it's recommended for the user to hand check each timing. 
+    5.1. Download latest version of Davinci Resolve, create a new project, and drag the .mp4 into the timeline (the area at the bottom)
+    5.2. Go to media pool (in the top left of the window)-> right click on Timeline 1 -> Timelines -> Import -> Timeline markers from EDL -> Select the .edl that the auto chart outputted
+    5.3. Now there should be a bunch of markers in the timeline above the video clip. Go through the song and adjust each marker to your liking. Blue represents a tap note, and purple represents a held note. Purple notes come in pairs, one marking the start, and one marking the end.
+    (DO NOT try to have 2 held notes at the same time, as the reader will interpret every even purple marker as the end of a held note, even if you meant it as the start)
+    5.4. Now with your edited markers, go to index in the top left (to the right of media pool), and along the top of the index window, click the 3 dots. Click on "Show markers", then click on blue. Now it should only show the blue markers. 
+    5.5. Ensure you have "Edit Index" selected at the top of the index window. Reclick the 3 dots, and at the bottom of the menu, click "Export Edit Index" and place it somewhere u can find (preferably downloads.)
+    5.6. Like in 5.4, click the 3 dots. Click on "Show markers", then click on purple. Now it should only show the purple markers. 
+    5.7. Congrats, now you have the timings for a level!
+6. (OPTIONAL BUT RECOMMENDED) This is for making a video for your level. You may choose to have the video picked from YouTube, but that may be visually confusing as you're trying to hit targets on screen.
+    6.1. You could go with a completely black background, in which case, select the video clip (make sure the audio clip is not also selected) -> right click -> cut.
+    6.2. You could have just a title at the top, in which case, go to effects -> On the left, titles -> text -> Drag into timeline. Then increase the length so it covers the whole song. Click on the text block, then in the inspector on the right, change the text and position to disired.
+    6.3. You could have lyrics displaying.
+        (NOT WORKING) EASIEST: the tool ran earlier also renders a "_lyrics.mp4" lyric video (white lyrics on black, with the song's audio and the song name + artist at the top). Pick the style in Level Maker: Fill (words fill with yellow as they're sung), Box (a blue box jumps word to word) or Plain (no highlight). Song audio and name/artist can each be switched off under "Video extras"; the name and artist come from the level name ("Song Name by Artist Name"). Drag it into the timeline at the very start, on a track above the video clip. To show it over another video instead of black, select the lyrics clip -> inspector -> Composite Mode -> Screen.
+        OR, for plain editable subtitles, the tool also outputs a "_lyrics.srt" file. When you run the tool it asks how many words to show at a time: 1 shows each word as it's sung, 3 shows three words at a time, 0 shows the whole lyric line. For this:
+        6.3.1. In the media pool, right click -> Import Subtitle (or File -> Import -> Subtitle) and select the _lyrics.srt
+        6.3.2. Drag it from the media pool onto the timeline, lined up with the very start of the timeline. It will create a subtitle track (ST1) above the video.
+        6.3.3. To change the font, size, color or position, click the subtitle track's name (ST1) on the left of the timeline, then use the "Track" tab in the inspector on the right.
+        6.3.4. If a line shows at the wrong time, drag or trim that subtitle on the timeline, or double click it to fix the text.
+        6.3.5. When rendering (6.5), open "Subtitle Settings" in the deliver tab, check "Export Subtitle", and set the format to "Burn into video". Otherwise the lyrics won't be in the video.
+    6.4. You could add an image. Right now, the main area is pitch black which could work. But if you want some art, you could download the album cover or anything else and import it into Davinci Resolve and put it in the timeline and drag it to the length of the song like you did with the title. Then resize and reposition as desired.
+    6.5. You could edit your own video! That goes way deeper than what this document can describe, so learn how to edit a video and cook something up!
+    6.6. (Don't skip this one!) Head to the deliver tab at the bottom and set Codec to H.264 and format to MP4 if not already. Set the location and name. Then at the bottom, click "Add to render queue" and then on the right click "render all"
+7. Click finish. Now your level is complete, and will show up in Song Selector!
+
+Last updated: Oct 11
+To do: A video tutorial of this doc

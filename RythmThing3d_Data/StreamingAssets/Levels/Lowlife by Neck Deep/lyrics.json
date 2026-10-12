@@ -1,0 +1,1332 @@
+{
+ "title": "Lowlife",
+ "artist": "Neck Deep",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 4.172,
+   "end": 6.378,
+   "words": [
+    {
+     "text": "My",
+     "start": 4.272,
+     "end": 4.598
+    },
+    {
+     "text": "colors",
+     "start": 4.598,
+     "end": 6.378
+    }
+   ]
+  },
+  {
+   "start": 6.378,
+   "end": 7.702,
+   "words": [
+    {
+     "text": "Yellow",
+     "start": 6.478,
+     "end": 7.053
+    },
+    {
+     "text": "and",
+     "start": 7.053,
+     "end": 7.291
+    },
+    {
+     "text": "green",
+     "start": 7.291,
+     "end": 7.702
+    }
+   ]
+  },
+  {
+   "start": 7.702,
+   "end": 11.452,
+   "words": [
+    {
+     "text": "But",
+     "start": 7.802,
+     "end": 8.005
+    },
+    {
+     "text": "I",
+     "start": 8.005,
+     "end": 8.301
+    },
+    {
+     "text": "like",
+     "start": 8.301,
+     "end": 8.615
+    },
+    {
+     "text": "some",
+     "start": 8.615,
+     "end": 9.166
+    },
+    {
+     "text": "purple",
+     "start": 9.166,
+     "end": 9.903
+    },
+    {
+     "text": "with",
+     "start": 9.903,
+     "end": 10.112
+    },
+    {
+     "text": "my",
+     "start": 10.112,
+     "end": 10.286
+    },
+    {
+     "text": "tangerine",
+     "start": 10.286,
+     "end": 11.452
+    }
+   ]
+  },
+  {
+   "start": 11.452,
+   "end": 15.37,
+   "words": [
+    {
+     "text": "Can",
+     "start": 11.552,
+     "end": 11.743
+    },
+    {
+     "text": "you",
+     "start": 11.743,
+     "end": 11.999
+    },
+    {
+     "text": "name",
+     "start": 11.999,
+     "end": 12.388
+    },
+    {
+     "text": "me",
+     "start": 12.388,
+     "end": 13.839
+    },
+    {
+     "text": "a",
+     "start": 13.839,
+     "end": 14.048
+    },
+    {
+     "text": "better",
+     "start": 14.048,
+     "end": 14.559
+    },
+    {
+     "text": "disease",
+     "start": 14.559,
+     "end": 15.37
+    }
+   ]
+  },
+  {
+   "start": 15.37,
+   "end": 17.274,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 15.47,
+     "end": 15.865
+    },
+    {
+     "text": "young",
+     "start": 15.865,
+     "end": 16.457
+    },
+    {
+     "text": "and",
+     "start": 16.457,
+     "end": 16.887
+    },
+    {
+     "text": "dumb",
+     "start": 16.887,
+     "end": 17.274
+    }
+   ]
+  },
+  {
+   "start": 17.274,
+   "end": 19.868,
+   "words": [
+    {
+     "text": "Got",
+     "start": 17.374,
+     "end": 17.868
+    },
+    {
+     "text": "vacancy",
+     "start": 17.868,
+     "end": 19.868
+    }
+   ]
+  },
+  {
+   "start": 20.949,
+   "end": 23.478,
+   "words": [
+    {
+     "text": "Got",
+     "start": 21.049,
+     "end": 21.478
+    },
+    {
+     "text": "vacancy",
+     "start": 21.478,
+     "end": 23.478
+    }
+   ]
+  },
+  {
+   "start": 24.745,
+   "end": 27.263,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 24.845,
+     "end": 25.263
+    },
+    {
+     "text": "vacant",
+     "start": 25.263,
+     "end": 27.263
+    }
+   ]
+  },
+  {
+   "start": 30.295,
+   "end": 32.71,
+   "words": [
+    {
+     "text": "You're",
+     "start": 30.395,
+     "end": 30.923
+    },
+    {
+     "text": "perfect",
+     "start": 30.923,
+     "end": 32.71
+    }
+   ]
+  },
+  {
+   "start": 32.71,
+   "end": 34.19,
+   "words": [
+    {
+     "text": "Perfectly",
+     "start": 32.81,
+     "end": 33.547
+    },
+    {
+     "text": "clean",
+     "start": 33.547,
+     "end": 34.19
+    }
+   ]
+  },
+  {
+   "start": 34.19,
+   "end": 37.94,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 34.29,
+     "end": 34.702
+    },
+    {
+     "text": "drinking",
+     "start": 34.702,
+     "end": 35.422
+    },
+    {
+     "text": "coffee",
+     "start": 35.422,
+     "end": 36.206
+    },
+    {
+     "text": "on",
+     "start": 36.206,
+     "end": 36.438
+    },
+    {
+     "text": "a",
+     "start": 36.438,
+     "end": 36.629
+    },
+    {
+     "text": "trampoline",
+     "start": 36.629,
+     "end": 37.94
+    }
+   ]
+  },
+  {
+   "start": 37.94,
+   "end": 41.406,
+   "words": [
+    {
+     "text": "You",
+     "start": 38.04,
+     "end": 38.475
+    },
+    {
+     "text": "think",
+     "start": 38.475,
+     "end": 38.963
+    },
+    {
+     "text": "you're",
+     "start": 38.963,
+     "end": 40.31
+    },
+    {
+     "text": "better",
+     "start": 40.31,
+     "end": 40.809
+    },
+    {
+     "text": "than",
+     "start": 40.809,
+     "end": 41.064
+    },
+    {
+     "text": "me",
+     "start": 41.064,
+     "end": 41.406
+    }
+   ]
+  },
+  {
+   "start": 41.406,
+   "end": 46.849,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 41.506,
+     "end": 41.773
+    },
+    {
+     "text": "I'm",
+     "start": 41.773,
+     "end": 42.098
+    },
+    {
+     "text": "young",
+     "start": 42.098,
+     "end": 42.701
+    },
+    {
+     "text": "and",
+     "start": 42.701,
+     "end": 43.143
+    },
+    {
+     "text": "dumb",
+     "start": 43.143,
+     "end": 43.642
+    },
+    {
+     "text": "and",
+     "start": 43.642,
+     "end": 44.048
+    },
+    {
+     "text": "vacant",
+     "start": 44.048,
+     "end": 44.849
+    },
+    {
+     "text": "see",
+     "start": 44.849,
+     "end": 46.849
+    }
+   ]
+  },
+  {
+   "start": 47.245,
+   "end": 50.617,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 47.345,
+     "end": 47.758
+    },
+    {
+     "text": "vacant",
+     "start": 47.758,
+     "end": 48.617
+    },
+    {
+     "text": "see",
+     "start": 48.617,
+     "end": 50.617
+    }
+   ]
+  },
+  {
+   "start": 51.007,
+   "end": 51.936,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 51.107,
+     "end": 51.56
+    },
+    {
+     "text": "vacant",
+     "start": 51.56,
+     "end": 51.936
+    }
+   ]
+  },
+  {
+   "start": 51.936,
+   "end": 55.436,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 52.036,
+     "end": 52.086
+    },
+    {
+     "text": "well",
+     "start": 52.082,
+     "end": 53.029
+    },
+    {
+     "text": "oh",
+     "start": 53.029,
+     "end": 54.915
+    },
+    {
+     "text": "well",
+     "start": 54.915,
+     "end": 55.436
+    }
+   ]
+  },
+  {
+   "start": 55.436,
+   "end": 58.026,
+   "words": [
+    {
+     "text": "You're",
+     "start": 55.536,
+     "end": 56.059
+    },
+    {
+     "text": "a",
+     "start": 56.059,
+     "end": 56.109
+    },
+    {
+     "text": "normie",
+     "start": 56.026,
+     "end": 58.026
+    }
+   ]
+  },
+  {
+   "start": 58.954,
+   "end": 61.555,
+   "words": [
+    {
+     "text": "So",
+     "start": 59.054,
+     "end": 59.397
+    },
+    {
+     "text": "fucking",
+     "start": 59.397,
+     "end": 59.989
+    },
+    {
+     "text": "boring",
+     "start": 59.989,
+     "end": 61.555
+    }
+   ]
+  },
+  {
+   "start": 61.555,
+   "end": 62.617,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 61.655,
+     "end": 61.913
+    },
+    {
+     "text": "I'll",
+     "start": 61.913,
+     "end": 62.148
+    },
+    {
+     "text": "see",
+     "start": 62.148,
+     "end": 62.198
+    },
+    {
+     "text": "you",
+     "start": 62.093,
+     "end": 62.173
+    },
+    {
+     "text": "in",
+     "start": 62.173,
+     "end": 62.333
+    },
+    {
+     "text": "Hell",
+     "start": 62.333,
+     "end": 62.617
+    }
+   ]
+  },
+  {
+   "start": 62.617,
+   "end": 63.256,
+   "words": [
+    {
+     "text": "Mr",
+     "start": 62.717,
+     "end": 62.767
+    },
+    {
+     "text": "I'm",
+     "start": 62.653,
+     "end": 62.856
+    },
+    {
+     "text": "so",
+     "start": 62.856,
+     "end": 63.118
+    },
+    {
+     "text": "important",
+     "start": 63.118,
+     "end": 63.256
+    }
+   ]
+  },
+  {
+   "start": 63.256,
+   "end": 64.115,
+   "words": [
+    {
+     "text": "You",
+     "start": 63.356,
+     "end": 63.406
+    },
+    {
+     "text": "might",
+     "start": 63.314,
+     "end": 63.714
+    },
+    {
+     "text": "also",
+     "start": 63.714,
+     "end": 64.087
+    },
+    {
+     "text": "like",
+     "start": 64.087,
+     "end": 64.137
+    }
+   ]
+  },
+  {
+   "start": 64.115,
+   "end": 64.415,
+   "words": [
+    {
+     "text": "HYAENA",
+     "start": 64.215,
+     "end": 64.415
+    }
+   ]
+  },
+  {
+   "start": 64.255,
+   "end": 64.602,
+   "words": [
+    {
+     "text": "Travis",
+     "start": 64.355,
+     "end": 64.517
+    },
+    {
+     "text": "Scott",
+     "start": 64.517,
+     "end": 64.602
+    }
+   ]
+  },
+  {
+   "start": 64.602,
+   "end": 64.996,
+   "words": [
+    {
+     "text": "THANK",
+     "start": 64.702,
+     "end": 65.016
+    },
+    {
+     "text": "GOD",
+     "start": 65.016,
+     "end": 65.066
+    }
+   ]
+  },
+  {
+   "start": 64.996,
+   "end": 65.734,
+   "words": [
+    {
+     "text": "Travis",
+     "start": 65.096,
+     "end": 65.62
+    },
+    {
+     "text": "Scott",
+     "start": 65.62,
+     "end": 65.734
+    }
+   ]
+  },
+  {
+   "start": 65.734,
+   "end": 66.292,
+   "words": [
+    {
+     "text": "Sonderland",
+     "start": 65.834,
+     "end": 66.292
+    }
+   ]
+  },
+  {
+   "start": 66.292,
+   "end": 68.873,
+   "words": [
+    {
+     "text": "Neck",
+     "start": 66.392,
+     "end": 66.873
+    },
+    {
+     "text": "Deep",
+     "start": 66.873,
+     "end": 68.873
+    }
+   ]
+  },
+  {
+   "start": 75.417,
+   "end": 79.097,
+   "words": [
+    {
+     "text": "My",
+     "start": 75.517,
+     "end": 75.883
+    },
+    {
+     "text": "dreamworld",
+     "start": 75.883,
+     "end": 77.578
+    },
+    {
+     "text": "is",
+     "start": 77.578,
+     "end": 77.827
+    },
+    {
+     "text": "Alice",
+     "start": 77.827,
+     "end": 78.338
+    },
+    {
+     "text": "and",
+     "start": 78.338,
+     "end": 78.594
+    },
+    {
+     "text": "me",
+     "start": 78.594,
+     "end": 79.097
+    }
+   ]
+  },
+  {
+   "start": 79.097,
+   "end": 82.842,
+   "words": [
+    {
+     "text": "My",
+     "start": 79.197,
+     "end": 79.72
+    },
+    {
+     "text": "life",
+     "start": 79.72,
+     "end": 80.219
+    },
+    {
+     "text": "is",
+     "start": 80.219,
+     "end": 80.678
+    },
+    {
+     "text": "one",
+     "start": 80.678,
+     "end": 81.125
+    },
+    {
+     "text": "big",
+     "start": 81.125,
+     "end": 81.554
+    },
+    {
+     "text": "jamboree",
+     "start": 81.554,
+     "end": 82.842
+    }
+   ]
+  },
+  {
+   "start": 82.842,
+   "end": 86.656,
+   "words": [
+    {
+     "text": "If",
+     "start": 82.942,
+     "end": 83.074
+    },
+    {
+     "text": "you",
+     "start": 83.074,
+     "end": 83.313
+    },
+    {
+     "text": "feel",
+     "start": 83.313,
+     "end": 83.952
+    },
+    {
+     "text": "like",
+     "start": 83.952,
+     "end": 85.252
+    },
+    {
+     "text": "taking",
+     "start": 85.252,
+     "end": 85.838
+    },
+    {
+     "text": "a",
+     "start": 85.838,
+     "end": 86.111
+    },
+    {
+     "text": "seat",
+     "start": 86.111,
+     "end": 86.656
+    }
+   ]
+  },
+  {
+   "start": 86.656,
+   "end": 88.531,
+   "words": [
+    {
+     "text": "No",
+     "start": 86.756,
+     "end": 87.208
+    },
+    {
+     "text": "you",
+     "start": 87.208,
+     "end": 87.609
+    },
+    {
+     "text": "can't",
+     "start": 87.609,
+     "end": 88.149
+    },
+    {
+     "text": "stay",
+     "start": 88.149,
+     "end": 88.531
+    }
+   ]
+  },
+  {
+   "start": 88.531,
+   "end": 90.996,
+   "words": [
+    {
+     "text": "No",
+     "start": 88.631,
+     "end": 88.996
+    },
+    {
+     "text": "vacancy",
+     "start": 88.996,
+     "end": 90.996
+    }
+   ]
+  },
+  {
+   "start": 92.135,
+   "end": 94.816,
+   "words": [
+    {
+     "text": "No",
+     "start": 92.235,
+     "end": 92.816
+    },
+    {
+     "text": "vacancy",
+     "start": 92.816,
+     "end": 94.816
+    }
+   ]
+  },
+  {
+   "start": 95.99,
+   "end": 96.896,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 96.09,
+     "end": 96.485
+    },
+    {
+     "text": "vacant",
+     "start": 96.485,
+     "end": 96.896
+    }
+   ]
+  },
+  {
+   "start": 96.896,
+   "end": 100.442,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 96.996,
+     "end": 97.087
+    },
+    {
+     "text": "well",
+     "start": 97.087,
+     "end": 98.04
+    },
+    {
+     "text": "oh",
+     "start": 98.04,
+     "end": 98.749
+    },
+    {
+     "text": "well",
+     "start": 98.749,
+     "end": 100.442
+    }
+   ]
+  },
+  {
+   "start": 100.442,
+   "end": 103.065,
+   "words": [
+    {
+     "text": "You're",
+     "start": 100.542,
+     "end": 100.92
+    },
+    {
+     "text": "a",
+     "start": 100.92,
+     "end": 101.065
+    },
+    {
+     "text": "normie",
+     "start": 101.065,
+     "end": 103.065
+    }
+   ]
+  },
+  {
+   "start": 103.954,
+   "end": 106.561,
+   "words": [
+    {
+     "text": "So",
+     "start": 104.054,
+     "end": 104.391
+    },
+    {
+     "text": "fucking",
+     "start": 104.391,
+     "end": 104.977
+    },
+    {
+     "text": "boring",
+     "start": 104.977,
+     "end": 106.561
+    }
+   ]
+  },
+  {
+   "start": 106.561,
+   "end": 109.115,
+   "words": [
+    {
+     "text": "Maybe",
+     "start": 106.661,
+     "end": 107.386
+    },
+    {
+     "text": "I'll",
+     "start": 107.386,
+     "end": 107.862
+    },
+    {
+     "text": "see",
+     "start": 107.862,
+     "end": 108.124
+    },
+    {
+     "text": "you",
+     "start": 108.124,
+     "end": 108.385
+    },
+    {
+     "text": "in",
+     "start": 108.385,
+     "end": 108.547
+    },
+    {
+     "text": "Hell",
+     "start": 108.547,
+     "end": 109.115
+    }
+   ]
+  },
+  {
+   "start": 109.115,
+   "end": 113.166,
+   "words": [
+    {
+     "text": "Mr",
+     "start": 109.215,
+     "end": 110.608
+    },
+    {
+     "text": "I'm",
+     "start": 110.608,
+     "end": 110.84
+    },
+    {
+     "text": "so",
+     "start": 110.84,
+     "end": 111.166
+    },
+    {
+     "text": "important",
+     "start": 111.166,
+     "end": 113.166
+    }
+   ]
+  },
+  {
+   "start": 115.071,
+   "end": 117.318,
+   "words": [
+    {
+     "text": "Mr",
+     "start": 115.171,
+     "end": 115.856
+    },
+    {
+     "text": "Important",
+     "start": 115.856,
+     "end": 117.318
+    }
+   ]
+  },
+  {
+   "start": 117.318,
+   "end": 121.322,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 117.418,
+     "end": 117.719
+    },
+    {
+     "text": "ignoring",
+     "start": 117.719,
+     "end": 119.322
+    },
+    {
+     "text": "you",
+     "start": 119.322,
+     "end": 121.322
+    }
+   ]
+  },
+  {
+   "start": 122.472,
+   "end": 124.812,
+   "words": [
+    {
+     "text": "The",
+     "start": 122.572,
+     "end": 122.752
+    },
+    {
+     "text": "king",
+     "start": 122.752,
+     "end": 123.101
+    },
+    {
+     "text": "of",
+     "start": 123.101,
+     "end": 123.234
+    },
+    {
+     "text": "the",
+     "start": 123.234,
+     "end": 123.391
+    },
+    {
+     "text": "morning",
+     "start": 123.391,
+     "end": 124.812
+    }
+   ]
+  },
+  {
+   "start": 124.812,
+   "end": 127.394,
+   "words": [
+    {
+     "text": "Fucking",
+     "start": 124.912,
+     "end": 125.394
+    },
+    {
+     "text": "boring",
+     "start": 125.394,
+     "end": 127.394
+    }
+   ]
+  },
+  {
+   "start": 127.906,
+   "end": 130.443,
+   "words": [
+    {
+     "text": "So",
+     "start": 128.006,
+     "end": 128.339
+    },
+    {
+     "text": "what",
+     "start": 128.339,
+     "end": 128.743
+    },
+    {
+     "text": "so",
+     "start": 128.743,
+     "end": 128.975
+    },
+    {
+     "text": "what",
+     "start": 128.975,
+     "end": 130.443
+    }
+   ]
+  },
+  {
+   "start": 130.443,
+   "end": 133.088,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 130.543,
+     "end": 130.879
+    },
+    {
+     "text": "a",
+     "start": 130.879,
+     "end": 131.088
+    },
+    {
+     "text": "lowlife",
+     "start": 131.088,
+     "end": 133.088
+    }
+   ]
+  },
+  {
+   "start": 134.001,
+   "end": 136.549,
+   "words": [
+    {
+     "text": "Living",
+     "start": 134.101,
+     "end": 134.565
+    },
+    {
+     "text": "the",
+     "start": 134.565,
+     "end": 134.821
+    },
+    {
+     "text": "slow",
+     "start": 134.821,
+     "end": 135.245
+    },
+    {
+     "text": "life",
+     "start": 135.245,
+     "end": 136.549
+    }
+   ]
+  },
+  {
+   "start": 136.549,
+   "end": 139.109,
+   "words": [
+    {
+     "text": "Baby",
+     "start": 136.649,
+     "end": 137.41
+    },
+    {
+     "text": "I'll",
+     "start": 137.41,
+     "end": 137.857
+    },
+    {
+     "text": "see",
+     "start": 137.857,
+     "end": 138.127
+    },
+    {
+     "text": "you",
+     "start": 138.127,
+     "end": 138.327
+    },
+    {
+     "text": "in",
+     "start": 138.327,
+     "end": 138.513
+    },
+    {
+     "text": "Hell",
+     "start": 138.513,
+     "end": 139.109
+    }
+   ]
+  },
+  {
+   "start": 139.109,
+   "end": 143.392,
+   "words": [
+    {
+     "text": "Mr",
+     "start": 139.209,
+     "end": 140.591
+    },
+    {
+     "text": "Dead",
+     "start": 140.591,
+     "end": 140.972
+    },
+    {
+     "text": "on",
+     "start": 140.972,
+     "end": 141.195
+    },
+    {
+     "text": "the",
+     "start": 141.195,
+     "end": 141.392
+    },
+    {
+     "text": "inside",
+     "start": 141.392,
+     "end": 143.392
+    }
+   ]
+  },
+  {
+   "start": 150.133,
+   "end": 154.115,
+   "words": [
+    {
+     "text": "Can",
+     "start": 150.233,
+     "end": 150.483
+    },
+    {
+     "text": "you",
+     "start": 150.483,
+     "end": 150.912
+    },
+    {
+     "text": "name",
+     "start": 150.912,
+     "end": 151.441
+    },
+    {
+     "text": "me",
+     "start": 151.441,
+     "end": 152.602
+    },
+    {
+     "text": "a",
+     "start": 152.602,
+     "end": 152.834
+    },
+    {
+     "text": "better",
+     "start": 152.834,
+     "end": 153.321
+    },
+    {
+     "text": "disease",
+     "start": 153.321,
+     "end": 154.115
+    }
+   ]
+  },
+  {
+   "start": 154.115,
+   "end": 155.985,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 154.215,
+     "end": 154.61
+    },
+    {
+     "text": "young",
+     "start": 154.61,
+     "end": 155.138
+    },
+    {
+     "text": "and",
+     "start": 155.138,
+     "end": 155.609
+    },
+    {
+     "text": "dumb",
+     "start": 155.609,
+     "end": 155.985
+    }
+   ]
+  },
+  {
+   "start": 155.985,
+   "end": 158.607,
+   "words": [
+    {
+     "text": "Got",
+     "start": 156.085,
+     "end": 156.607
+    },
+    {
+     "text": "vacancy",
+     "start": 156.607,
+     "end": 158.607
+    }
+   ]
+  },
+  {
+   "start": 159.764,
+   "end": 162.282,
+   "words": [
+    {
+     "text": "At",
+     "start": 159.864,
+     "end": 160.113
+    },
+    {
+     "text": "the",
+     "start": 160.113,
+     "end": 160.282
+    },
+    {
+     "text": "jamboree",
+     "start": 160.282,
+     "end": 162.282
+    }
+   ]
+  },
+  {
+   "start": 163.461,
+   "end": 166.015,
+   "words": [
+    {
+     "text": "On",
+     "start": 163.561,
+     "end": 163.991
+    },
+    {
+     "text": "a",
+     "start": 163.991,
+     "end": 164.041
+    },
+    {
+     "text": "trampoline",
+     "start": 164.015,
+     "end": 166.015
+    }
+   ]
+  },
+  {
+   "start": 167.258,
+   "end": 169.787,
+   "words": [
+    {
+     "text": "Purple",
+     "start": 167.358,
+     "end": 167.787
+    },
+    {
+     "text": "tangerine",
+     "start": 167.787,
+     "end": 169.787
+    }
+   ]
+  },
+  {
+   "start": 170.967,
+   "end": 173.572,
+   "words": [
+    {
+     "text": "Got",
+     "start": 171.067,
+     "end": 171.572
+    },
+    {
+     "text": "vacancy",
+     "start": 171.572,
+     "end": 173.572
+    }
+   ]
+  }
+ ]
+}

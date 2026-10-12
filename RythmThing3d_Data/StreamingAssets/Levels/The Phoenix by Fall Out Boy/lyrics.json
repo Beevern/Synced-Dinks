@@ -1,0 +1,2697 @@
+{
+ "title": "The Phoenix",
+ "artist": "Fall Out Boy",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 8.985,
+   "end": 12.159,
+   "words": [
+    {
+     "text": "Put",
+     "start": 9.085,
+     "end": 9.3
+    },
+    {
+     "text": "on",
+     "start": 9.3,
+     "end": 9.519
+    },
+    {
+     "text": "your",
+     "start": 9.519,
+     "end": 9.739
+    },
+    {
+     "text": "war",
+     "start": 9.739,
+     "end": 10.159
+    },
+    {
+     "text": "paint",
+     "start": 10.159,
+     "end": 12.159
+    }
+   ]
+  },
+  {
+   "start": 15.974,
+   "end": 19.382,
+   "words": [
+    {
+     "text": "You",
+     "start": 16.074,
+     "end": 16.358
+    },
+    {
+     "text": "are",
+     "start": 16.358,
+     "end": 16.509
+    },
+    {
+     "text": "a",
+     "start": 16.509,
+     "end": 16.695
+    },
+    {
+     "text": "brick",
+     "start": 16.695,
+     "end": 17.067
+    },
+    {
+     "text": "tied",
+     "start": 17.067,
+     "end": 17.508
+    },
+    {
+     "text": "to",
+     "start": 17.508,
+     "end": 17.81
+    },
+    {
+     "text": "me",
+     "start": 17.81,
+     "end": 18.024
+    },
+    {
+     "text": "that's",
+     "start": 18.024,
+     "end": 18.419
+    },
+    {
+     "text": "dragging",
+     "start": 18.419,
+     "end": 18.888
+    },
+    {
+     "text": "me",
+     "start": 18.888,
+     "end": 19.116
+    },
+    {
+     "text": "down",
+     "start": 19.116,
+     "end": 19.382
+    }
+   ]
+  },
+  {
+   "start": 19.382,
+   "end": 22.928,
+   "words": [
+    {
+     "text": "Strike",
+     "start": 19.482,
+     "end": 19.934
+    },
+    {
+     "text": "a",
+     "start": 19.934,
+     "end": 20.207
+    },
+    {
+     "text": "match",
+     "start": 20.207,
+     "end": 20.643
+    },
+    {
+     "text": "and",
+     "start": 20.643,
+     "end": 20.832
+    },
+    {
+     "text": "I'll",
+     "start": 20.832,
+     "end": 21.06
+    },
+    {
+     "text": "burn",
+     "start": 21.06,
+     "end": 21.492
+    },
+    {
+     "text": "you",
+     "start": 21.492,
+     "end": 21.896
+    },
+    {
+     "text": "to",
+     "start": 21.896,
+     "end": 22.367
+    },
+    {
+     "text": "the",
+     "start": 22.367,
+     "end": 22.576
+    },
+    {
+     "text": "ground",
+     "start": 22.576,
+     "end": 22.928
+    }
+   ]
+  },
+  {
+   "start": 22.928,
+   "end": 25.314,
+   "words": [
+    {
+     "text": "We",
+     "start": 23.028,
+     "end": 23.261
+    },
+    {
+     "text": "are",
+     "start": 23.261,
+     "end": 23.475
+    },
+    {
+     "text": "the",
+     "start": 23.475,
+     "end": 23.638
+    },
+    {
+     "text": "jack",
+     "start": 23.638,
+     "end": 23.888
+    },
+    {
+     "text": "o",
+     "start": 23.888,
+     "end": 24.126
+    },
+    {
+     "text": "lanterns",
+     "start": 24.126,
+     "end": 24.52
+    },
+    {
+     "text": "in",
+     "start": 24.52,
+     "end": 24.735
+    },
+    {
+     "text": "July",
+     "start": 24.735,
+     "end": 25.314
+    }
+   ]
+  },
+  {
+   "start": 25.314,
+   "end": 27.05,
+   "words": [
+    {
+     "text": "Setting",
+     "start": 25.414,
+     "end": 25.844
+    },
+    {
+     "text": "fire",
+     "start": 25.844,
+     "end": 26.221
+    },
+    {
+     "text": "to",
+     "start": 26.221,
+     "end": 26.43
+    },
+    {
+     "text": "the",
+     "start": 26.43,
+     "end": 26.569
+    },
+    {
+     "text": "sky",
+     "start": 26.569,
+     "end": 27.05
+    }
+   ]
+  },
+  {
+   "start": 27.05,
+   "end": 35.443,
+   "words": [
+    {
+     "text": "Here",
+     "start": 27.15,
+     "end": 27.585
+    },
+    {
+     "text": "here",
+     "start": 27.585,
+     "end": 27.934
+    },
+    {
+     "text": "comes",
+     "start": 27.934,
+     "end": 28.392
+    },
+    {
+     "text": "this",
+     "start": 28.392,
+     "end": 28.891
+    },
+    {
+     "text": "rising",
+     "start": 28.891,
+     "end": 29.542
+    },
+    {
+     "text": "tide",
+     "start": 29.542,
+     "end": 30.006
+    },
+    {
+     "text": "so",
+     "start": 30.006,
+     "end": 30.198
+    },
+    {
+     "text": "come",
+     "start": 30.198,
+     "end": 33.443
+    },
+    {
+     "text": "on",
+     "start": 33.443,
+     "end": 35.443
+    }
+   ]
+  },
+  {
+   "start": 37.394,
+   "end": 40.773,
+   "words": [
+    {
+     "text": "Cross",
+     "start": 37.494,
+     "end": 37.988
+    },
+    {
+     "text": "walks",
+     "start": 37.988,
+     "end": 38.481
+    },
+    {
+     "text": "and",
+     "start": 38.481,
+     "end": 38.609
+    },
+    {
+     "text": "crossed",
+     "start": 38.609,
+     "end": 39.015
+    },
+    {
+     "text": "hearts",
+     "start": 39.015,
+     "end": 39.549
+    },
+    {
+     "text": "and",
+     "start": 39.549,
+     "end": 39.689
+    },
+    {
+     "text": "hope",
+     "start": 39.689,
+     "end": 40.165
+    },
+    {
+     "text": "to",
+     "start": 40.165,
+     "end": 40.374
+    },
+    {
+     "text": "dies",
+     "start": 40.374,
+     "end": 40.773
+    }
+   ]
+  },
+  {
+   "start": 40.773,
+   "end": 43.472,
+   "words": [
+    {
+     "text": "Silver",
+     "start": 40.873,
+     "end": 41.43
+    },
+    {
+     "text": "clouds",
+     "start": 41.43,
+     "end": 41.866
+    },
+    {
+     "text": "with",
+     "start": 41.866,
+     "end": 42.138
+    },
+    {
+     "text": "grey",
+     "start": 42.138,
+     "end": 42.597
+    },
+    {
+     "text": "linings",
+     "start": 42.597,
+     "end": 43.472
+    }
+   ]
+  },
+  {
+   "start": 43.472,
+   "end": 47.538,
+   "words": [
+    {
+     "text": "So",
+     "start": 43.572,
+     "end": 43.95
+    },
+    {
+     "text": "we",
+     "start": 43.95,
+     "end": 44.147
+    },
+    {
+     "text": "can",
+     "start": 44.147,
+     "end": 44.321
+    },
+    {
+     "text": "take",
+     "start": 44.321,
+     "end": 44.774
+    },
+    {
+     "text": "the",
+     "start": 44.774,
+     "end": 45.023
+    },
+    {
+     "text": "world",
+     "start": 45.023,
+     "end": 45.407
+    },
+    {
+     "text": "back",
+     "start": 45.407,
+     "end": 45.708
+    },
+    {
+     "text": "from",
+     "start": 45.708,
+     "end": 46.08
+    },
+    {
+     "text": "the",
+     "start": 46.08,
+     "end": 46.283
+    },
+    {
+     "text": "heart",
+     "start": 46.283,
+     "end": 46.73
+    },
+    {
+     "text": "attacked",
+     "start": 46.73,
+     "end": 47.538
+    }
+   ]
+  },
+  {
+   "start": 47.538,
+   "end": 50.67,
+   "words": [
+    {
+     "text": "One",
+     "start": 47.638,
+     "end": 47.845
+    },
+    {
+     "text": "maniac",
+     "start": 47.845,
+     "end": 48.466
+    },
+    {
+     "text": "at",
+     "start": 48.466,
+     "end": 48.71
+    },
+    {
+     "text": "a",
+     "start": 48.71,
+     "end": 48.861
+    },
+    {
+     "text": "time",
+     "start": 48.861,
+     "end": 49.377
+    },
+    {
+     "text": "we",
+     "start": 49.377,
+     "end": 49.5
+    },
+    {
+     "text": "will",
+     "start": 49.5,
+     "end": 49.737
+    },
+    {
+     "text": "take",
+     "start": 49.737,
+     "end": 50.039
+    },
+    {
+     "text": "it",
+     "start": 50.039,
+     "end": 50.416
+    },
+    {
+     "text": "back",
+     "start": 50.416,
+     "end": 50.67
+    }
+   ]
+  },
+  {
+   "start": 50.67,
+   "end": 55.001,
+   "words": [
+    {
+     "text": "You",
+     "start": 50.77,
+     "end": 51.032
+    },
+    {
+     "text": "know",
+     "start": 51.032,
+     "end": 51.403
+    },
+    {
+     "text": "time",
+     "start": 51.403,
+     "end": 51.897
+    },
+    {
+     "text": "crawls",
+     "start": 51.897,
+     "end": 52.396
+    },
+    {
+     "text": "on",
+     "start": 52.396,
+     "end": 52.814
+    },
+    {
+     "text": "when",
+     "start": 52.814,
+     "end": 53.017
+    },
+    {
+     "text": "you're",
+     "start": 53.017,
+     "end": 53.238
+    },
+    {
+     "text": "waiting",
+     "start": 53.238,
+     "end": 53.696
+    },
+    {
+     "text": "for",
+     "start": 53.696,
+     "end": 53.911
+    },
+    {
+     "text": "the",
+     "start": 53.911,
+     "end": 54.126
+    },
+    {
+     "text": "song",
+     "start": 54.126,
+     "end": 54.544
+    },
+    {
+     "text": "to",
+     "start": 54.544,
+     "end": 54.787
+    },
+    {
+     "text": "start",
+     "start": 54.787,
+     "end": 55.001
+    }
+   ]
+  },
+  {
+   "start": 55.001,
+   "end": 58.931,
+   "words": [
+    {
+     "text": "So",
+     "start": 55.101,
+     "end": 55.414
+    },
+    {
+     "text": "dance",
+     "start": 55.414,
+     "end": 55.664
+    },
+    {
+     "text": "alone",
+     "start": 55.664,
+     "end": 56.274
+    },
+    {
+     "text": "to",
+     "start": 56.274,
+     "end": 56.523
+    },
+    {
+     "text": "the",
+     "start": 56.523,
+     "end": 56.715
+    },
+    {
+     "text": "beat",
+     "start": 56.715,
+     "end": 56.964
+    },
+    {
+     "text": "of",
+     "start": 56.964,
+     "end": 57.156
+    },
+    {
+     "text": "your",
+     "start": 57.156,
+     "end": 57.551
+    },
+    {
+     "text": "heart",
+     "start": 57.551,
+     "end": 58.931
+    }
+   ]
+  },
+  {
+   "start": 58.931,
+   "end": 62.455,
+   "words": [
+    {
+     "text": "Hey",
+     "start": 59.031,
+     "end": 59.78
+    },
+    {
+     "text": "young",
+     "start": 59.78,
+     "end": 60.175
+    },
+    {
+     "text": "blood",
+     "start": 60.175,
+     "end": 60.732
+    },
+    {
+     "text": "doesn't",
+     "start": 60.732,
+     "end": 61.51
+    },
+    {
+     "text": "it",
+     "start": 61.51,
+     "end": 61.916
+    },
+    {
+     "text": "feel",
+     "start": 61.916,
+     "end": 62.455
+    }
+   ]
+  },
+  {
+   "start": 62.455,
+   "end": 65.949,
+   "words": [
+    {
+     "text": "Like",
+     "start": 62.555,
+     "end": 63.007
+    },
+    {
+     "text": "our",
+     "start": 63.007,
+     "end": 63.614
+    },
+    {
+     "text": "time",
+     "start": 63.614,
+     "end": 64.335
+    },
+    {
+     "text": "is",
+     "start": 64.335,
+     "end": 64.557
+    },
+    {
+     "text": "running",
+     "start": 64.557,
+     "end": 65.236
+    },
+    {
+     "text": "out",
+     "start": 65.236,
+     "end": 65.949
+    }
+   ]
+  },
+  {
+   "start": 65.949,
+   "end": 69.862,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 66.049,
+     "end": 66.514
+    },
+    {
+     "text": "gonna",
+     "start": 66.514,
+     "end": 66.839
+    },
+    {
+     "text": "change",
+     "start": 66.839,
+     "end": 67.599
+    },
+    {
+     "text": "you",
+     "start": 67.599,
+     "end": 68.214
+    },
+    {
+     "text": "like",
+     "start": 68.214,
+     "end": 68.493
+    },
+    {
+     "text": "a",
+     "start": 68.493,
+     "end": 68.685
+    },
+    {
+     "text": "remix",
+     "start": 68.685,
+     "end": 69.862
+    }
+   ]
+  },
+  {
+   "start": 69.862,
+   "end": 72.909,
+   "words": [
+    {
+     "text": "Then",
+     "start": 69.962,
+     "end": 70.26
+    },
+    {
+     "text": "I'll",
+     "start": 70.26,
+     "end": 70.426
+    },
+    {
+     "text": "raise",
+     "start": 70.426,
+     "end": 71.181
+    },
+    {
+     "text": "you",
+     "start": 71.181,
+     "end": 71.703
+    },
+    {
+     "text": "like",
+     "start": 71.703,
+     "end": 71.941
+    },
+    {
+     "text": "a",
+     "start": 71.941,
+     "end": 72.162
+    },
+    {
+     "text": "phoenix",
+     "start": 72.162,
+     "end": 72.909
+    }
+   ]
+  },
+  {
+   "start": 72.909,
+   "end": 74.224,
+   "words": [
+    {
+     "text": "Wearing",
+     "start": 73.009,
+     "end": 73.343
+    },
+    {
+     "text": "our",
+     "start": 73.343,
+     "end": 73.443
+    },
+    {
+     "text": "vintage",
+     "start": 73.443,
+     "end": 74.112
+    },
+    {
+     "text": "misery",
+     "start": 74.112,
+     "end": 74.224
+    }
+   ]
+  },
+  {
+   "start": 74.224,
+   "end": 75.685,
+   "words": [
+    {
+     "text": "No",
+     "start": 74.324,
+     "end": 74.424
+    },
+    {
+     "text": "I",
+     "start": 74.424,
+     "end": 74.484
+    },
+    {
+     "text": "think",
+     "start": 74.484,
+     "end": 74.664
+    },
+    {
+     "text": "it",
+     "start": 74.664,
+     "end": 74.971
+    },
+    {
+     "text": "looked",
+     "start": 74.971,
+     "end": 75.225
+    },
+    {
+     "text": "a",
+     "start": 75.225,
+     "end": 75.275
+    },
+    {
+     "text": "little",
+     "start": 75.265,
+     "end": 75.425
+    },
+    {
+     "text": "better",
+     "start": 75.425,
+     "end": 75.627
+    },
+    {
+     "text": "on",
+     "start": 75.627,
+     "end": 75.725
+    },
+    {
+     "text": "me",
+     "start": 75.725,
+     "end": 75.775
+    }
+   ]
+  },
+  {
+   "start": 75.685,
+   "end": 77.687,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 75.785,
+     "end": 75.865
+    },
+    {
+     "text": "gonna",
+     "start": 75.865,
+     "end": 76.481
+    },
+    {
+     "text": "change",
+     "start": 76.481,
+     "end": 76.928
+    },
+    {
+     "text": "you",
+     "start": 76.928,
+     "end": 77.212
+    },
+    {
+     "text": "like",
+     "start": 77.212,
+     "end": 77.392
+    },
+    {
+     "text": "a",
+     "start": 77.392,
+     "end": 77.442
+    },
+    {
+     "text": "remix",
+     "start": 77.347,
+     "end": 77.687
+    }
+   ]
+  },
+  {
+   "start": 77.687,
+   "end": 79.858,
+   "words": [
+    {
+     "text": "Then",
+     "start": 77.787,
+     "end": 78.036
+    },
+    {
+     "text": "I'll",
+     "start": 78.036,
+     "end": 78.454
+    },
+    {
+     "text": "raise",
+     "start": 78.454,
+     "end": 78.692
+    },
+    {
+     "text": "you",
+     "start": 78.692,
+     "end": 78.868
+    },
+    {
+     "text": "like",
+     "start": 78.868,
+     "end": 79.319
+    },
+    {
+     "text": "a",
+     "start": 79.319,
+     "end": 79.369
+    },
+    {
+     "text": "phoenix",
+     "start": 79.268,
+     "end": 79.858
+    }
+   ]
+  },
+  {
+   "start": 79.858,
+   "end": 80.932,
+   "words": [
+    {
+     "text": "You",
+     "start": 79.958,
+     "end": 80.411
+    },
+    {
+     "text": "might",
+     "start": 80.411,
+     "end": 80.765
+    },
+    {
+     "text": "also",
+     "start": 80.765,
+     "end": 80.932
+    },
+    {
+     "text": "like",
+     "start": 80.932,
+     "end": 80.982
+    }
+   ]
+  },
+  {
+   "start": 80.932,
+   "end": 84.026,
+   "words": [
+    {
+     "text": "My",
+     "start": 81.032,
+     "end": 81.292
+    },
+    {
+     "text": "Songs",
+     "start": 81.292,
+     "end": 81.45
+    },
+    {
+     "text": "Know",
+     "start": 81.45,
+     "end": 81.601
+    },
+    {
+     "text": "What",
+     "start": 81.601,
+     "end": 82.135
+    },
+    {
+     "text": "You",
+     "start": 82.135,
+     "end": 82.379
+    },
+    {
+     "text": "Did",
+     "start": 82.379,
+     "end": 82.429
+    },
+    {
+     "text": "In",
+     "start": 82.413,
+     "end": 82.593
+    },
+    {
+     "text": "The",
+     "start": 82.593,
+     "end": 82.794
+    },
+    {
+     "text": "Dark",
+     "start": 82.794,
+     "end": 84.026
+    }
+   ]
+  },
+  {
+   "start": 84.026,
+   "end": 84.326,
+   "words": [
+    {
+     "text": "Fall",
+     "start": 84.126,
+     "end": 84.176
+    },
+    {
+     "text": "Out",
+     "start": 84.135,
+     "end": 84.341
+    },
+    {
+     "text": "Boy",
+     "start": 84.341,
+     "end": 84.391
+    }
+   ]
+  },
+  {
+   "start": 84.195,
+   "end": 84.495,
+   "words": [
+    {
+     "text": "Balloon",
+     "start": 84.295,
+     "end": 84.495
+    }
+   ]
+  },
+  {
+   "start": 84.415,
+   "end": 85.5,
+   "words": [
+    {
+     "text": "Tyler",
+     "start": 84.515,
+     "end": 84.855
+    },
+    {
+     "text": "The",
+     "start": 84.855,
+     "end": 84.996
+    },
+    {
+     "text": "Creator",
+     "start": 84.996,
+     "end": 85.5
+    }
+   ]
+  },
+  {
+   "start": 85.5,
+   "end": 85.976,
+   "words": [
+    {
+     "text": "Tiffany",
+     "start": 85.6,
+     "end": 85.862
+    },
+    {
+     "text": "Blews",
+     "start": 85.862,
+     "end": 85.976
+    }
+   ]
+  },
+  {
+   "start": 85.976,
+   "end": 90.741,
+   "words": [
+    {
+     "text": "Fall",
+     "start": 86.076,
+     "end": 86.732
+    },
+    {
+     "text": "Out",
+     "start": 86.732,
+     "end": 90.802
+    },
+    {
+     "text": "Boy",
+     "start": 90.802,
+     "end": 90.852
+    }
+   ]
+  },
+  {
+   "start": 90.741,
+   "end": 94.231,
+   "words": [
+    {
+     "text": "Bring",
+     "start": 90.841,
+     "end": 91.063
+    },
+    {
+     "text": "home",
+     "start": 91.063,
+     "end": 91.301
+    },
+    {
+     "text": "the",
+     "start": 91.301,
+     "end": 91.481
+    },
+    {
+     "text": "boys",
+     "start": 91.481,
+     "end": 91.974
+    },
+    {
+     "text": "and",
+     "start": 91.974,
+     "end": 92.195
+    },
+    {
+     "text": "scrap",
+     "start": 92.195,
+     "end": 92.787
+    },
+    {
+     "text": "scrap",
+     "start": 92.787,
+     "end": 93.246
+    },
+    {
+     "text": "metal",
+     "start": 93.246,
+     "end": 93.681
+    },
+    {
+     "text": "the",
+     "start": 93.681,
+     "end": 93.838
+    },
+    {
+     "text": "tanks",
+     "start": 93.838,
+     "end": 94.231
+    }
+   ]
+  },
+  {
+   "start": 94.231,
+   "end": 97.708,
+   "words": [
+    {
+     "text": "Get",
+     "start": 94.331,
+     "end": 94.761
+    },
+    {
+     "text": "hitched",
+     "start": 94.761,
+     "end": 95.208
+    },
+    {
+     "text": "make",
+     "start": 95.208,
+     "end": 95.393
+    },
+    {
+     "text": "a",
+     "start": 95.393,
+     "end": 95.579
+    },
+    {
+     "text": "career",
+     "start": 95.579,
+     "end": 96.282
+    },
+    {
+     "text": "out",
+     "start": 96.282,
+     "end": 96.531
+    },
+    {
+     "text": "of",
+     "start": 96.531,
+     "end": 96.711
+    },
+    {
+     "text": "robbing",
+     "start": 96.711,
+     "end": 97.367
+    },
+    {
+     "text": "banks",
+     "start": 97.367,
+     "end": 97.708
+    }
+   ]
+  },
+  {
+   "start": 97.708,
+   "end": 101.592,
+   "words": [
+    {
+     "text": "Because",
+     "start": 97.808,
+     "end": 98.244
+    },
+    {
+     "text": "the",
+     "start": 98.244,
+     "end": 98.435
+    },
+    {
+     "text": "world",
+     "start": 98.435,
+     "end": 98.691
+    },
+    {
+     "text": "is",
+     "start": 98.691,
+     "end": 98.888
+    },
+    {
+     "text": "just",
+     "start": 98.888,
+     "end": 99.097
+    },
+    {
+     "text": "a",
+     "start": 99.097,
+     "end": 99.248
+    },
+    {
+     "text": "teller",
+     "start": 99.248,
+     "end": 99.776
+    },
+    {
+     "text": "and",
+     "start": 99.776,
+     "end": 100.212
+    },
+    {
+     "text": "we",
+     "start": 100.212,
+     "end": 100.438
+    },
+    {
+     "text": "are",
+     "start": 100.438,
+     "end": 100.653
+    },
+    {
+     "text": "wearing",
+     "start": 100.653,
+     "end": 101.065
+    },
+    {
+     "text": "black",
+     "start": 101.065,
+     "end": 101.367
+    },
+    {
+     "text": "masks",
+     "start": 101.367,
+     "end": 101.592
+    }
+   ]
+  },
+  {
+   "start": 101.592,
+   "end": 104.495,
+   "words": [
+    {
+     "text": "You",
+     "start": 101.692,
+     "end": 101.93
+    },
+    {
+     "text": "broke",
+     "start": 101.93,
+     "end": 102.383
+    },
+    {
+     "text": "our",
+     "start": 102.383,
+     "end": 102.609
+    },
+    {
+     "text": "spirit",
+     "start": 102.609,
+     "end": 103.253
+    },
+    {
+     "text": "says",
+     "start": 103.253,
+     "end": 103.468
+    },
+    {
+     "text": "the",
+     "start": 103.468,
+     "end": 103.677
+    },
+    {
+     "text": "note",
+     "start": 103.677,
+     "end": 103.956
+    },
+    {
+     "text": "we",
+     "start": 103.956,
+     "end": 104.246
+    },
+    {
+     "text": "pass",
+     "start": 104.246,
+     "end": 104.495
+    }
+   ]
+  },
+  {
+   "start": 104.495,
+   "end": 108.146,
+   "words": [
+    {
+     "text": "So",
+     "start": 104.595,
+     "end": 104.755
+    },
+    {
+     "text": "we",
+     "start": 104.755,
+     "end": 104.914
+    },
+    {
+     "text": "can",
+     "start": 104.914,
+     "end": 105.215
+    },
+    {
+     "text": "take",
+     "start": 105.215,
+     "end": 105.633
+    },
+    {
+     "text": "the",
+     "start": 105.633,
+     "end": 105.836
+    },
+    {
+     "text": "world",
+     "start": 105.836,
+     "end": 106.278
+    },
+    {
+     "text": "back",
+     "start": 106.278,
+     "end": 106.585
+    },
+    {
+     "text": "from",
+     "start": 106.585,
+     "end": 106.951
+    },
+    {
+     "text": "the",
+     "start": 106.951,
+     "end": 107.154
+    },
+    {
+     "text": "heart",
+     "start": 107.154,
+     "end": 107.595
+    },
+    {
+     "text": "attacked",
+     "start": 107.595,
+     "end": 108.146
+    }
+   ]
+  },
+  {
+   "start": 108.146,
+   "end": 111.571,
+   "words": [
+    {
+     "text": "One",
+     "start": 108.246,
+     "end": 108.716
+    },
+    {
+     "text": "maniac",
+     "start": 108.716,
+     "end": 109.343
+    },
+    {
+     "text": "at",
+     "start": 109.343,
+     "end": 109.587
+    },
+    {
+     "text": "a",
+     "start": 109.587,
+     "end": 109.732
+    },
+    {
+     "text": "time",
+     "start": 109.732,
+     "end": 110.266
+    },
+    {
+     "text": "we",
+     "start": 110.266,
+     "end": 110.36
+    },
+    {
+     "text": "will",
+     "start": 110.36,
+     "end": 110.608
+    },
+    {
+     "text": "take",
+     "start": 110.608,
+     "end": 110.91
+    },
+    {
+     "text": "it",
+     "start": 110.91,
+     "end": 111.287
+    },
+    {
+     "text": "back",
+     "start": 111.287,
+     "end": 111.571
+    }
+   ]
+  },
+  {
+   "start": 111.571,
+   "end": 115.878,
+   "words": [
+    {
+     "text": "You",
+     "start": 111.671,
+     "end": 111.938
+    },
+    {
+     "text": "know",
+     "start": 111.938,
+     "end": 112.286
+    },
+    {
+     "text": "time",
+     "start": 112.286,
+     "end": 112.797
+    },
+    {
+     "text": "crawls",
+     "start": 112.797,
+     "end": 113.412
+    },
+    {
+     "text": "on",
+     "start": 113.412,
+     "end": 113.702
+    },
+    {
+     "text": "when",
+     "start": 113.702,
+     "end": 113.9
+    },
+    {
+     "text": "you're",
+     "start": 113.9,
+     "end": 114.109
+    },
+    {
+     "text": "waiting",
+     "start": 114.109,
+     "end": 114.509
+    },
+    {
+     "text": "for",
+     "start": 114.509,
+     "end": 114.776
+    },
+    {
+     "text": "the",
+     "start": 114.776,
+     "end": 115.003
+    },
+    {
+     "text": "song",
+     "start": 115.003,
+     "end": 115.403
+    },
+    {
+     "text": "to",
+     "start": 115.403,
+     "end": 115.653
+    },
+    {
+     "text": "start",
+     "start": 115.653,
+     "end": 115.878
+    }
+   ]
+  },
+  {
+   "start": 115.878,
+   "end": 119.872,
+   "words": [
+    {
+     "text": "So",
+     "start": 115.978,
+     "end": 116.297
+    },
+    {
+     "text": "dance",
+     "start": 116.297,
+     "end": 116.738
+    },
+    {
+     "text": "alone",
+     "start": 116.738,
+     "end": 117.139
+    },
+    {
+     "text": "to",
+     "start": 117.139,
+     "end": 117.4
+    },
+    {
+     "text": "the",
+     "start": 117.4,
+     "end": 117.603
+    },
+    {
+     "text": "beat",
+     "start": 117.603,
+     "end": 117.847
+    },
+    {
+     "text": "of",
+     "start": 117.847,
+     "end": 118.021
+    },
+    {
+     "text": "your",
+     "start": 118.021,
+     "end": 118.416
+    },
+    {
+     "text": "heart",
+     "start": 118.416,
+     "end": 119.872
+    }
+   ]
+  },
+  {
+   "start": 119.872,
+   "end": 123.331,
+   "words": [
+    {
+     "text": "Hey",
+     "start": 119.972,
+     "end": 120.651
+    },
+    {
+     "text": "young",
+     "start": 120.651,
+     "end": 121.034
+    },
+    {
+     "text": "blood",
+     "start": 121.034,
+     "end": 121.69
+    },
+    {
+     "text": "doesn't",
+     "start": 121.69,
+     "end": 122.433
+    },
+    {
+     "text": "it",
+     "start": 122.433,
+     "end": 122.799
+    },
+    {
+     "text": "feel",
+     "start": 122.799,
+     "end": 123.331
+    }
+   ]
+  },
+  {
+   "start": 123.331,
+   "end": 126.82,
+   "words": [
+    {
+     "text": "Like",
+     "start": 123.431,
+     "end": 123.878
+    },
+    {
+     "text": "our",
+     "start": 123.878,
+     "end": 124.563
+    },
+    {
+     "text": "time",
+     "start": 124.563,
+     "end": 125.034
+    },
+    {
+     "text": "is",
+     "start": 125.034,
+     "end": 125.428
+    },
+    {
+     "text": "running",
+     "start": 125.428,
+     "end": 126.09
+    },
+    {
+     "text": "out",
+     "start": 126.09,
+     "end": 126.82
+    }
+   ]
+  },
+  {
+   "start": 126.82,
+   "end": 130.75,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 126.92,
+     "end": 127.385
+    },
+    {
+     "text": "gonna",
+     "start": 127.385,
+     "end": 127.826
+    },
+    {
+     "text": "change",
+     "start": 127.826,
+     "end": 128.575
+    },
+    {
+     "text": "you",
+     "start": 128.575,
+     "end": 129.086
+    },
+    {
+     "text": "like",
+     "start": 129.086,
+     "end": 129.341
+    },
+    {
+     "text": "a",
+     "start": 129.341,
+     "end": 129.55
+    },
+    {
+     "text": "remix",
+     "start": 129.55,
+     "end": 130.75
+    }
+   ]
+  },
+  {
+   "start": 130.75,
+   "end": 133.786,
+   "words": [
+    {
+     "text": "Then",
+     "start": 130.85,
+     "end": 131.187
+    },
+    {
+     "text": "I'll",
+     "start": 131.187,
+     "end": 131.309
+    },
+    {
+     "text": "raise",
+     "start": 131.309,
+     "end": 132.0
+    },
+    {
+     "text": "you",
+     "start": 132.0,
+     "end": 132.563
+    },
+    {
+     "text": "like",
+     "start": 132.563,
+     "end": 132.812
+    },
+    {
+     "text": "a",
+     "start": 132.812,
+     "end": 133.033
+    },
+    {
+     "text": "phoenix",
+     "start": 133.033,
+     "end": 133.786
+    }
+   ]
+  },
+  {
+   "start": 133.786,
+   "end": 137.263,
+   "words": [
+    {
+     "text": "Wearing",
+     "start": 133.886,
+     "end": 134.644
+    },
+    {
+     "text": "our",
+     "start": 134.644,
+     "end": 134.983
+    },
+    {
+     "text": "vintage",
+     "start": 134.983,
+     "end": 135.436
+    },
+    {
+     "text": "misery",
+     "start": 135.436,
+     "end": 137.263
+    }
+   ]
+  },
+  {
+   "start": 137.263,
+   "end": 140.741,
+   "words": [
+    {
+     "text": "No",
+     "start": 137.363,
+     "end": 137.81
+    },
+    {
+     "text": "I",
+     "start": 137.81,
+     "end": 138.077
+    },
+    {
+     "text": "think",
+     "start": 138.077,
+     "end": 138.252
+    },
+    {
+     "text": "it",
+     "start": 138.252,
+     "end": 138.472
+    },
+    {
+     "text": "looked",
+     "start": 138.472,
+     "end": 138.652
+    },
+    {
+     "text": "a",
+     "start": 138.652,
+     "end": 138.913
+    },
+    {
+     "text": "little",
+     "start": 138.913,
+     "end": 139.343
+    },
+    {
+     "text": "better",
+     "start": 139.343,
+     "end": 139.714
+    },
+    {
+     "text": "on",
+     "start": 139.714,
+     "end": 140.196
+    },
+    {
+     "text": "me",
+     "start": 140.196,
+     "end": 140.741
+    }
+   ]
+  },
+  {
+   "start": 140.741,
+   "end": 144.671,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 140.841,
+     "end": 141.288
+    },
+    {
+     "text": "gonna",
+     "start": 141.288,
+     "end": 141.624
+    },
+    {
+     "text": "change",
+     "start": 141.624,
+     "end": 142.489
+    },
+    {
+     "text": "you",
+     "start": 142.489,
+     "end": 142.994
+    },
+    {
+     "text": "like",
+     "start": 142.994,
+     "end": 143.25
+    },
+    {
+     "text": "a",
+     "start": 143.25,
+     "end": 143.459
+    },
+    {
+     "text": "remix",
+     "start": 143.459,
+     "end": 144.671
+    }
+   ]
+  },
+  {
+   "start": 144.671,
+   "end": 148.953,
+   "words": [
+    {
+     "text": "Then",
+     "start": 144.771,
+     "end": 144.997
+    },
+    {
+     "text": "I'll",
+     "start": 144.997,
+     "end": 145.218
+    },
+    {
+     "text": "raise",
+     "start": 145.218,
+     "end": 145.856
+    },
+    {
+     "text": "you",
+     "start": 145.856,
+     "end": 146.483
+    },
+    {
+     "text": "like",
+     "start": 146.483,
+     "end": 146.727
+    },
+    {
+     "text": "a",
+     "start": 146.727,
+     "end": 146.953
+    },
+    {
+     "text": "phoenix",
+     "start": 146.953,
+     "end": 148.953
+    }
+   ]
+  },
+  {
+   "start": 151.608,
+   "end": 154.787,
+   "words": [
+    {
+     "text": "Put",
+     "start": 151.708,
+     "end": 151.922
+    },
+    {
+     "text": "on",
+     "start": 151.922,
+     "end": 152.122
+    },
+    {
+     "text": "your",
+     "start": 152.122,
+     "end": 152.402
+    },
+    {
+     "text": "war",
+     "start": 152.402,
+     "end": 152.787
+    },
+    {
+     "text": "paint",
+     "start": 152.787,
+     "end": 154.787
+    }
+   ]
+  },
+  {
+   "start": 163.09,
+   "end": 166.584,
+   "words": [
+    {
+     "text": "The",
+     "start": 163.19,
+     "end": 163.334
+    },
+    {
+     "text": "war",
+     "start": 163.334,
+     "end": 164.072
+    },
+    {
+     "text": "is",
+     "start": 164.072,
+     "end": 164.246
+    },
+    {
+     "text": "won",
+     "start": 164.246,
+     "end": 164.972
+    },
+    {
+     "text": "before",
+     "start": 164.972,
+     "end": 165.645
+    },
+    {
+     "text": "it's",
+     "start": 165.645,
+     "end": 165.849
+    },
+    {
+     "text": "begun",
+     "start": 165.849,
+     "end": 166.584
+    }
+   ]
+  },
+  {
+   "start": 166.584,
+   "end": 170.861,
+   "words": [
+    {
+     "text": "Release",
+     "start": 166.684,
+     "end": 167.602
+    },
+    {
+     "text": "the",
+     "start": 167.602,
+     "end": 167.758
+    },
+    {
+     "text": "doves",
+     "start": 167.758,
+     "end": 168.461
+    },
+    {
+     "text": "surrender",
+     "start": 168.461,
+     "end": 170.173
+    },
+    {
+     "text": "love",
+     "start": 170.173,
+     "end": 170.861
+    }
+   ]
+  },
+  {
+   "start": 170.861,
+   "end": 173.55,
+   "words": [
+    {
+     "text": "The",
+     "start": 170.961,
+     "end": 171.041
+    },
+    {
+     "text": "war",
+     "start": 171.041,
+     "end": 171.317
+    },
+    {
+     "text": "is",
+     "start": 171.317,
+     "end": 171.662
+    },
+    {
+     "text": "won",
+     "start": 171.662,
+     "end": 171.926
+    },
+    {
+     "text": "before",
+     "start": 171.926,
+     "end": 172.594
+    },
+    {
+     "text": "it's",
+     "start": 172.594,
+     "end": 172.809
+    },
+    {
+     "text": "begun",
+     "start": 172.809,
+     "end": 173.55
+    }
+   ]
+  },
+  {
+   "start": 173.55,
+   "end": 177.807,
+   "words": [
+    {
+     "text": "Release",
+     "start": 173.65,
+     "end": 174.556
+    },
+    {
+     "text": "the",
+     "start": 174.556,
+     "end": 174.719
+    },
+    {
+     "text": "doves",
+     "start": 174.719,
+     "end": 175.427
+    },
+    {
+     "text": "surrender",
+     "start": 175.427,
+     "end": 177.4
+    },
+    {
+     "text": "love",
+     "start": 177.4,
+     "end": 177.807
+    }
+   ]
+  },
+  {
+   "start": 177.807,
+   "end": 180.511,
+   "words": [
+    {
+     "text": "The",
+     "start": 177.907,
+     "end": 178.155
+    },
+    {
+     "text": "war",
+     "start": 178.155,
+     "end": 178.268
+    },
+    {
+     "text": "is",
+     "start": 178.268,
+     "end": 178.628
+    },
+    {
+     "text": "won",
+     "start": 178.628,
+     "end": 178.892
+    },
+    {
+     "text": "before",
+     "start": 178.892,
+     "end": 179.664
+    },
+    {
+     "text": "it's",
+     "start": 179.664,
+     "end": 179.749
+    },
+    {
+     "text": "begun",
+     "start": 179.749,
+     "end": 180.511
+    }
+   ]
+  },
+  {
+   "start": 180.511,
+   "end": 185.252,
+   "words": [
+    {
+     "text": "Release",
+     "start": 180.611,
+     "end": 181.325
+    },
+    {
+     "text": "the",
+     "start": 181.325,
+     "end": 181.69
+    },
+    {
+     "text": "doves",
+     "start": 181.69,
+     "end": 182.387
+    },
+    {
+     "text": "surrender",
+     "start": 182.387,
+     "end": 183.252
+    },
+    {
+     "text": "love",
+     "start": 183.252,
+     "end": 185.252
+    }
+   ]
+  },
+  {
+   "start": 188.551,
+   "end": 197.187,
+   "words": [
+    {
+     "text": "The",
+     "start": 188.651,
+     "end": 189.336
+    },
+    {
+     "text": "war",
+     "start": 189.336,
+     "end": 189.574
+    },
+    {
+     "text": "is",
+     "start": 189.574,
+     "end": 193.701
+    },
+    {
+     "text": "won",
+     "start": 193.701,
+     "end": 194.113
+    },
+    {
+     "text": "before",
+     "start": 194.113,
+     "end": 194.74
+    },
+    {
+     "text": "it's",
+     "start": 194.74,
+     "end": 195.187
+    },
+    {
+     "text": "begun",
+     "start": 195.187,
+     "end": 197.187
+    }
+   ]
+  },
+  {
+   "start": 198.605,
+   "end": 203.451,
+   "words": [
+    {
+     "text": "Release",
+     "start": 198.705,
+     "end": 199.959
+    },
+    {
+     "text": "the",
+     "start": 199.959,
+     "end": 200.272
+    },
+    {
+     "text": "doves",
+     "start": 200.272,
+     "end": 200.754
+    },
+    {
+     "text": "surrender",
+     "start": 200.754,
+     "end": 201.451
+    },
+    {
+     "text": "love",
+     "start": 201.451,
+     "end": 203.451
+    }
+   ]
+  },
+  {
+   "start": 204.027,
+   "end": 205.507,
+   "words": [
+    {
+     "text": "Hey",
+     "start": 204.127,
+     "end": 204.347
+    },
+    {
+     "text": "young",
+     "start": 204.347,
+     "end": 204.545
+    },
+    {
+     "text": "blood",
+     "start": 204.545,
+     "end": 204.777
+    },
+    {
+     "text": "doesn't",
+     "start": 204.777,
+     "end": 204.928
+    },
+    {
+     "text": "it",
+     "start": 204.928,
+     "end": 204.978
+    },
+    {
+     "text": "feel",
+     "start": 204.976,
+     "end": 205.507
+    }
+   ]
+  },
+  {
+   "start": 205.507,
+   "end": 206.83,
+   "words": [
+    {
+     "text": "Like",
+     "start": 205.607,
+     "end": 205.868
+    },
+    {
+     "text": "our",
+     "start": 205.868,
+     "end": 206.083
+    },
+    {
+     "text": "time",
+     "start": 206.083,
+     "end": 206.317
+    },
+    {
+     "text": "is",
+     "start": 206.317,
+     "end": 206.53
+    },
+    {
+     "text": "running",
+     "start": 206.53,
+     "end": 206.717
+    },
+    {
+     "text": "out",
+     "start": 206.717,
+     "end": 206.83
+    }
+   ]
+  },
+  {
+   "start": 206.83,
+   "end": 208.375,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 206.93,
+     "end": 207.298
+    },
+    {
+     "text": "gonna",
+     "start": 207.298,
+     "end": 207.578
+    },
+    {
+     "text": "change",
+     "start": 207.578,
+     "end": 208.016
+    },
+    {
+     "text": "you",
+     "start": 208.016,
+     "end": 208.066
+    },
+    {
+     "text": "like",
+     "start": 208.018,
+     "end": 208.118
+    },
+    {
+     "text": "a",
+     "start": 208.118,
+     "end": 208.168
+    },
+    {
+     "text": "remix",
+     "start": 208.158,
+     "end": 208.375
+    }
+   ]
+  },
+  {
+   "start": 208.375,
+   "end": 209.4,
+   "words": [
+    {
+     "text": "Then",
+     "start": 208.475,
+     "end": 208.525
+    },
+    {
+     "text": "I'll",
+     "start": 208.499,
+     "end": 208.73
+    },
+    {
+     "text": "raise",
+     "start": 208.73,
+     "end": 208.887
+    },
+    {
+     "text": "you",
+     "start": 208.887,
+     "end": 208.937
+    },
+    {
+     "text": "like",
+     "start": 208.919,
+     "end": 209.392
+    },
+    {
+     "text": "a",
+     "start": 209.392,
+     "end": 209.442
+    },
+    {
+     "text": "phoenix",
+     "start": 209.339,
+     "end": 209.4
+    }
+   ]
+  },
+  {
+   "start": 209.4,
+   "end": 210.644,
+   "words": [
+    {
+     "text": "Wearing",
+     "start": 209.5,
+     "end": 209.74
+    },
+    {
+     "text": "our",
+     "start": 209.74,
+     "end": 209.82
+    },
+    {
+     "text": "vintage",
+     "start": 209.82,
+     "end": 210.402
+    },
+    {
+     "text": "misery",
+     "start": 210.402,
+     "end": 210.644
+    }
+   ]
+  },
+  {
+   "start": 210.644,
+   "end": 213.779,
+   "words": [
+    {
+     "text": "No",
+     "start": 210.744,
+     "end": 211.116
+    },
+    {
+     "text": "I",
+     "start": 211.116,
+     "end": 211.166
+    },
+    {
+     "text": "think",
+     "start": 211.041,
+     "end": 211.284
+    },
+    {
+     "text": "it",
+     "start": 211.284,
+     "end": 211.461
+    },
+    {
+     "text": "looked",
+     "start": 211.461,
+     "end": 211.691
+    },
+    {
+     "text": "a",
+     "start": 211.691,
+     "end": 211.902
+    },
+    {
+     "text": "little",
+     "start": 211.902,
+     "end": 212.381
+    },
+    {
+     "text": "better",
+     "start": 212.381,
+     "end": 212.843
+    },
+    {
+     "text": "on",
+     "start": 212.843,
+     "end": 213.264
+    },
+    {
+     "text": "me",
+     "start": 213.264,
+     "end": 213.779
+    }
+   ]
+  },
+  {
+   "start": 213.779,
+   "end": 217.692,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 213.879,
+     "end": 214.355
+    },
+    {
+     "text": "gonna",
+     "start": 214.355,
+     "end": 214.692
+    },
+    {
+     "text": "change",
+     "start": 214.692,
+     "end": 215.371
+    },
+    {
+     "text": "you",
+     "start": 215.371,
+     "end": 216.044
+    },
+    {
+     "text": "like",
+     "start": 216.044,
+     "end": 216.311
+    },
+    {
+     "text": "a",
+     "start": 216.311,
+     "end": 216.503
+    },
+    {
+     "text": "remix",
+     "start": 216.503,
+     "end": 217.692
+    }
+   ]
+  },
+  {
+   "start": 217.692,
+   "end": 220.699,
+   "words": [
+    {
+     "text": "Then",
+     "start": 217.792,
+     "end": 218.007
+    },
+    {
+     "text": "I'll",
+     "start": 218.007,
+     "end": 218.256
+    },
+    {
+     "text": "raise",
+     "start": 218.256,
+     "end": 218.888
+    },
+    {
+     "text": "you",
+     "start": 218.888,
+     "end": 219.533
+    },
+    {
+     "text": "like",
+     "start": 219.533,
+     "end": 219.759
+    },
+    {
+     "text": "a",
+     "start": 219.759,
+     "end": 219.997
+    },
+    {
+     "text": "phoenix",
+     "start": 219.997,
+     "end": 220.699
+    }
+   ]
+  },
+  {
+   "start": 220.699,
+   "end": 224.199,
+   "words": [
+    {
+     "text": "Hey",
+     "start": 220.799,
+     "end": 221.432
+    },
+    {
+     "text": "young",
+     "start": 221.432,
+     "end": 222.586
+    },
+    {
+     "text": "blood",
+     "start": 222.586,
+     "end": 223.045
+    },
+    {
+     "text": "doesn't",
+     "start": 223.045,
+     "end": 223.294
+    },
+    {
+     "text": "it",
+     "start": 223.294,
+     "end": 223.684
+    },
+    {
+     "text": "feel",
+     "start": 223.684,
+     "end": 224.199
+    }
+   ]
+  },
+  {
+   "start": 224.199,
+   "end": 227.688,
+   "words": [
+    {
+     "text": "Like",
+     "start": 224.299,
+     "end": 224.758
+    },
+    {
+     "text": "our",
+     "start": 224.758,
+     "end": 224.808
+    },
+    {
+     "text": "time",
+     "start": 224.715,
+     "end": 226.093
+    },
+    {
+     "text": "is",
+     "start": 226.093,
+     "end": 226.313
+    },
+    {
+     "text": "running",
+     "start": 226.313,
+     "end": 226.963
+    },
+    {
+     "text": "out",
+     "start": 226.963,
+     "end": 227.688
+    }
+   ]
+  },
+  {
+   "start": 227.688,
+   "end": 231.612,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 227.788,
+     "end": 228.246
+    },
+    {
+     "text": "gonna",
+     "start": 228.246,
+     "end": 228.599
+    },
+    {
+     "text": "change",
+     "start": 228.599,
+     "end": 229.339
+    },
+    {
+     "text": "you",
+     "start": 229.339,
+     "end": 229.947
+    },
+    {
+     "text": "like",
+     "start": 229.947,
+     "end": 230.208
+    },
+    {
+     "text": "a",
+     "start": 230.208,
+     "end": 230.429
+    },
+    {
+     "text": "remix",
+     "start": 230.429,
+     "end": 231.612
+    }
+   ]
+  },
+  {
+   "start": 231.612,
+   "end": 235.889,
+   "words": [
+    {
+     "text": "Then",
+     "start": 231.712,
+     "end": 231.985
+    },
+    {
+     "text": "I'll",
+     "start": 231.985,
+     "end": 232.122
+    },
+    {
+     "text": "raise",
+     "start": 232.122,
+     "end": 232.832
+    },
+    {
+     "text": "you",
+     "start": 232.832,
+     "end": 233.43
+    },
+    {
+     "text": "like",
+     "start": 233.43,
+     "end": 233.674
+    },
+    {
+     "text": "a",
+     "start": 233.674,
+     "end": 233.889
+    },
+    {
+     "text": "phoenix",
+     "start": 233.889,
+     "end": 235.889
+    }
+   ]
+  },
+  {
+   "start": 238.566,
+   "end": 241.729,
+   "words": [
+    {
+     "text": "Put",
+     "start": 238.666,
+     "end": 239.049
+    },
+    {
+     "text": "on",
+     "start": 239.049,
+     "end": 239.099
+    },
+    {
+     "text": "your",
+     "start": 239.088,
+     "end": 239.349
+    },
+    {
+     "text": "war",
+     "start": 239.349,
+     "end": 239.729
+    },
+    {
+     "text": "paint",
+     "start": 239.729,
+     "end": 241.729
+    }
+   ]
+  }
+ ]
+}

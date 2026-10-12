@@ -1,0 +1,712 @@
+{
+ "title": "Dollar For Your Sadness",
+ "artist": "Unlike Pluto",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 1.253,
+   "end": 6.558,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 1.353,
+     "end": 2.438
+    },
+    {
+     "text": "wasting",
+     "start": 2.438,
+     "end": 3.071
+    },
+    {
+     "text": "my",
+     "start": 3.071,
+     "end": 3.605
+    },
+    {
+     "text": "time",
+     "start": 3.605,
+     "end": 4.516
+    },
+    {
+     "text": "on",
+     "start": 4.516,
+     "end": 4.894
+    },
+    {
+     "text": "nothing",
+     "start": 4.894,
+     "end": 5.497
+    },
+    {
+     "text": "at",
+     "start": 5.497,
+     "end": 5.805
+    },
+    {
+     "text": "all",
+     "start": 5.805,
+     "end": 6.558
+    }
+   ]
+  },
+  {
+   "start": 6.558,
+   "end": 11.307,
+   "words": [
+    {
+     "text": "I'm",
+     "start": 6.658,
+     "end": 7.197
+    },
+    {
+     "text": "wasting",
+     "start": 7.197,
+     "end": 7.895
+    },
+    {
+     "text": "my",
+     "start": 7.895,
+     "end": 8.499
+    },
+    {
+     "text": "mind",
+     "start": 8.499,
+     "end": 9.66
+    },
+    {
+     "text": "now",
+     "start": 9.66,
+     "end": 11.307
+    }
+   ]
+  },
+  {
+   "start": 11.307,
+   "end": 16.16,
+   "words": [
+    {
+     "text": "You",
+     "start": 11.407,
+     "end": 12.034
+    },
+    {
+     "text": "give",
+     "start": 12.034,
+     "end": 12.434
+    },
+    {
+     "text": "me",
+     "start": 12.434,
+     "end": 12.782
+    },
+    {
+     "text": "a",
+     "start": 12.782,
+     "end": 13.253
+    },
+    {
+     "text": "dime",
+     "start": 13.253,
+     "end": 14.106
+    },
+    {
+     "text": "for",
+     "start": 14.106,
+     "end": 14.584
+    },
+    {
+     "text": "all",
+     "start": 14.584,
+     "end": 14.784
+    },
+    {
+     "text": "that",
+     "start": 14.784,
+     "end": 15.134
+    },
+    {
+     "text": "I",
+     "start": 15.134,
+     "end": 15.205
+    },
+    {
+     "text": "own",
+     "start": 15.205,
+     "end": 16.16
+    }
+   ]
+  },
+  {
+   "start": 16.16,
+   "end": 20.339,
+   "words": [
+    {
+     "text": "You're",
+     "start": 16.26,
+     "end": 16.922
+    },
+    {
+     "text": "wasting",
+     "start": 16.922,
+     "end": 17.496
+    },
+    {
+     "text": "my",
+     "start": 17.496,
+     "end": 18.007
+    },
+    {
+     "text": "time",
+     "start": 18.007,
+     "end": 19.249
+    },
+    {
+     "text": "now",
+     "start": 19.249,
+     "end": 20.339
+    }
+   ]
+  },
+  {
+   "start": 20.339,
+   "end": 25.156,
+   "words": [
+    {
+     "text": "You",
+     "start": 20.439,
+     "end": 22.837
+    },
+    {
+     "text": "ask",
+     "start": 22.837,
+     "end": 23.208
+    },
+    {
+     "text": "for",
+     "start": 23.208,
+     "end": 23.522
+    },
+    {
+     "text": "more",
+     "start": 23.522,
+     "end": 24.067
+    },
+    {
+     "text": "ask",
+     "start": 24.067,
+     "end": 24.242
+    },
+    {
+     "text": "for",
+     "start": 24.242,
+     "end": 24.491
+    },
+    {
+     "text": "more",
+     "start": 24.491,
+     "end": 25.156
+    }
+   ]
+  },
+  {
+   "start": 25.156,
+   "end": 30.504,
+   "words": [
+    {
+     "text": "Who",
+     "start": 25.256,
+     "end": 27.603
+    },
+    {
+     "text": "can",
+     "start": 27.603,
+     "end": 28.044
+    },
+    {
+     "text": "ignore",
+     "start": 28.044,
+     "end": 28.793
+    },
+    {
+     "text": "can",
+     "start": 28.793,
+     "end": 29.193
+    },
+    {
+     "text": "ignore",
+     "start": 29.193,
+     "end": 30.504
+    }
+   ]
+  },
+  {
+   "start": 30.504,
+   "end": 34.196,
+   "words": [
+    {
+     "text": "A",
+     "start": 30.604,
+     "end": 30.917
+    },
+    {
+     "text": "penny",
+     "start": 30.917,
+     "end": 31.864
+    },
+    {
+     "text": "for",
+     "start": 31.864,
+     "end": 32.122
+    },
+    {
+     "text": "your",
+     "start": 32.122,
+     "end": 32.369
+    },
+    {
+     "text": "thoughts",
+     "start": 32.369,
+     "end": 34.196
+    }
+   ]
+  },
+  {
+   "start": 34.196,
+   "end": 38.955,
+   "words": [
+    {
+     "text": "But",
+     "start": 34.296,
+     "end": 34.627
+    },
+    {
+     "text": "a",
+     "start": 34.627,
+     "end": 35.486
+    },
+    {
+     "text": "dollar",
+     "start": 35.486,
+     "end": 36.362
+    },
+    {
+     "text": "for",
+     "start": 36.362,
+     "end": 36.606
+    },
+    {
+     "text": "your",
+     "start": 36.606,
+     "end": 36.955
+    },
+    {
+     "text": "sadness",
+     "start": 36.955,
+     "end": 38.955
+    }
+   ]
+  },
+  {
+   "start": 58.78,
+   "end": 64.138,
+   "words": [
+    {
+     "text": "You",
+     "start": 58.88,
+     "end": 59.768
+    },
+    {
+     "text": "tell",
+     "start": 59.768,
+     "end": 60.43
+    },
+    {
+     "text": "me",
+     "start": 60.43,
+     "end": 60.743
+    },
+    {
+     "text": "sweet",
+     "start": 60.743,
+     "end": 61.237
+    },
+    {
+     "text": "lies",
+     "start": 61.237,
+     "end": 62.131
+    },
+    {
+     "text": "for",
+     "start": 62.131,
+     "end": 62.543
+    },
+    {
+     "text": "nothing",
+     "start": 62.543,
+     "end": 63.123
+    },
+    {
+     "text": "at",
+     "start": 63.123,
+     "end": 63.408
+    },
+    {
+     "text": "all",
+     "start": 63.408,
+     "end": 64.138
+    }
+   ]
+  },
+  {
+   "start": 64.138,
+   "end": 68.927,
+   "words": [
+    {
+     "text": "You",
+     "start": 64.238,
+     "end": 64.714
+    },
+    {
+     "text": "think",
+     "start": 64.714,
+     "end": 65.178
+    },
+    {
+     "text": "it's",
+     "start": 65.178,
+     "end": 65.533
+    },
+    {
+     "text": "a",
+     "start": 65.533,
+     "end": 66.014
+    },
+    {
+     "text": "crime",
+     "start": 66.014,
+     "end": 67.218
+    },
+    {
+     "text": "no",
+     "start": 67.218,
+     "end": 68.927
+    }
+   ]
+  },
+  {
+   "start": 68.927,
+   "end": 73.693,
+   "words": [
+    {
+     "text": "You",
+     "start": 69.027,
+     "end": 69.695
+    },
+    {
+     "text": "leave",
+     "start": 69.695,
+     "end": 70.02
+    },
+    {
+     "text": "me",
+     "start": 70.02,
+     "end": 70.281
+    },
+    {
+     "text": "behind",
+     "start": 70.281,
+     "end": 71.686
+    },
+    {
+     "text": "for",
+     "start": 71.686,
+     "end": 72.127
+    },
+    {
+     "text": "nothing",
+     "start": 72.127,
+     "end": 72.719
+    },
+    {
+     "text": "at",
+     "start": 72.719,
+     "end": 73.003
+    },
+    {
+     "text": "all",
+     "start": 73.003,
+     "end": 73.693
+    }
+   ]
+  },
+  {
+   "start": 73.693,
+   "end": 77.762,
+   "words": [
+    {
+     "text": "You",
+     "start": 73.793,
+     "end": 74.478
+    },
+    {
+     "text": "leave",
+     "start": 74.478,
+     "end": 74.791
+    },
+    {
+     "text": "me",
+     "start": 74.791,
+     "end": 75.018
+    },
+    {
+     "text": "to",
+     "start": 75.018,
+     "end": 75.691
+    },
+    {
+     "text": "die",
+     "start": 75.691,
+     "end": 76.846
+    },
+    {
+     "text": "yeah",
+     "start": 76.846,
+     "end": 77.762
+    }
+   ]
+  },
+  {
+   "start": 77.762,
+   "end": 82.774,
+   "words": [
+    {
+     "text": "You",
+     "start": 77.862,
+     "end": 80.434
+    },
+    {
+     "text": "ask",
+     "start": 80.434,
+     "end": 80.649
+    },
+    {
+     "text": "for",
+     "start": 80.649,
+     "end": 81.101
+    },
+    {
+     "text": "more",
+     "start": 81.101,
+     "end": 81.665
+    },
+    {
+     "text": "ask",
+     "start": 81.665,
+     "end": 81.845
+    },
+    {
+     "text": "for",
+     "start": 81.845,
+     "end": 82.094
+    },
+    {
+     "text": "more",
+     "start": 82.094,
+     "end": 82.774
+    }
+   ]
+  },
+  {
+   "start": 82.774,
+   "end": 88.107,
+   "words": [
+    {
+     "text": "Who",
+     "start": 82.874,
+     "end": 85.206
+    },
+    {
+     "text": "can",
+     "start": 85.206,
+     "end": 85.616
+    },
+    {
+     "text": "ignore",
+     "start": 85.616,
+     "end": 86.396
+    },
+    {
+     "text": "can",
+     "start": 86.396,
+     "end": 86.796
+    },
+    {
+     "text": "ignore",
+     "start": 86.796,
+     "end": 88.107
+    }
+   ]
+  },
+  {
+   "start": 88.107,
+   "end": 91.793,
+   "words": [
+    {
+     "text": "A",
+     "start": 88.207,
+     "end": 88.52
+    },
+    {
+     "text": "penny",
+     "start": 88.52,
+     "end": 89.461
+    },
+    {
+     "text": "for",
+     "start": 89.461,
+     "end": 89.74
+    },
+    {
+     "text": "your",
+     "start": 89.74,
+     "end": 89.98
+    },
+    {
+     "text": "thoughts",
+     "start": 89.98,
+     "end": 91.793
+    }
+   ]
+  },
+  {
+   "start": 91.793,
+   "end": 96.557,
+   "words": [
+    {
+     "text": "But",
+     "start": 91.893,
+     "end": 92.224
+    },
+    {
+     "text": "a",
+     "start": 92.224,
+     "end": 93.089
+    },
+    {
+     "text": "dollar",
+     "start": 93.089,
+     "end": 93.965
+    },
+    {
+     "text": "for",
+     "start": 93.965,
+     "end": 94.224
+    },
+    {
+     "text": "your",
+     "start": 94.224,
+     "end": 94.557
+    },
+    {
+     "text": "sadness",
+     "start": 94.557,
+     "end": 96.557
+    }
+   ]
+  },
+  {
+   "start": 105.456,
+   "end": 130.663,
+   "words": [
+    {
+     "text": "Waves",
+     "start": 105.556,
+     "end": 126.653
+    },
+    {
+     "text": "are",
+     "start": 126.653,
+     "end": 127.141
+    },
+    {
+     "text": "crashing",
+     "start": 127.141,
+     "end": 128.482
+    },
+    {
+     "text": "around",
+     "start": 128.482,
+     "end": 129.683
+    },
+    {
+     "text": "me",
+     "start": 129.683,
+     "end": 130.663
+    }
+   ]
+  },
+  {
+   "start": 130.663,
+   "end": 135.283,
+   "words": [
+    {
+     "text": "Drag",
+     "start": 130.763,
+     "end": 131.349
+    },
+    {
+     "text": "me",
+     "start": 131.349,
+     "end": 132.133
+    },
+    {
+     "text": "out",
+     "start": 132.133,
+     "end": 132.557
+    },
+    {
+     "text": "to",
+     "start": 132.557,
+     "end": 133.283
+    },
+    {
+     "text": "sea",
+     "start": 133.283,
+     "end": 135.283
+    }
+   ]
+  },
+  {
+   "start": 135.458,
+   "end": 139.509,
+   "words": [
+    {
+     "text": "Cast",
+     "start": 135.558,
+     "end": 137.509
+    },
+    {
+     "text": "away",
+     "start": 137.509,
+     "end": 139.509
+    }
+   ]
+  },
+  {
+   "start": 140.328,
+   "end": 183.236,
+   "words": [
+    {
+     "text": "Thrown",
+     "start": 140.428,
+     "end": 181.236
+    },
+    {
+     "text": "away",
+     "start": 181.236,
+     "end": 183.236
+    }
+   ]
+  }
+ ]
+}

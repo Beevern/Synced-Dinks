@@ -1,0 +1,17 @@
+{
+  "files": [
+    ".gitignore",
+    ".travis-pi.sh",
+    "CMakeLists.txt",
+    "DESCRIPTION.md",
+    "fixed-libmp3lame.sym",
+    "lameenc.c",
+    "LICENSE",
+    "patch-lame.cmake",
+    "pyproject.toml",
+    "README.md",
+    "setup.py",
+    ".github\\workflows\\build.sh",
+    ".github\\workflows\\cmake.yml"
+  ]
+}

@@ -1,0 +1,1753 @@
+{
+ "title": "Just the Way You Are",
+ "artist": "Bruno Mars",
+ "style": "fill",
+ "lines": [
+  {
+   "start": 17.454,
+   "end": 19.666,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 17.554,
+     "end": 18.047
+    },
+    {
+     "text": "her",
+     "start": 18.047,
+     "end": 18.379
+    },
+    {
+     "text": "eyes",
+     "start": 18.379,
+     "end": 18.888
+    },
+    {
+     "text": "her",
+     "start": 18.888,
+     "end": 19.226
+    },
+    {
+     "text": "eyes",
+     "start": 19.226,
+     "end": 19.666
+    }
+   ]
+  },
+  {
+   "start": 19.666,
+   "end": 22.394,
+   "words": [
+    {
+     "text": "Make",
+     "start": 19.766,
+     "end": 19.9
+    },
+    {
+     "text": "the",
+     "start": 19.9,
+     "end": 20.079
+    },
+    {
+     "text": "stars",
+     "start": 20.079,
+     "end": 20.451
+    },
+    {
+     "text": "look",
+     "start": 20.451,
+     "end": 20.701
+    },
+    {
+     "text": "like",
+     "start": 20.701,
+     "end": 20.956
+    },
+    {
+     "text": "they're",
+     "start": 20.956,
+     "end": 21.275
+    },
+    {
+     "text": "not",
+     "start": 21.275,
+     "end": 21.554
+    },
+    {
+     "text": "shinin",
+     "start": 21.554,
+     "end": 22.394
+    }
+   ]
+  },
+  {
+   "start": 22.394,
+   "end": 24.06,
+   "words": [
+    {
+     "text": "Her",
+     "start": 22.494,
+     "end": 22.713
+    },
+    {
+     "text": "hair",
+     "start": 22.713,
+     "end": 23.359
+    },
+    {
+     "text": "her",
+     "start": 23.359,
+     "end": 23.494
+    },
+    {
+     "text": "hair",
+     "start": 23.494,
+     "end": 24.06
+    }
+   ]
+  },
+  {
+   "start": 24.06,
+   "end": 27.044,
+   "words": [
+    {
+     "text": "Falls",
+     "start": 24.16,
+     "end": 24.416
+    },
+    {
+     "text": "perfectly",
+     "start": 24.416,
+     "end": 25.124
+    },
+    {
+     "text": "without",
+     "start": 25.124,
+     "end": 25.652
+    },
+    {
+     "text": "her",
+     "start": 25.652,
+     "end": 25.983
+    },
+    {
+     "text": "tryin",
+     "start": 25.983,
+     "end": 27.044
+    }
+   ]
+  },
+  {
+   "start": 27.044,
+   "end": 32.354,
+   "words": [
+    {
+     "text": "She's",
+     "start": 27.144,
+     "end": 27.382
+    },
+    {
+     "text": "so",
+     "start": 27.382,
+     "end": 27.614
+    },
+    {
+     "text": "beautiful",
+     "start": 27.614,
+     "end": 29.629
+    },
+    {
+     "text": "and",
+     "start": 29.629,
+     "end": 29.872
+    },
+    {
+     "text": "I",
+     "start": 29.872,
+     "end": 29.922
+    },
+    {
+     "text": "tell",
+     "start": 29.86,
+     "end": 30.08
+    },
+    {
+     "text": "her",
+     "start": 30.08,
+     "end": 30.354
+    },
+    {
+     "text": "everyday",
+     "start": 30.354,
+     "end": 32.354
+    }
+   ]
+  },
+  {
+   "start": 34.44,
+   "end": 37.29,
+   "words": [
+    {
+     "text": "Yeah",
+     "start": 34.54,
+     "end": 35.706
+    },
+    {
+     "text": "I",
+     "start": 35.706,
+     "end": 36.014
+    },
+    {
+     "text": "know",
+     "start": 36.014,
+     "end": 36.566
+    },
+    {
+     "text": "I",
+     "start": 36.566,
+     "end": 36.763
+    },
+    {
+     "text": "know",
+     "start": 36.763,
+     "end": 37.29
+    }
+   ]
+  },
+  {
+   "start": 37.29,
+   "end": 39.937,
+   "words": [
+    {
+     "text": "When",
+     "start": 37.39,
+     "end": 37.634
+    },
+    {
+     "text": "I",
+     "start": 37.634,
+     "end": 37.684
+    },
+    {
+     "text": "compliment",
+     "start": 37.607,
+     "end": 38.4
+    },
+    {
+     "text": "her",
+     "start": 38.4,
+     "end": 38.528
+    },
+    {
+     "text": "she",
+     "start": 38.528,
+     "end": 38.772
+    },
+    {
+     "text": "won't",
+     "start": 38.772,
+     "end": 39.027
+    },
+    {
+     "text": "believe",
+     "start": 39.027,
+     "end": 39.602
+    },
+    {
+     "text": "me",
+     "start": 39.602,
+     "end": 39.937
+    }
+   ]
+  },
+  {
+   "start": 39.937,
+   "end": 41.684,
+   "words": [
+    {
+     "text": "And",
+     "start": 40.037,
+     "end": 40.269
+    },
+    {
+     "text": "it's",
+     "start": 40.269,
+     "end": 40.371
+    },
+    {
+     "text": "so",
+     "start": 40.371,
+     "end": 40.972
+    },
+    {
+     "text": "it's",
+     "start": 40.972,
+     "end": 41.105
+    },
+    {
+     "text": "so",
+     "start": 41.105,
+     "end": 41.684
+    }
+   ]
+  },
+  {
+   "start": 41.684,
+   "end": 44.604,
+   "words": [
+    {
+     "text": "Sad",
+     "start": 41.784,
+     "end": 41.947
+    },
+    {
+     "text": "to",
+     "start": 41.947,
+     "end": 42.075
+    },
+    {
+     "text": "think",
+     "start": 42.075,
+     "end": 42.318
+    },
+    {
+     "text": "that",
+     "start": 42.318,
+     "end": 42.51
+    },
+    {
+     "text": "she",
+     "start": 42.51,
+     "end": 42.736
+    },
+    {
+     "text": "don't",
+     "start": 42.736,
+     "end": 42.899
+    },
+    {
+     "text": "see",
+     "start": 42.899,
+     "end": 43.282
+    },
+    {
+     "text": "what",
+     "start": 43.282,
+     "end": 43.7
+    },
+    {
+     "text": "I",
+     "start": 43.7,
+     "end": 43.868
+    },
+    {
+     "text": "see",
+     "start": 43.868,
+     "end": 44.604
+    }
+   ]
+  },
+  {
+   "start": 44.604,
+   "end": 48.035,
+   "words": [
+    {
+     "text": "But",
+     "start": 44.704,
+     "end": 44.835
+    },
+    {
+     "text": "every",
+     "start": 44.835,
+     "end": 45.285
+    },
+    {
+     "text": "time",
+     "start": 45.285,
+     "end": 45.447
+    },
+    {
+     "text": "she",
+     "start": 45.447,
+     "end": 45.796
+    },
+    {
+     "text": "asks",
+     "start": 45.796,
+     "end": 46.063
+    },
+    {
+     "text": "me",
+     "start": 46.063,
+     "end": 46.347
+    },
+    {
+     "text": "Do",
+     "start": 46.347,
+     "end": 46.62
+    },
+    {
+     "text": "I",
+     "start": 46.62,
+     "end": 46.939
+    },
+    {
+     "text": "look",
+     "start": 46.939,
+     "end": 47.131
+    },
+    {
+     "text": "okay",
+     "start": 47.131,
+     "end": 48.035
+    }
+   ]
+  },
+  {
+   "start": 48.035,
+   "end": 50.617,
+   "words": [
+    {
+     "text": "I",
+     "start": 48.135,
+     "end": 48.617
+    },
+    {
+     "text": "say",
+     "start": 48.617,
+     "end": 50.617
+    }
+   ]
+  },
+  {
+   "start": 51.257,
+   "end": 54.802,
+   "words": [
+    {
+     "text": "When",
+     "start": 51.357,
+     "end": 51.711
+    },
+    {
+     "text": "I",
+     "start": 51.711,
+     "end": 51.839
+    },
+    {
+     "text": "see",
+     "start": 51.839,
+     "end": 52.262
+    },
+    {
+     "text": "your",
+     "start": 52.262,
+     "end": 52.802
+    },
+    {
+     "text": "face",
+     "start": 52.802,
+     "end": 54.802
+    }
+   ]
+  },
+  {
+   "start": 55.965,
+   "end": 60.591,
+   "words": [
+    {
+     "text": "There's",
+     "start": 56.065,
+     "end": 56.384
+    },
+    {
+     "text": "not",
+     "start": 56.384,
+     "end": 56.692
+    },
+    {
+     "text": "a",
+     "start": 56.692,
+     "end": 57.202
+    },
+    {
+     "text": "thing",
+     "start": 57.202,
+     "end": 57.783
+    },
+    {
+     "text": "that",
+     "start": 57.783,
+     "end": 58.52
+    },
+    {
+     "text": "I",
+     "start": 58.52,
+     "end": 58.834
+    },
+    {
+     "text": "would",
+     "start": 58.834,
+     "end": 59.257
+    },
+    {
+     "text": "change",
+     "start": 59.257,
+     "end": 60.591
+    }
+   ]
+  },
+  {
+   "start": 60.591,
+   "end": 63.411,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 60.691,
+     "end": 61.103
+    },
+    {
+     "text": "you're",
+     "start": 61.103,
+     "end": 61.411
+    },
+    {
+     "text": "amazing",
+     "start": 61.411,
+     "end": 63.411
+    }
+   ]
+  },
+  {
+   "start": 63.65,
+   "end": 68.038,
+   "words": [
+    {
+     "text": "Just",
+     "start": 63.75,
+     "end": 64.335
+    },
+    {
+     "text": "the",
+     "start": 64.335,
+     "end": 64.929
+    },
+    {
+     "text": "way",
+     "start": 64.929,
+     "end": 65.436
+    },
+    {
+     "text": "you",
+     "start": 65.436,
+     "end": 66.038
+    },
+    {
+     "text": "are",
+     "start": 66.038,
+     "end": 68.038
+    }
+   ]
+  },
+  {
+   "start": 69.142,
+   "end": 72.32,
+   "words": [
+    {
+     "text": "And",
+     "start": 69.242,
+     "end": 69.41
+    },
+    {
+     "text": "when",
+     "start": 69.41,
+     "end": 69.939
+    },
+    {
+     "text": "you",
+     "start": 69.939,
+     "end": 70.32
+    },
+    {
+     "text": "smile",
+     "start": 70.32,
+     "end": 72.32
+    }
+   ]
+  },
+  {
+   "start": 73.641,
+   "end": 78.087,
+   "words": [
+    {
+     "text": "The",
+     "start": 73.741,
+     "end": 73.898
+    },
+    {
+     "text": "whole",
+     "start": 73.898,
+     "end": 74.31
+    },
+    {
+     "text": "world",
+     "start": 74.31,
+     "end": 74.838
+    },
+    {
+     "text": "stops",
+     "start": 74.838,
+     "end": 75.43
+    },
+    {
+     "text": "and",
+     "start": 75.43,
+     "end": 75.802
+    },
+    {
+     "text": "stares",
+     "start": 75.802,
+     "end": 76.527
+    },
+    {
+     "text": "for",
+     "start": 76.527,
+     "end": 76.875
+    },
+    {
+     "text": "a",
+     "start": 76.875,
+     "end": 77.044
+    },
+    {
+     "text": "while",
+     "start": 77.044,
+     "end": 78.087
+    }
+   ]
+  },
+  {
+   "start": 78.087,
+   "end": 81.028,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 78.187,
+     "end": 78.42
+    },
+    {
+     "text": "girl",
+     "start": 78.42,
+     "end": 78.646
+    },
+    {
+     "text": "you're",
+     "start": 78.646,
+     "end": 79.028
+    },
+    {
+     "text": "amazing",
+     "start": 79.028,
+     "end": 81.028
+    }
+   ]
+  },
+  {
+   "start": 81.257,
+   "end": 85.644,
+   "words": [
+    {
+     "text": "Just",
+     "start": 81.357,
+     "end": 82.071
+    },
+    {
+     "text": "the",
+     "start": 82.071,
+     "end": 82.493
+    },
+    {
+     "text": "way",
+     "start": 82.493,
+     "end": 83.074
+    },
+    {
+     "text": "you",
+     "start": 83.074,
+     "end": 83.644
+    },
+    {
+     "text": "are",
+     "start": 83.644,
+     "end": 85.644
+    }
+   ]
+  },
+  {
+   "start": 86.899,
+   "end": 88.374,
+   "words": [
+    {
+     "text": "Yeah",
+     "start": 86.999,
+     "end": 88.374
+    }
+   ]
+  },
+  {
+   "start": 88.374,
+   "end": 90.185,
+   "words": [
+    {
+     "text": "Her",
+     "start": 88.474,
+     "end": 88.915
+    },
+    {
+     "text": "lips",
+     "start": 88.915,
+     "end": 89.362
+    },
+    {
+     "text": "her",
+     "start": 89.362,
+     "end": 89.68
+    },
+    {
+     "text": "lips",
+     "start": 89.68,
+     "end": 90.185
+    }
+   ]
+  },
+  {
+   "start": 90.185,
+   "end": 92.925,
+   "words": [
+    {
+     "text": "I",
+     "start": 90.285,
+     "end": 90.442
+    },
+    {
+     "text": "could",
+     "start": 90.442,
+     "end": 90.521
+    },
+    {
+     "text": "kiss",
+     "start": 90.521,
+     "end": 90.836
+    },
+    {
+     "text": "them",
+     "start": 90.836,
+     "end": 90.981
+    },
+    {
+     "text": "all",
+     "start": 90.981,
+     "end": 91.231
+    },
+    {
+     "text": "day",
+     "start": 91.231,
+     "end": 91.533
+    },
+    {
+     "text": "if",
+     "start": 91.533,
+     "end": 91.667
+    },
+    {
+     "text": "she'd",
+     "start": 91.667,
+     "end": 92.148
+    },
+    {
+     "text": "let",
+     "start": 92.148,
+     "end": 92.502
+    },
+    {
+     "text": "me",
+     "start": 92.502,
+     "end": 92.925
+    }
+   ]
+  },
+  {
+   "start": 92.925,
+   "end": 94.603,
+   "words": [
+    {
+     "text": "Her",
+     "start": 93.025,
+     "end": 93.263
+    },
+    {
+     "text": "laugh",
+     "start": 93.263,
+     "end": 93.797
+    },
+    {
+     "text": "her",
+     "start": 93.797,
+     "end": 94.174
+    },
+    {
+     "text": "laugh",
+     "start": 94.174,
+     "end": 94.603
+    }
+   ]
+  },
+  {
+   "start": 94.603,
+   "end": 97.569,
+   "words": [
+    {
+     "text": "She",
+     "start": 94.703,
+     "end": 94.993
+    },
+    {
+     "text": "hates",
+     "start": 94.993,
+     "end": 95.248
+    },
+    {
+     "text": "but",
+     "start": 95.248,
+     "end": 95.393
+    },
+    {
+     "text": "I",
+     "start": 95.393,
+     "end": 95.527
+    },
+    {
+     "text": "think",
+     "start": 95.527,
+     "end": 95.927
+    },
+    {
+     "text": "it's",
+     "start": 95.927,
+     "end": 96.073
+    },
+    {
+     "text": "so",
+     "start": 96.073,
+     "end": 96.514
+    },
+    {
+     "text": "sexy",
+     "start": 96.514,
+     "end": 97.569
+    }
+   ]
+  },
+  {
+   "start": 97.569,
+   "end": 102.891,
+   "words": [
+    {
+     "text": "She's",
+     "start": 97.669,
+     "end": 97.901
+    },
+    {
+     "text": "so",
+     "start": 97.901,
+     "end": 98.145
+    },
+    {
+     "text": "beautiful",
+     "start": 98.145,
+     "end": 100.136
+    },
+    {
+     "text": "and",
+     "start": 100.136,
+     "end": 100.322
+    },
+    {
+     "text": "I",
+     "start": 100.322,
+     "end": 100.513
+    },
+    {
+     "text": "tell",
+     "start": 100.513,
+     "end": 100.676
+    },
+    {
+     "text": "her",
+     "start": 100.676,
+     "end": 100.891
+    },
+    {
+     "text": "everyday",
+     "start": 100.891,
+     "end": 102.891
+    }
+   ]
+  },
+  {
+   "start": 105.028,
+   "end": 106.729,
+   "words": [
+    {
+     "text": "Oh",
+     "start": 105.128,
+     "end": 105.72
+    },
+    {
+     "text": "you",
+     "start": 105.72,
+     "end": 106.005
+    },
+    {
+     "text": "know",
+     "start": 106.005,
+     "end": 106.237
+    },
+    {
+     "text": "you",
+     "start": 106.237,
+     "end": 106.477
+    },
+    {
+     "text": "know",
+     "start": 106.477,
+     "end": 106.729
+    }
+   ]
+  },
+  {
+   "start": 106.729,
+   "end": 110.015,
+   "words": [
+    {
+     "text": "You",
+     "start": 106.829,
+     "end": 107.102
+    },
+    {
+     "text": "know",
+     "start": 107.102,
+     "end": 107.363
+    },
+    {
+     "text": "I'd",
+     "start": 107.363,
+     "end": 107.654
+    },
+    {
+     "text": "never",
+     "start": 107.654,
+     "end": 108.138
+    },
+    {
+     "text": "ask",
+     "start": 108.138,
+     "end": 108.466
+    },
+    {
+     "text": "you",
+     "start": 108.466,
+     "end": 108.699
+    },
+    {
+     "text": "to",
+     "start": 108.699,
+     "end": 108.919
+    },
+    {
+     "text": "change",
+     "start": 108.919,
+     "end": 110.015
+    }
+   ]
+  },
+  {
+   "start": 110.015,
+   "end": 114.438,
+   "words": [
+    {
+     "text": "If",
+     "start": 110.115,
+     "end": 110.37
+    },
+    {
+     "text": "perfect's",
+     "start": 110.37,
+     "end": 110.962
+    },
+    {
+     "text": "what",
+     "start": 110.962,
+     "end": 111.189
+    },
+    {
+     "text": "you're",
+     "start": 111.189,
+     "end": 111.508
+    },
+    {
+     "text": "searchin",
+     "start": 111.508,
+     "end": 112.065
+    },
+    {
+     "text": "for",
+     "start": 112.065,
+     "end": 112.332
+    },
+    {
+     "text": "then",
+     "start": 112.332,
+     "end": 112.536
+    },
+    {
+     "text": "just",
+     "start": 112.536,
+     "end": 112.884
+    },
+    {
+     "text": "stay",
+     "start": 112.884,
+     "end": 113.162
+    },
+    {
+     "text": "the",
+     "start": 113.162,
+     "end": 113.47
+    },
+    {
+     "text": "same",
+     "start": 113.47,
+     "end": 114.438
+    }
+   ]
+  },
+  {
+   "start": 114.438,
+   "end": 118.38,
+   "words": [
+    {
+     "text": "So",
+     "start": 114.538,
+     "end": 115.145
+    },
+    {
+     "text": "don't",
+     "start": 115.145,
+     "end": 115.368
+    },
+    {
+     "text": "even",
+     "start": 115.368,
+     "end": 115.763
+    },
+    {
+     "text": "bother",
+     "start": 115.763,
+     "end": 116.332
+    },
+    {
+     "text": "askin",
+     "start": 116.332,
+     "end": 116.895
+    },
+    {
+     "text": "if",
+     "start": 116.895,
+     "end": 117.133
+    },
+    {
+     "text": "you",
+     "start": 117.133,
+     "end": 117.464
+    },
+    {
+     "text": "look",
+     "start": 117.464,
+     "end": 117.667
+    },
+    {
+     "text": "okay",
+     "start": 117.667,
+     "end": 118.38
+    }
+   ]
+  },
+  {
+   "start": 118.38,
+   "end": 121.252,
+   "words": [
+    {
+     "text": "You",
+     "start": 118.48,
+     "end": 118.637
+    },
+    {
+     "text": "know",
+     "start": 118.637,
+     "end": 118.848
+    },
+    {
+     "text": "I'll",
+     "start": 118.848,
+     "end": 119.252
+    },
+    {
+     "text": "say",
+     "start": 119.252,
+     "end": 121.252
+    }
+   ]
+  },
+  {
+   "start": 121.793,
+   "end": 125.327,
+   "words": [
+    {
+     "text": "When",
+     "start": 121.893,
+     "end": 122.236
+    },
+    {
+     "text": "I",
+     "start": 122.236,
+     "end": 122.369
+    },
+    {
+     "text": "see",
+     "start": 122.369,
+     "end": 122.794
+    },
+    {
+     "text": "your",
+     "start": 122.794,
+     "end": 123.327
+    },
+    {
+     "text": "face",
+     "start": 123.327,
+     "end": 125.327
+    }
+   ]
+  },
+  {
+   "start": 126.501,
+   "end": 131.122,
+   "words": [
+    {
+     "text": "There's",
+     "start": 126.601,
+     "end": 126.92
+    },
+    {
+     "text": "not",
+     "start": 126.92,
+     "end": 127.228
+    },
+    {
+     "text": "a",
+     "start": 127.228,
+     "end": 127.727
+    },
+    {
+     "text": "thing",
+     "start": 127.727,
+     "end": 128.313
+    },
+    {
+     "text": "that",
+     "start": 128.313,
+     "end": 128.919
+    },
+    {
+     "text": "I",
+     "start": 128.919,
+     "end": 129.387
+    },
+    {
+     "text": "would",
+     "start": 129.387,
+     "end": 129.782
+    },
+    {
+     "text": "change",
+     "start": 129.782,
+     "end": 131.122
+    }
+   ]
+  },
+  {
+   "start": 131.122,
+   "end": 133.93,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 131.222,
+     "end": 131.561
+    },
+    {
+     "text": "you're",
+     "start": 131.561,
+     "end": 131.93
+    },
+    {
+     "text": "amazing",
+     "start": 131.93,
+     "end": 133.93
+    }
+   ]
+  },
+  {
+   "start": 134.175,
+   "end": 138.533,
+   "words": [
+    {
+     "text": "Just",
+     "start": 134.275,
+     "end": 134.943
+    },
+    {
+     "text": "the",
+     "start": 134.943,
+     "end": 135.365
+    },
+    {
+     "text": "way",
+     "start": 135.365,
+     "end": 135.986
+    },
+    {
+     "text": "you",
+     "start": 135.986,
+     "end": 136.533
+    },
+    {
+     "text": "are",
+     "start": 136.533,
+     "end": 138.533
+    }
+   ]
+  },
+  {
+   "start": 139.655,
+   "end": 142.832,
+   "words": [
+    {
+     "text": "And",
+     "start": 139.755,
+     "end": 140.071
+    },
+    {
+     "text": "when",
+     "start": 140.071,
+     "end": 140.371
+    },
+    {
+     "text": "you",
+     "start": 140.371,
+     "end": 140.832
+    },
+    {
+     "text": "smile",
+     "start": 140.832,
+     "end": 142.832
+    }
+   ]
+  },
+  {
+   "start": 144.189,
+   "end": 148.606,
+   "words": [
+    {
+     "text": "The",
+     "start": 144.289,
+     "end": 144.515
+    },
+    {
+     "text": "whole",
+     "start": 144.515,
+     "end": 144.852
+    },
+    {
+     "text": "world",
+     "start": 144.852,
+     "end": 145.369
+    },
+    {
+     "text": "stops",
+     "start": 145.369,
+     "end": 145.976
+    },
+    {
+     "text": "and",
+     "start": 145.976,
+     "end": 146.326
+    },
+    {
+     "text": "stares",
+     "start": 146.326,
+     "end": 147.064
+    },
+    {
+     "text": "for",
+     "start": 147.064,
+     "end": 147.358
+    },
+    {
+     "text": "a",
+     "start": 147.358,
+     "end": 147.592
+    },
+    {
+     "text": "while",
+     "start": 147.592,
+     "end": 148.606
+    }
+   ]
+  },
+  {
+   "start": 148.606,
+   "end": 151.548,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 148.706,
+     "end": 148.956
+    },
+    {
+     "text": "girl",
+     "start": 148.956,
+     "end": 149.269
+    },
+    {
+     "text": "you're",
+     "start": 149.269,
+     "end": 149.548
+    },
+    {
+     "text": "amazing",
+     "start": 149.548,
+     "end": 151.548
+    }
+   ]
+  },
+  {
+   "start": 151.793,
+   "end": 156.186,
+   "words": [
+    {
+     "text": "Just",
+     "start": 151.893,
+     "end": 152.596
+    },
+    {
+     "text": "the",
+     "start": 152.596,
+     "end": 152.956
+    },
+    {
+     "text": "way",
+     "start": 152.956,
+     "end": 153.603
+    },
+    {
+     "text": "you",
+     "start": 153.603,
+     "end": 154.186
+    },
+    {
+     "text": "are",
+     "start": 154.186,
+     "end": 156.186
+    }
+   ]
+  },
+  {
+   "start": 157.07,
+   "end": 160.616,
+   "words": [
+    {
+     "text": "The",
+     "start": 157.17,
+     "end": 157.513
+    },
+    {
+     "text": "way",
+     "start": 157.513,
+     "end": 158.067
+    },
+    {
+     "text": "you",
+     "start": 158.067,
+     "end": 158.616
+    },
+    {
+     "text": "are",
+     "start": 158.616,
+     "end": 160.616
+    }
+   ]
+  },
+  {
+   "start": 161.573,
+   "end": 165.01,
+   "words": [
+    {
+     "text": "The",
+     "start": 161.673,
+     "end": 161.936
+    },
+    {
+     "text": "way",
+     "start": 161.936,
+     "end": 162.353
+    },
+    {
+     "text": "you",
+     "start": 162.353,
+     "end": 163.01
+    },
+    {
+     "text": "are",
+     "start": 163.01,
+     "end": 165.01
+    }
+   ]
+  },
+  {
+   "start": 166.555,
+   "end": 169.079,
+   "words": [
+    {
+     "text": "Girl",
+     "start": 166.655,
+     "end": 166.797
+    },
+    {
+     "text": "you're",
+     "start": 166.797,
+     "end": 167.079
+    },
+    {
+     "text": "amazing",
+     "start": 167.079,
+     "end": 169.079
+    }
+   ]
+  },
+  {
+   "start": 169.44,
+   "end": 173.822,
+   "words": [
+    {
+     "text": "Just",
+     "start": 169.54,
+     "end": 170.196
+    },
+    {
+     "text": "the",
+     "start": 170.196,
+     "end": 170.667
+    },
+    {
+     "text": "way",
+     "start": 170.667,
+     "end": 171.181
+    },
+    {
+     "text": "you",
+     "start": 171.181,
+     "end": 171.822
+    },
+    {
+     "text": "are",
+     "start": 171.822,
+     "end": 173.822
+    }
+   ]
+  },
+  {
+   "start": 174.804,
+   "end": 178.226,
+   "words": [
+    {
+     "text": "When",
+     "start": 174.904,
+     "end": 175.137
+    },
+    {
+     "text": "I",
+     "start": 175.137,
+     "end": 175.345
+    },
+    {
+     "text": "see",
+     "start": 175.345,
+     "end": 175.763
+    },
+    {
+     "text": "your",
+     "start": 175.763,
+     "end": 176.226
+    },
+    {
+     "text": "face",
+     "start": 176.226,
+     "end": 178.226
+    }
+   ]
+  },
+  {
+   "start": 179.472,
+   "end": 184.069,
+   "words": [
+    {
+     "text": "There's",
+     "start": 179.572,
+     "end": 179.85
+    },
+    {
+     "text": "not",
+     "start": 179.85,
+     "end": 180.169
+    },
+    {
+     "text": "a",
+     "start": 180.169,
+     "end": 180.645
+    },
+    {
+     "text": "thing",
+     "start": 180.645,
+     "end": 181.243
+    },
+    {
+     "text": "that",
+     "start": 181.243,
+     "end": 181.818
+    },
+    {
+     "text": "I",
+     "start": 181.818,
+     "end": 182.317
+    },
+    {
+     "text": "would",
+     "start": 182.317,
+     "end": 182.7
+    },
+    {
+     "text": "change",
+     "start": 182.7,
+     "end": 184.069
+    }
+   ]
+  },
+  {
+   "start": 184.069,
+   "end": 186.831,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 184.169,
+     "end": 184.43
+    },
+    {
+     "text": "you're",
+     "start": 184.43,
+     "end": 184.831
+    },
+    {
+     "text": "amazing",
+     "start": 184.831,
+     "end": 186.831
+    }
+   ]
+  },
+  {
+   "start": 187.088,
+   "end": 191.463,
+   "words": [
+    {
+     "text": "Just",
+     "start": 187.188,
+     "end": 187.873
+    },
+    {
+     "text": "the",
+     "start": 187.873,
+     "end": 188.389
+    },
+    {
+     "text": "way",
+     "start": 188.389,
+     "end": 188.899
+    },
+    {
+     "text": "you",
+     "start": 188.899,
+     "end": 189.463
+    },
+    {
+     "text": "are",
+     "start": 189.463,
+     "end": 191.463
+    }
+   ]
+  },
+  {
+   "start": 192.614,
+   "end": 195.62,
+   "words": [
+    {
+     "text": "And",
+     "start": 192.714,
+     "end": 193.068
+    },
+    {
+     "text": "when",
+     "start": 193.068,
+     "end": 193.318
+    },
+    {
+     "text": "you",
+     "start": 193.318,
+     "end": 193.62
+    },
+    {
+     "text": "smile",
+     "start": 193.62,
+     "end": 195.62
+    }
+   ]
+  },
+  {
+   "start": 197.078,
+   "end": 201.327,
+   "words": [
+    {
+     "text": "The",
+     "start": 197.178,
+     "end": 197.48
+    },
+    {
+     "text": "whole",
+     "start": 197.48,
+     "end": 197.799
+    },
+    {
+     "text": "world",
+     "start": 197.799,
+     "end": 198.304
+    },
+    {
+     "text": "stops",
+     "start": 198.304,
+     "end": 198.92
+    },
+    {
+     "text": "and",
+     "start": 198.92,
+     "end": 199.425
+    },
+    {
+     "text": "stares",
+     "start": 199.425,
+     "end": 199.976
+    },
+    {
+     "text": "for",
+     "start": 199.976,
+     "end": 200.272
+    },
+    {
+     "text": "a",
+     "start": 200.272,
+     "end": 200.545
+    },
+    {
+     "text": "while",
+     "start": 200.545,
+     "end": 201.327
+    }
+   ]
+  },
+  {
+   "start": 201.327,
+   "end": 204.452,
+   "words": [
+    {
+     "text": "Cause",
+     "start": 201.427,
+     "end": 201.834
+    },
+    {
+     "text": "girl",
+     "start": 201.834,
+     "end": 202.092
+    },
+    {
+     "text": "you're",
+     "start": 202.092,
+     "end": 202.452
+    },
+    {
+     "text": "amazing",
+     "start": 202.452,
+     "end": 204.452
+    }
+   ]
+  },
+  {
+   "start": 204.781,
+   "end": 209.139,
+   "words": [
+    {
+     "text": "Just",
+     "start": 204.881,
+     "end": 205.514
+    },
+    {
+     "text": "the",
+     "start": 205.514,
+     "end": 206.065
+    },
+    {
+     "text": "way",
+     "start": 206.065,
+     "end": 206.575
+    },
+    {
+     "text": "you",
+     "start": 206.575,
+     "end": 207.139
+    },
+    {
+     "text": "are",
+     "start": 207.139,
+     "end": 209.139
+    }
+   ]
+  },
+  {
+   "start": 210.284,
+   "end": 212.384,
+   "words": [
+    {
+     "text": "Yeah",
+     "start": 210.384,
+     "end": 212.384
+    }
+   ]
+  }
+ ]
+}

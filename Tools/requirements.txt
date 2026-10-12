@@ -1,0 +1,11 @@
+# Install torch first with the CUDA build for your GPU (much faster), e.g.:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cu128
+#   (cu128 is needed for RTX 50-series cards)
+torch
+torchaudio
+demucs==4.0.1
+transformers
+librosa
+soundfile
+numpy
+pronouncing   # syllable counts (CMU pronouncing dictionary)
